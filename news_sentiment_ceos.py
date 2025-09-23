@@ -41,8 +41,6 @@ from typing import List
 
 import pandas as pd
 
-from email_utils import check_and_send_alerts
-
 
 # -------- Defaults (can be overridden by CLI flags) -------- #
 DEFAULT_ALIASES = "data/ceo_aliases.csv"
@@ -214,22 +212,6 @@ def main(argv: List[str] | None = None) -> int:
     aliases = load_aliases(Path(args.aliases))
     articles = load_articles(Path(args.articles_dir), args.date)
     daily_rows = aggregate_counts(aliases, articles, args.date)
-
-    # --- Add alerting ---
-    KIT_API_KEY = os.environ.get("KIT_API_KEY")
-    KIT_TAG_ID = os.environ.get("KIT_TAG_ID")
-    if KIT_API_KEY and KIT_TAG_ID:
-        counts_for_alerting = daily_rows.rename(columns={"ceo": "brand"})[
-            ["brand", "negative", "total"]
-        ].to_dict("records")
-        check_and_send_alerts(
-            counts_for_alerting,
-            args.date,
-            KIT_API_KEY,
-            KIT_TAG_ID,
-            entity_type="CEO",
-        )
-    # --------------------
 
     daily_path = write_daily_file(Path(args.daily_dir), args.date, daily_rows)
     master_path = upsert_master_index(Path(args.out), args.date, daily_rows)
