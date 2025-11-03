@@ -93,7 +93,7 @@ ALWAYS_NEGATIVE_TERMS = [
     r"\bexit(s)?\b", r"\bstep\s+down\b", r"\bsteps\s+down\b",
     r"\bstill\b",
     r"\bturnaround\b",
-    r"\bface\b",
+    r"\bface\b", r"\baccused\b", r"\bcommitted\b"
     r"\bremoved\b",
     r"\baware\b",
     r"\bloss\b",
