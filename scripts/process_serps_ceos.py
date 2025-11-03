@@ -86,17 +86,14 @@ NEUTRALIZE_TITLE_TERMS = [
 NEUTRALIZE_TITLE_RE = re.compile("|".join(NEUTRALIZE_TITLE_TERMS), flags=re.IGNORECASE)
 
 ALWAYS_NEGATIVE_TERMS = [
-    r"\bpay\b",
-    r"\bpaid\b",
-    r"\bcompensation\b",
+    r"\bpaid\b", r"\bcompensation\b", r"\bpay\b",
     r"\bmandate\b",
-    r"\bexit(s)?\b", r"\bstep\s+down\b", r"\bsteps\s+down\b",
+    r"\bexit(s)?\b", r"\bstep\s+down\b", r"\bsteps\s+down\b", r"\bremoved\b",
     r"\bstill\b",
     r"\bturnaround\b",
     r"\bface\b", r"\baccused\b", r"\bcommitted\b"
-    r"\bremoved\b",
     r"\baware\b",
-    r"\bloss\b",
+    r"\bloss\b", r"\bdivorce\b", r"\bbankcruptcy\b",
     r"\bunion\s+buster\b",
 ]
 ALWAYS_NEGATIVE_RE = re.compile("|".join(ALWAYS_NEGATIVE_TERMS), re.IGNORECASE)
