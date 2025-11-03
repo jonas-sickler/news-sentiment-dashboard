@@ -81,7 +81,7 @@ LEGAL_TROUBLE_TERMS = [
     r"\bftc\b", r"\bsec\b", r"\bdoj\b", r"\bcfpb\b"
     r"\bantitrust\b", r"\bban(s|ed)?\b"
     r"\brecall\b",
-    r"\blayoffs\b",
+    r"\blayoffs\b",r"\bexit(s)?\b", r"\bstep\s+down\b", r"\bsteps\s+down\b",
     r"\bprobe(s|d)?\b", r"\binvestigation(s)?\b",
     r"\bsanction(s|ed)?\b",
     r"\bpenalt(y|ies)\b",
