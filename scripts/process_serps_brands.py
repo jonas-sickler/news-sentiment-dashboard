@@ -64,10 +64,10 @@ ALWAYS_CONTROLLED_DOMAINS: Set[str] = {
 # Words/phrases to ignore for title-based sentiment classification
 # (Customize this list for BRANDS—examples shown)
 NEUTRALIZE_TITLE_TERMS = [
-    r"\bkilled\b",            # e.g., "killed" in title
-    r"\bmlm\b",          # e.g., "mlm" in title
-    r"\bmad\s+money\b",    # CNBC show causes false negatives
-    # Add your brand-specific terms here
+    r"\bkilled\b",
+    r"\bmlm\b",
+    r"\bmad\s+money\b",
+    r"\brate\s+cut\b",
 ]
 NEUTRALIZE_TITLE_RE = re.compile("|".join(NEUTRALIZE_TITLE_TERMS), flags=re.IGNORECASE)
 
