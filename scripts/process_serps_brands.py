@@ -85,7 +85,7 @@ LEGAL_TROUBLE_TERMS = [
     r"\bprobe(s|d)?\b", r"\binvestigation(s)?\b",
     r"\bsanction(s|ed)?\b",
     r"\bpenalt(y|ies)\b",
-    r"\bfraud\b", r"\bembezzl(e|ement)\b",
+    r"\bfraud\b", r"\bembezzl(e|ement)\b", r"\baccused\b", r"\bcommitted\b"
 ]
 LEGAL_TROUBLE_RE = re.compile("|".join(LEGAL_TROUBLE_TERMS), flags=re.IGNORECASE)
 
