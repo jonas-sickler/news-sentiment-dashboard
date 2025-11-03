@@ -73,19 +73,16 @@ NEUTRALIZE_TITLE_RE = re.compile("|".join(NEUTRALIZE_TITLE_TERMS), flags=re.IGNO
 
 # Force-negative if the title mentions legal trouble
 LEGAL_TROUBLE_TERMS = [
-    r"\blawsuit(s)?\b",
-    r"\bsued\b",
-    r"\bsettlement(s)?\b",
-    r"\bfine(d)?\b",
-    r"\bclass[- ]action\b",
+    r"\blawsuit(s)?\b", r"\bsued\b",
+    r"\bsettlement(s)?\b", r"\bfine(d)?\b", r"\bclass[- ]action\b",
     r"\bftc\b", r"\bsec\b", r"\bdoj\b", r"\bcfpb\b"
     r"\bantitrust\b", r"\bban(s|ed)?\b"
     r"\brecall\b",
     r"\blayoffs\b",r"\bexit(s)?\b", r"\bstep\s+down\b", r"\bsteps\s+down\b",
     r"\bprobe(s|d)?\b", r"\binvestigation(s)?\b",
-    r"\bsanction(s|ed)?\b",
-    r"\bpenalt(y|ies)\b",
+    r"\bsanction(s|ed)?\b", r"\bpenalt(y|ies)\b",
     r"\bfraud\b", r"\bembezzl(e|ement)\b", r"\baccused\b", r"\bcommitted\b"
+    r"\bdivorce\b", r"\bbankcruptcy\b",
 ]
 LEGAL_TROUBLE_RE = re.compile("|".join(LEGAL_TROUBLE_TERMS), flags=re.IGNORECASE)
 
