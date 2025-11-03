@@ -81,8 +81,8 @@ def main() -> None:
     recipients = [a.strip() for a in MAILGUN_TO.split(",") if a.strip()]
 
     targets = [
-        ("Brand", "data/processed_articles/daily_counts.csv"),
-        ("CEO", "data_ceos/daily_counts.csv"),
+        ("Brand", "data/daily_counts/brand-articles-daily-counts-chart.csv"),
+        ("CEO", "data/daily_counts/ceo-articles-daily-counts-chart.csv"),
     ]
 
     any_sent = False
