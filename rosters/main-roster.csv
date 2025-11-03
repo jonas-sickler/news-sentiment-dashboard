@@ -5,7 +5,7 @@ Stephen Hemsley,UnitedHealth,Stephen Hemsley UnitedHealth,member.uhc.com|uhc.com
 Tim Cook,Apple,Tim Cook Apple,apple.com,AAPL,Technology
 David Joyner,CVS Health,David Joyner CVS Health,aetnacvshealth.com|care.cvs.com|cvs.com|cvshealth.com,CVS,Health Care
 Warren Buffett,Berkshire Hathaway,Warren Buffett Berkshire Hathaway,berkshirehathaway.com|bhhc.com|bhhs.com,BRKA,Financials
-Sundar Pichai,Alphabet,Sundar Pichai Alphabet,abc.xyz|google.com,GOOGL,Technology
+Sundar Pichai,Alphabet Inc,Sundar Pichai Alphabet,abc.xyz|google.com,GOOGL,Technology
 Darren Woods,Exxon Mobil,Darren Woods Exxon Mobil,corporate.exxonmobil.com|exxon.com,XOM,Energy
 Brian Tyler,McKesson,Brian Tyler McKesson,mckesson.com|mckesson.wd3.myworkdayjobs.com,MCK,Health Care
 Robert Mauch,Cencora,Robert Mauch Cencora,cencora.com,COR,Health Care
@@ -76,7 +76,7 @@ Ryan Lance,ConocoPhillips,Ryan Lance ConocoPhillips,conocophillips.com,COP,Energ
 Ernie Herrman,TJX,Ernie Herrman TJX,tjx.com|tjx.syf.com,TJX,Retailing
 Bob Michael,AbbVie,Bob Michael AbbVie,abbvie.com|abbviecontractmfg.com,ABBV,Health Care
 AJ Jim Teague,Enterprise Products Partners,AJ Jim Teague Enterprise Products Partners,enterpriseproducts.com,EPD,Energy
-Christopher Winfrey,Charter Communications,Christopher Winfrey Charter Communications,corporate.charter.com,CHTR,Telecommunications
+Christopher Winfrey,Charter Communications,Christopher Winfrey Charter Communications,charter.com|spectrum.com,CHTR,Telecommunications
 George Holm,Performance Food,George Holm Performance Food,performancefoodservice.com|pfgc.com|pfgcustomized.com,PFGC,Wholesalers
 Robert Isom,American Airlines,Robert Isom American Airlines,aa.com|americanairlines.ie,AAL,Transportation
 Richard Fairbank,Capital One,Richard Fairbank Capital One,capitalone.com|capitalonecareers.com|capitalonetravel.com,COF,Financials
@@ -86,8 +86,8 @@ Donnie King,Tyson Foods,Donnie King Tyson Foods,tyson.com|tysonfoods.com|tysonfo
 Lip-Bu Tan,Intel,Lip-Bu Tan Intel,intel.com|intelcapital.com,INTC,Technology
 Clay Magouyrk,Oracle,Clay Magouyrk Oracle,oracle.com,ORCL,Technology
 Mike Sicilia,Oracle,Mike Sicilia Oracle,oracle.com,ORCL,Technology
-Hock Tan,Broadcom,Hock Tan Broadcom,broadcom.com,AVGO,Technology
-John May,Deere,John May Deere,deere.com|deerequipment.com,DE,Industrials
+Hock Tan,Broadcom,Hock Tan Broadcom,broadcom.com|vmware.com|broadcomfoundation.org,AVGO,Technology
+John May,John Deere & Company,John May John Deere & Company,deere.com|deerequipment.com,DE,Industrials
 Elliott Hill,Nike,Elliott Hill Nike,nike.com|nikesb.com,NKE,Apparel
 Timothy M Sweeney,Liberty Mutual Insurance,Timothy M Sweeney Liberty Mutual Insurance,libertymutual.com|libertymutualgroup.com,,Financials
 Willie Chiang,Plains GP,Willie Chiang Plains GP,plains.com,PAGP,Energy
@@ -110,7 +110,7 @@ Tim Gerend,Northwestern Mutual,Tim Gerend Northwestern Mutual,media.nmfn.com|myn
 Kathy Warden,Northrop Grumman,Kathy Warden Northrop Grumman,ngfcu.us|northropgrumman.com,NOC,Aerospace & Defense
 Joe Zubretsky,Molina Healthcare,Joe Zubretsky Molina Healthcare,molinahealthcare.com|molinamarketplace.com,MOH,Health Care
 Todd Vasos,Dollar General,Todd Vasos Dollar General,dollargeneral.com|familydollar.com,DG,Retailing
-Robin Vince,Bank of New York Mellon,Robin Vince Bank of New York Mellon,login.bnymellonwealth.com,BK,Financials
+Robin Vince,Bank of New York Mellon,Robin Vince Bank of New York Mellon,bnymellonwealth.com|bnymellon.com|bny.com,BK,Financials
 David Zaslav,Warner Bros Discovery,David Zaslav Warner Bros Discovery,ir.corporate.discovery.com|wbd.com,WBD,Media
 Jay Debertin,CHS,Jay Debertin CHS,chs.net|chsinc.com|iflychs.com|www-chs.stjohns.k12.fl.us,,"Food, Beverages & Tobacco"
 Ted Sarandos,Netflix,Ted Sarandos Netflix,ir.netflix.net|netflix.com,NFLX,Media
@@ -625,7 +625,6 @@ Doug Shulman,OneMain,Doug Shulman OneMain,asktrim.com|onemain.youronlineaccount.
 Ryan Cohen,GameStop,Ryan Cohen GameStop,gamestop.com,GME,Retailing
 Mark W Begor,Equifax,Mark W Begor Equifax,equifax.com|equifaxsecurity2017.com,EFX,Business Services
 Jay L Schottenstein,American Eagle Outfitters,Jay L Schottenstein American Eagle Outfitters,aeo-inc.com,AEO,Retailing
-Curtis C Farmer,Comerica,Curtis C Farmer Comerica,comerica.com,CMA,Financials
 Ole Rosgaard,Greif,Ole Rosgaard Greif,greif.com,GEF,Materials
 Brian E Lane,Comfort Systems USA,Brian E Lane Comfort Systems USA,comfortsystemsusa.com|csusasoutheast.com|csusasw.com,FIX,Engineering & Construction
 Robert M Buck,TopBuild,Robert M Buck TopBuild,topbuild.com|topbuildhomeservices.com,BLD,Engineering & Construction
@@ -715,7 +714,7 @@ John J Marchioni,Selective Insurance Group,John J Marchioni Selective Insurance 
 Lawson E Whiting,Brown-Forman,Lawson E Whiting Brown-Forman,brown-forman.com,BF B,"Food, Beverages & Tobacco"
 Dave Peacock,Advantage Solutions,Dave Peacock Advantage Solutions,advantagesolutions.okta.com,ADV,Business Services
 Mick Farrell,ResMed,Mick Farrell ResMed,careers.resmed.com|myair.resmed.com|resmed.com,RMD,Health Care
-Kamal Hathi,Splunk,Kamal Hathi Splunk,splunk.com,,Technology
+Kamal Hathi,Splunk Inc,Kamal Hathi Splunk,splunk.com,,Technology
 Todd Kelsey,Plexus Corp,Todd Kelsey Plexus Corp,plexus.com,PLXS,Technology
 Phillip D Yeager,Hub Group,Phillip D Yeager Hub Group,hubgroup.com,HUBG,Transportation
 Steven B Hedlund,Lincoln Electric,Steven B Hedlund Lincoln Electric,les.com|lincolnelectric.com|lincolnelectric.coop,LECO,Industrials
@@ -748,7 +747,7 @@ NADominic Ng,East West Bancorp,NADominic Ng East West Bancorp,eastwestbank.com,E
 Mark Wang,Hilton Grand Vacations,Mark Wang Hilton Grand Vacations,careers.hgv.com|corporate.hgv.com|hilton.com|hiltongrandvacations.com,HGV,"Hotels, Restaurants & Leisure"
 Robert J Sheedy Jr,Grocery Outlet Holding,Robert J Sheedy Jr Grocery Outlet Holding,groceryoutlet.com|investors.groceryoutlet.com,GO,Food & Drug Stores
 Simon D Campion,Dentsply Sirona,Simon D Campion Dentsply Sirona,dentsplysirona.com,XRAY,Health Care
-Jeremy Wensinger,V2X,Jeremy Wensinger V2X,gov2x.com,VVX,Aerospace & Defense
+Jeremy Wensinger,v2x Inc,Jeremy Wensinger V2X,gov2x.com,VVX,Aerospace & Defense
 Andrew Rees,Crocs,Andrew Rees Crocs,crocs.com|crocs.eu,CROX,Apparel
 David M Maura,Spectrum Brands,David M Maura Spectrum Brands,spectrumbrands.com|spectrumbrands.eu,SPB,Household Products
 Sachin S Lawande,Visteon,Sachin S Lawande Visteon,visteon.com,VC,Motor Vehicles & Parts
@@ -833,7 +832,7 @@ Dave Guilmette,Alight Solutions,Dave Guilmette Alight Solutions,alight.com|aligh
 Joel Smejkal,Vishay Intertechnology,Joel Smejkal Vishay Intertechnology,vishay.com,VSH,Technology
 Dennis Degner,Range Resources,Dennis Degner Range Resources,rangeresources.com,RRC,Energy
 Ira D Robbins,Valley National Bancorp,Ira D Robbins Valley National Bancorp,ir.valleynationalbank.com|valley.com,VLY,Financials
-Bernard Kim,Match Group,Bernard Kim Match Group,match.com,MTCH,Technology
+Bernard Kim,Match Group,Bernard Kim Match Group,match.com|mtch.com,MTCH,Technology
 Vincent Pilette,Gen Digital,Vincent Pilette Gen Digital,gendigital.com,GEN,Technology
 Timothy S Crane,Wintrust Financial,Timothy S Crane Wintrust Financial,wintrust.com|wintrustbank.com|wintrustdigitalbanking.com,WTFC,Financials
 Pat Roche,Moog Inc,Pat Roche Moog Inc,moog.com|moogmusic.com|moogparts.com,MOG A,Aerospace & Defense
@@ -871,7 +870,7 @@ Matthew J Cox,Matson Inc,Matthew J Cox Matson Inc,matson.com,MATX,Transportation
 David W Grzebinski,Kirby Corporation,David W Grzebinski Kirby Corporation,kirbycorp.com,KEX,Transportation
 Keith A Harvey,Kaiser Aluminum,Keith A Harvey Kaiser Aluminum,kaiseraluminum.com|web.greaterspokane.org,KALU,Materials
 Eric Nyman,Vista Outdoor,Eric Nyman Vista Outdoor,investors.vistaoutdoor.com,VSTO,Business Services
-Doug Howe,Designer Brands,Doug Howe Designer Brands,designerbrands.com,DBI,Retailing
+Doug Howe,Designer Brands Inc,Doug Howe Designer Brands,designerbrands.com|dsw.com,DBI,Retailing
 Jerry E Gahlhoff Jr,Rollins Inc,Jerry E Gahlhoff Jr Rollins Inc,rollins.com,ROL,Business Services
 D Scott Barbour,Advanced Drainage Systems,D Scott Barbour Advanced Drainage Systems,adspipe.com|investors.ads-pipe.com,WMS,Materials
 Sean Gamble,Cinemark,Sean Gamble Cinemark,cinemark.com,CNK,Media
@@ -994,6 +993,7 @@ Paul Bay,Ingram Micro,Paul Bay Ingram Micro,ingrammicro.com,INGM,Telecommunicati
 Casey Wasserman,Wasserman,Casey Wasserman,wassermanfoundation.org|wassermanprojects.com|teamwass.com,,Business Services
 
 Mac Cummings,Terakeet,Mac Cummings Terakeet,terakeet.com,,Business Services
+
 
 
 
