@@ -69,6 +69,9 @@ NEUTRALIZE_TITLE_TERMS = [
     r"\bmad\s+money\b",
     r"\brate\s+cut\b",
     r"\bone\s+stop\s+shop\b",
+    r"\bfuneral\b",
+    r"\bcremation\b",
+    r"\bcemetery\b",
 ]
 NEUTRALIZE_TITLE_RE = re.compile("|".join(NEUTRALIZE_TITLE_TERMS), flags=re.IGNORECASE)
 
