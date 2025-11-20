@@ -233,16 +233,75 @@ def load_roster_domains(path: str = MAIN_ROSTER_PATH) -> Dict[str, Set[str]]:
 # -----------------------
 # Control classification
 # -----------------------
+def _is_brand_youtube_channel(company: str, url: str) -> bool:
+    """
+    Treat brand-owned YouTube channels as controlled if the path slug
+    contains the normalized brand token.
+
+    Examples for company="Terakeet" that should be controlled:
+      https://www.youtube.com/user/Terakeet
+      https://www.youtube.com/@TerakeetSyracuse
+      https://www.youtube.com/Terakeet
+    """
+    if not url or not company:
+        return False
+
+    parsed = urlparse(url)
+    host = (parsed.hostname or "").lower().replace("www.", "")
+
+    # Limit to YouTube main hosts so we don't overreach
+    if host not in {"youtube.com", "m.youtube.com"}:
+        return False
+
+    # Normalize company name to a token (reuses your existing logic)
+    brand_token = _norm_token(company)
+    if not brand_token:
+        return False
+
+    # Strip leading/trailing slashes from path
+    path = (parsed.path or "").strip("/")
+
+    if not path:
+        # Just youtube.com (homepage) → not clearly brand-owned
+        return False
+
+    # Extract the "slug" part for:
+    #   /user/BRAND
+    #   /@BRANDHANDLE
+    #   /BRAND
+    if path.lower().startswith("user/"):
+        slug = path[5:]  # after "user/"
+    elif path.startswith("@"):
+        slug = path[1:]  # after "@"
+    else:
+        # First path segment (handles /BRAND, /BRAND/..., but avoids /watch, /results, etc.)
+        slug = path.split("/", 1)[0]
+
+    if not slug:
+        return False
+
+    slug_token = _norm_token(slug)
+
+    # Require the brand token to appear in the slug token
+    # e.g. terakeet in terakeetsyracuse
+    return bool(slug_token) and brand_token in slug_token
+
 def classify_control(company: str, url: str, company_domains: Dict[str, Set[str]]) -> bool:
     """
     Classify if a URL is controlled by a company using three rules:
     (1) Always-controlled platforms (social media, etc.)
     (2) Domains specific to this company from the roster
     (3) Domain contains the company's brand token
+    Plus a special rule for brand-owned YouTube channels (path-based).
     """
     host = _hostname(url)
     if not host:
         return False
+
+    # Special rule: brand-owned YouTube channels (youtube.com/BRAND,
+    # youtube.com/user/BRAND, youtube.com/@BRANDHANDLE)
+    if _is_brand_youtube_channel(company, url):
+        return True
 
     # Rule 1: Always-controlled social platforms
     for good in ALWAYS_CONTROLLED_DOMAINS:
@@ -258,15 +317,11 @@ def classify_control(company: str, url: str, company_domains: Dict[str, Set[str]
     # Rule 3: Domain contains the brand token (proper subdomain matching)
     brand_token = _norm_token(company)
     if brand_token:
-        # Split hostname into parts and normalize each part
-        # For "news.apple.com": parts are ["news", "apple", "com"]
-        # For "apple.com": parts are ["apple", "com"]
         host_parts = host.split('.')
         normalized_parts = [_norm_token(part) for part in host_parts if part]
-        
-        # Check if brand_token matches any part of the domain (except TLD)
-        # This prevents false positives like "pineapple.com" matching "apple"
-        if brand_token in normalized_parts[:-1]:  # Exclude the TLD (last part)
+
+        # Exclude TLD to avoid false positives
+        if brand_token in normalized_parts[:-1]:
             return True
 
     return False
