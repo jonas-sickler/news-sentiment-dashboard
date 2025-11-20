@@ -6,6 +6,26 @@ from pathlib import Path
 from bs4 import BeautifulSoup
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 
+# Words in titles that should NOT contribute to sentiment (often part of brand names)
+NEUTRALIZE_TITLE_TERMS = [
+    r"\bgrand\b",
+    r"\bdiamond\b",
+    r"\bsell\b",
+    r"\blow\b",
+]
+
+NEUTRALIZE_TITLE_RE = re.compile("|".join(NEUTRALIZE_TITLE_TERMS), flags=re.IGNORECASE)
+
+
+def _strip_neutral_terms(headline: str) -> str:
+    """Remove configured neutral terms from a headline so they don't affect sentiment."""
+    if not headline:
+        return ""
+    # Replace them with a space, then normalize whitespace
+    cleaned = NEUTRALIZE_TITLE_RE.sub(" ", headline)
+    return " ".join(cleaned.split())
+
+
 # Updated paths to use rosters/main-roster.csv and new output directory
 BASE = Path(__file__).parent.parent
 MAIN_ROSTER = BASE / "rosters" / "main-roster.csv"
@@ -20,10 +40,18 @@ def google_news_rss(q):
     return f"https://news.google.com/rss/search?q={qs}&hl=en-US&gl=US&ceid=US:en"
 
 def classify(headline, analyzer):
-    s = analyzer.polarity_scores(headline or "")
+    # Remove neutral words (e.g., Grand, Diamond, Sell, Low) so they don't skew sentiment
+    cleaned = _strip_neutral_terms(headline or "")
+
+    # Fall back to original headline if everything got stripped out
+    text_for_sentiment = cleaned if cleaned else (headline or "")
+
+    s = analyzer.polarity_scores(text_for_sentiment)
     c = s["compound"]
-    if c >= 0.25:  return "positive"
-    if c <= -0.05: return "negative"
+    if c >= 0.25:
+        return "positive"
+    if c <= -0.05:
+        return "negative"
     return "neutral"
 
 def fetch_one(brand, analyzer, date, pause=1.2):
