@@ -91,11 +91,17 @@ ALWAYS_NEGATIVE_TERMS = [
     r"\bexit(s)?\b", r"\bstep\s+down\b", r"\bsteps\s+down\b", r"\bremoved\b",
     r"\bstill\b",
     r"\bturnaround\b",
-    r"\bface\b", r"\baccused\b", r"\bcommitted\b"
+    r"\bface\b", r"\baccused\b", r"\bcommitted\b",
     r"\baware\b",
-    r"\bloss\b", r"\bdivorce\b", r"\bbankcruptcy\b",
+    r"\bloss\b", r"\bdivorce\b", r"\bbankruptcy\b",
     r"\bunion\s+buster\b",
+    r"\bfired\b",
+    r"\bfiring\b",
+    r"(?<!t)\bax(e|ed|es)?\b",
+    r"\bsack(ed|s)?\b",
+    r"\boust(ed)?\b",
 ]
+
 ALWAYS_NEGATIVE_RE = re.compile("|".join(ALWAYS_NEGATIVE_TERMS), re.IGNORECASE)
 
 def _should_force_negative_title(title: str) -> bool:
