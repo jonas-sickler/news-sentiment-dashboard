@@ -12,10 +12,10 @@ NEUTRALIZE_TITLE_TERMS = [
     r"\bdiamond\b",
     r"\bsell\b",
     r"\blow\b",
+    r"\bdream\b",
 ]
 
 NEUTRALIZE_TITLE_RE = re.compile("|".join(NEUTRALIZE_TITLE_TERMS), flags=re.IGNORECASE)
-
 
 def _strip_neutral_terms(headline: str) -> str:
     """Remove configured neutral terms from a headline so they don't affect sentiment."""
