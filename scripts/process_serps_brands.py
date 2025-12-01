@@ -75,6 +75,7 @@ NEUTRALIZE_TITLE_TERMS = [
     r"\blimited\b",
     r"\bsell\b",
     r"\blow\b",
+    r"\bno\s+organic\b",
 ]
 NEUTRALIZE_TITLE_RE = re.compile("|".join(NEUTRALIZE_TITLE_TERMS), flags=re.IGNORECASE)
 
