@@ -13,6 +13,7 @@ NEUTRALIZE_TITLE_TERMS = [
     r"\bsell\b",
     r"\blow\b",
     r"\bdream\b",
+    r"\bdarling\b",
 ]
 
 NEUTRALIZE_TITLE_RE = re.compile("|".join(NEUTRALIZE_TITLE_TERMS), flags=re.IGNORECASE)
