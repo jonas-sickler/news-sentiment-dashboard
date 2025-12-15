@@ -96,8 +96,7 @@ ALWAYS_NEGATIVE_TERMS = [
     r"\baware\b",
     r"\bloss\b", r"\bdivorce\b", r"\bbankruptcy\b",
     r"\bunion\s+buster\b",
-    r"\bfired\b",
-    r"\bfiring\b",
+    r"\bfired\b", r"\bfiring\b", r"\bfires\b"
     r"(?<!t)\bax(e|ed|es)?\b",
     r"\bsack(ed|s)?\b",
     r"\boust(ed)?\b",
