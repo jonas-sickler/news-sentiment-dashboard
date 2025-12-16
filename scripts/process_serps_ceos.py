@@ -97,9 +97,8 @@ ALWAYS_NEGATIVE_TERMS = [
     r"\bloss\b", r"\bdivorce\b", r"\bbankruptcy\b",
     r"\bunion\s+buster\b",
     r"\bfired\b", r"\bfiring\b", r"\bfires\b"
-    r"(?<!t)\bax(e|ed|es)?\b",
-    r"\bsack(ed|s)?\b",
-    r"\boust(ed)?\b",
+    r"(?<!t)\bax(e|ed|es)?\b", r"\bsack(ed|s)?\b", r"\boust(ed)?\b",
+    r"\bplummeting\b",
 ]
 
 ALWAYS_NEGATIVE_RE = re.compile("|".join(ALWAYS_NEGATIVE_TERMS), re.IGNORECASE)
