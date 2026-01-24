@@ -118852,3 +118852,994 @@ date,company,total,controlled,negative_serp,neutral_serp,positive_serp
 2026-01-23,eXp World,7,7,0,0,7
 2026-01-23,iHeartMedia,5,3,0,1,4
 2026-01-23,v2x Inc,8,2,0,6,2
+2026-01-24,3M Company,6,3,0,3,3
+2026-01-24,A O Smith,6,3,0,3,3
+2026-01-24,A-Mark Precious Metals,6,1,0,2,4
+2026-01-24,ABM Industries,6,3,0,3,3
+2026-01-24,ADT,6,4,0,1,5
+2026-01-24,AECOM,6,5,0,1,5
+2026-01-24,AES,9,7,0,0,9
+2026-01-24,AGCO,7,5,0,2,5
+2026-01-24,AGNC Investment,6,1,0,4,2
+2026-01-24,AIG,5,2,0,3,2
+2026-01-24,AMC Entertainment,7,3,0,2,5
+2026-01-24,AMC Networks,5,3,0,2,3
+2026-01-24,AMN Healthcare Services,7,4,0,3,4
+2026-01-24,APA,9,2,0,6,3
+2026-01-24,APi Group,6,4,0,2,4
+2026-01-24,ARKO,9,3,0,6,3
+2026-01-24,ASGN,6,1,0,5,1
+2026-01-24,AT&T,6,5,0,1,5
+2026-01-24,ATI Inc,10,8,0,2,8
+2026-01-24,AbbVie,5,3,0,2,3
+2026-01-24,Abbott Laboratories,6,3,0,3,3
+2026-01-24,Abercrombie & Fitch,7,6,0,1,6
+2026-01-24,Academy Sports and Outdoors,6,2,0,3,3
+2026-01-24,Acadia Healthcare,6,3,0,3,3
+2026-01-24,Ace Hardware,6,3,0,3,3
+2026-01-24,Acuity Inc,6,3,0,3,3
+2026-01-24,Adams Resources & Energy,7,2,0,1,6
+2026-01-24,AdaptHealth,7,5,0,1,6
+2026-01-24,Adobe,5,4,0,1,4
+2026-01-24,Advance Auto Parts,6,6,0,0,6
+2026-01-24,Advanced Drainage Systems,6,3,0,0,6
+2026-01-24,Advanced Micro Devices,7,3,0,1,6
+2026-01-24,Advantage Solutions,7,3,0,0,7
+2026-01-24,Aflac,7,6,0,1,6
+2026-01-24,Agilent Technologies,5,4,0,1,4
+2026-01-24,Agilon Health,7,2,0,5,2
+2026-01-24,Air Lease,6,2,0,3,3
+2026-01-24,Air Products & Chemicals,7,3,0,4,3
+2026-01-24,Airbnb,4,4,0,0,4
+2026-01-24,Akamai Technologies,5,3,0,2,3
+2026-01-24,Alaska Air,5,3,1,1,3
+2026-01-24,Albemarle Corporation,6,4,0,2,4
+2026-01-24,Albertsons,6,4,0,2,4
+2026-01-24,Alcoa Corporation,9,6,0,3,6
+2026-01-24,Alexandria Real Estate Equities,6,2,1,3,2
+2026-01-24,Alight Solutions,8,7,0,1,7
+2026-01-24,Align Technology,7,3,1,3,3
+2026-01-24,Allegiant Travel Company,6,4,0,2,4
+2026-01-24,Alliance Resource Partners,7,2,0,5,2
+2026-01-24,Alliant Energy,6,4,0,0,6
+2026-01-24,Allison Transmission,5,3,0,2,3
+2026-01-24,Allstate,6,6,0,0,6
+2026-01-24,Ally Financial,7,5,0,2,5
+2026-01-24,Alpha Metallurgical Resources,6,3,0,3,3
+2026-01-24,Alphabet Inc,6,2,0,4,2
+2026-01-24,Altice USA,9,3,1,4,4
+2026-01-24,Altria,6,3,0,3,3
+2026-01-24,Amazon,5,4,0,1,4
+2026-01-24,Ameren,5,3,0,1,4
+2026-01-24,American Airlines,6,6,0,0,6
+2026-01-24,American Axle & Manufacturing,6,4,0,2,4
+2026-01-24,American Eagle Outfitters,7,3,0,4,3
+2026-01-24,American Electric Power,6,2,0,4,2
+2026-01-24,American Express,4,3,0,1,3
+2026-01-24,American Family Insurance,7,4,1,2,4
+2026-01-24,American Financial Group,7,3,0,4,3
+2026-01-24,American Tower,3,1,0,2,1
+2026-01-24,American Water Works,5,3,0,2,3
+2026-01-24,Americold Realty Trust,6,2,0,1,5
+2026-01-24,Ameriprise Financial,6,3,0,3,3
+2026-01-24,Ametek,8,4,0,4,4
+2026-01-24,Amgen,5,3,0,2,3
+2026-01-24,Amica Mutual Insurance,7,2,1,4,2
+2026-01-24,Amkor Technology,6,2,0,4,2
+2026-01-24,Amphenol,6,4,0,2,4
+2026-01-24,Analog Devices,6,3,0,3,3
+2026-01-24,Antero Resources,5,2,0,3,2
+2026-01-24,Anywhere Real Estate Inc,6,3,0,3,3
+2026-01-24,Apollo Global Management,6,2,0,3,3
+2026-01-24,AppLovin,5,2,0,3,2
+2026-01-24,Apple,6,3,1,2,3
+2026-01-24,Applied Industrial Technologies,7,3,0,4,3
+2026-01-24,Applied Materials,7,4,0,3,4
+2026-01-24,AptarGroup,7,4,0,3,4
+2026-01-24,Aramark,9,6,0,3,6
+2026-01-24,ArcBest,6,3,0,3,3
+2026-01-24,Arch Resources,10,5,0,4,6
+2026-01-24,Archer Daniels Midland,6,2,0,4,2
+2026-01-24,Ares Management,6,3,0,2,4
+2026-01-24,Arista Networks,6,5,0,1,5
+2026-01-24,Arrow Electronics,6,3,0,3,3
+2026-01-24,Arthur J Gallagher,6,3,0,3,3
+2026-01-24,Asbury Automotive Group,7,2,0,5,2
+2026-01-24,Assurant,8,7,0,1,7
+2026-01-24,Atkore,6,4,0,2,4
+2026-01-24,Atlassian,6,4,1,1,4
+2026-01-24,Atmos Energy,5,2,0,0,5
+2026-01-24,Auto-Owners Insurance,7,2,0,5,2
+2026-01-24,AutoNation,1,0,0,1,0
+2026-01-24,AutoZone,5,4,0,1,4
+2026-01-24,Autodesk,5,4,0,1,4
+2026-01-24,Autoliv,5,3,0,2,3
+2026-01-24,Automatic Data Processing,6,2,0,4,2
+2026-01-24,AvalonBay Communities,7,5,0,2,5
+2026-01-24,Avantor,5,3,0,2,3
+2026-01-24,Avery Dennison,7,5,0,2,5
+2026-01-24,Avient,6,3,0,3,3
+2026-01-24,Avis Budget,8,7,0,1,7
+2026-01-24,Avnet,7,4,0,3,4
+2026-01-24,BJ's Wholesale Club,6,4,0,2,4
+2026-01-24,BOK Financial,7,5,0,2,5
+2026-01-24,BWX Technologies,7,2,0,5,2
+2026-01-24,Baker Hughes,5,3,0,2,3
+2026-01-24,Ball Corporation,5,3,0,2,3
+2026-01-24,Bank of America,5,4,0,1,4
+2026-01-24,Bank of New York Mellon,9,4,0,5,4
+2026-01-24,Bath & Body Works,6,4,0,2,4
+2026-01-24,Baxter International,8,4,0,4,4
+2026-01-24,Becton Dickinson,6,5,0,1,5
+2026-01-24,Belden,6,5,0,1,5
+2026-01-24,Benchmark Electronics,6,2,0,4,2
+2026-01-24,Berkshire Hathaway,7,4,0,2,5
+2026-01-24,Berry Global,6,3,0,3,3
+2026-01-24,Best Buy,6,2,1,0,5
+2026-01-24,Bio-Rad Laboratories,7,3,0,4,3
+2026-01-24,Biogen,4,2,0,2,2
+2026-01-24,BlackRock,5,4,0,1,4
+2026-01-24,Blackstone,5,4,0,1,4
+2026-01-24,Bloomin Brands,5,1,0,3,2
+2026-01-24,BlueLinx,6,3,1,2,3
+2026-01-24,Boeing,4,3,0,1,3
+2026-01-24,Boise Cascade,6,3,0,3,3
+2026-01-24,Booking Holdings,7,3,0,4,3
+2026-01-24,Booz Allen Hamilton,4,1,0,3,1
+2026-01-24,BorgWarner,5,3,0,2,3
+2026-01-24,Boston Properties,7,2,0,4,3
+2026-01-24,Boston Scientific,6,4,0,2,4
+2026-01-24,Boyd Gaming,5,3,0,2,3
+2026-01-24,Bread Financial,7,5,0,2,5
+2026-01-24,BrightSpring Health Services,7,4,0,3,4
+2026-01-24,BrightView Holdings,8,3,0,5,3
+2026-01-24,Brighthouse Financial,5,3,0,2,3
+2026-01-24,Brinker International,5,3,0,2,3
+2026-01-24,Brinks Company,7,4,0,2,5
+2026-01-24,Bristol-Myers Squibb,4,2,0,2,2
+2026-01-24,Broadcom,5,3,0,2,3
+2026-01-24,Broadridge Financial Solutions,5,3,0,2,3
+2026-01-24,Brookdale Senior Living,7,5,0,2,5
+2026-01-24,Brown & Brown,6,4,0,1,5
+2026-01-24,Brown-Forman,6,4,0,2,4
+2026-01-24,Bruker,9,6,0,3,6
+2026-01-24,Brunswick Corporation,6,4,0,2,4
+2026-01-24,Builders FirstSource,5,3,0,2,3
+2026-01-24,Burlington Stores,5,3,0,2,3
+2026-01-24,CACI International,6,3,0,3,3
+2026-01-24,CBRE Group,6,4,0,2,4
+2026-01-24,CDW,6,4,0,1,5
+2026-01-24,CF Industries,6,3,0,3,3
+2026-01-24,CH Robinson Worldwide,6,3,0,2,4
+2026-01-24,CHS,7,3,0,4,3
+2026-01-24,CIncinnati Financial,7,2,0,5,2
+2026-01-24,CME Group,6,4,0,2,4
+2026-01-24,CMS Energy,9,5,0,0,9
+2026-01-24,CNO Financial Group,7,2,0,5,2
+2026-01-24,CNX Resources,4,1,0,3,1
+2026-01-24,CSX,5,2,0,3,2
+2026-01-24,CVS Health,7,4,0,3,4
+2026-01-24,Cabot Corporation,9,5,0,4,5
+2026-01-24,Cadence,9,8,0,1,8
+2026-01-24,Caesars Entertainment,5,1,0,0,5
+2026-01-24,Cal-Maine Foods,6,2,1,2,3
+2026-01-24,Caleres Inc,8,4,0,4,4
+2026-01-24,California Resources,5,1,0,3,2
+2026-01-24,Calumet Inc,7,2,0,5,2
+2026-01-24,Campbell Soup,6,2,0,4,2
+2026-01-24,Camping World,5,2,0,3,2
+2026-01-24,Capital One,5,4,0,1,4
+2026-01-24,CarMax,5,3,0,2,3
+2026-01-24,Cardinal Health,10,7,0,3,7
+2026-01-24,Carlisle Companies,6,3,0,3,3
+2026-01-24,Carlyle Group,7,3,0,4,3
+2026-01-24,Carpenter Technology,7,2,0,5,2
+2026-01-24,Carrier Global,7,4,0,3,4
+2026-01-24,Carters Inc,6,2,0,4,2
+2026-01-24,Carvana,6,3,0,3,3
+2026-01-24,Caseys General Stores,5,1,0,4,1
+2026-01-24,Catalent,6,3,0,3,3
+2026-01-24,Caterpillar,7,3,0,3,4
+2026-01-24,Cboe Global Markets,6,3,0,3,3
+2026-01-24,Celanese,4,2,0,2,2
+2026-01-24,Cencora,4,3,0,1,3
+2026-01-24,Centene,7,5,0,2,5
+2026-01-24,CenterPoint Energy,5,4,0,0,5
+2026-01-24,Central Garden & Pet,7,3,0,4,3
+2026-01-24,Century Communities,5,2,0,3,2
+2026-01-24,ChampionX,6,2,0,4,2
+2026-01-24,Charles River Laboratories International,7,2,0,5,2
+2026-01-24,Charles Schwab,6,4,0,2,4
+2026-01-24,Chart Industries,7,4,0,3,4
+2026-01-24,Charter Communications,5,3,0,2,3
+2026-01-24,Cheesecake Factory,5,4,0,1,4
+2026-01-24,Chefs Warehouse,6,5,0,1,5
+2026-01-24,Chemours,5,2,0,3,2
+2026-01-24,Cheniere Energy,7,3,0,0,7
+2026-01-24,Chevron,5,2,0,2,3
+2026-01-24,Chewy,6,4,0,2,4
+2026-01-24,Chipotle Mexican Grill,6,4,0,2,4
+2026-01-24,Chord Energy,7,2,0,0,7
+2026-01-24,Church & Dwight,7,3,0,4,3
+2026-01-24,Ciena,5,2,0,3,2
+2026-01-24,Cigna,6,5,0,1,5
+2026-01-24,Cinemark,7,4,0,3,4
+2026-01-24,Cintas,7,5,0,2,5
+2026-01-24,Cisco Systems,5,3,0,2,3
+2026-01-24,Citigroup,7,2,0,4,3
+2026-01-24,Citizens Financial Group,7,2,0,5,2
+2026-01-24,Civitas Resources,6,3,0,2,4
+2026-01-24,Clean Harbors,7,5,0,0,7
+2026-01-24,Clear Channel Outdoor Hldgs,7,3,0,0,7
+2026-01-24,Cleveland-Cliffs,5,2,0,3,2
+2026-01-24,Clorox,5,3,0,2,3
+2026-01-24,Cognizant Technology Solutions,6,4,0,2,4
+2026-01-24,Coherent,5,3,0,2,3
+2026-01-24,Coinbase Global,8,3,0,5,3
+2026-01-24,Colgate-Palmolive,7,5,0,2,5
+2026-01-24,Columbia Banking System,7,4,0,3,4
+2026-01-24,Columbia Sportswear,6,4,0,2,4
+2026-01-24,Comcast,5,4,0,1,4
+2026-01-24,Comfort Systems USA,7,4,0,0,7
+2026-01-24,CommScope,7,3,0,4,3
+2026-01-24,Commercial Metals,7,4,0,2,5
+2026-01-24,Community Health Systems,7,3,0,4,3
+2026-01-24,Compass Group,8,6,0,2,6
+2026-01-24,Conagra Brands,6,4,0,2,4
+2026-01-24,Concentrix,5,3,1,0,4
+2026-01-24,Conduent,6,3,1,2,3
+2026-01-24,ConocoPhillips,5,2,0,3,2
+2026-01-24,Consol Energy,10,5,0,0,10
+2026-01-24,Consolidated Edison,5,2,0,3,2
+2026-01-24,Constellation Brands,6,3,0,3,3
+2026-01-24,Constellation Energy,6,3,0,0,6
+2026-01-24,Continental Resources,6,2,0,4,2
+2026-01-24,Cooper Cos,7,2,0,5,2
+2026-01-24,Cooper-Standard,5,2,0,3,2
+2026-01-24,Copart,6,5,0,1,5
+2026-01-24,Core & Main,6,3,0,3,3
+2026-01-24,Corebridge Financial,7,2,0,5,2
+2026-01-24,Cornerstone Building Brands,4,2,0,2,2
+2026-01-24,Corning,8,5,0,2,6
+2026-01-24,Corpay,6,3,0,2,4
+2026-01-24,Corteva,4,2,0,2,2
+2026-01-24,Costco,6,3,0,3,3
+2026-01-24,Coterra Energy,6,2,0,3,3
+2026-01-24,Coty,7,4,0,3,4
+2026-01-24,Country Financial,7,4,0,3,4
+2026-01-24,Coupang,6,5,0,1,5
+2026-01-24,Cracker Barrel,6,3,0,1,5
+2026-01-24,Crocs,6,3,0,3,3
+2026-01-24,CrossAmerica Partners,7,4,0,3,4
+2026-01-24,CrowdStrike,4,3,0,1,3
+2026-01-24,Crown Castle,5,2,0,3,2
+2026-01-24,Crown Holdings,5,2,0,3,2
+2026-01-24,Cullen Frost Bankers,6,1,0,5,1
+2026-01-24,Cummins Inc,6,4,0,2,4
+2026-01-24,Curtiss-Wright,6,3,0,3,3
+2026-01-24,DR Horton Inc,6,3,0,3,3
+2026-01-24,DTE Energy,4,3,0,0,4
+2026-01-24,DXC Technology,6,4,0,2,4
+2026-01-24,DaVita,8,2,0,6,2
+2026-01-24,Dana Incorporated,6,3,0,3,3
+2026-01-24,Danaher,6,3,0,3,3
+2026-01-24,Darden Restaurants,4,1,0,3,1
+2026-01-24,Darling Ingredients,6,4,1,0,5
+2026-01-24,Deckers Outdoor,8,3,0,5,3
+2026-01-24,Delek US,8,3,0,5,3
+2026-01-24,Dell Technologies,5,4,0,1,4
+2026-01-24,Delta Air Lines,6,4,0,2,4
+2026-01-24,Dentsply Sirona,6,3,0,3,3
+2026-01-24,Designer Brands Inc,7,3,0,4,3
+2026-01-24,Devon Energy,7,4,0,0,7
+2026-01-24,DexCom,7,3,1,3,3
+2026-01-24,Diamondback Energy,6,4,0,0,6
+2026-01-24,Dicks Sporting Goods,6,5,0,1,5
+2026-01-24,Diebold Nixdorf,7,4,0,3,4
+2026-01-24,Digital Realty Trust,6,2,0,2,4
+2026-01-24,Dillards,6,3,0,2,4
+2026-01-24,Discover Financial,6,2,0,4,2
+2026-01-24,Disney,8,6,0,2,6
+2026-01-24,DocuSign,6,3,0,2,4
+2026-01-24,Dollar General Corporation,8,5,0,3,5
+2026-01-24,Dollar Tree,5,3,0,2,3
+2026-01-24,Dominion Energy,5,3,0,0,5
+2026-01-24,Dominos Pizza Inc,9,6,0,3,6
+2026-01-24,Domtar,7,4,0,3,4
+2026-01-24,Donaldson Company,6,4,0,2,4
+2026-01-24,DoorDash,7,6,0,1,6
+2026-01-24,Dover Corporation,6,2,0,4,2
+2026-01-24,DraftKings,7,5,0,2,5
+2026-01-24,Dream Finders Homes,5,3,0,0,5
+2026-01-24,Dropbox,6,4,0,2,4
+2026-01-24,DuPont de Nemours,5,1,0,4,1
+2026-01-24,Duke Energy,4,3,0,0,4
+2026-01-24,Dycom Industries,6,2,0,4,2
+2026-01-24,EMCOR Group,6,3,0,3,3
+2026-01-24,EOG Resources,5,2,0,3,2
+2026-01-24,EPAM Systems,6,3,0,3,3
+2026-01-24,EQT,8,5,0,3,5
+2026-01-24,ESAB,6,4,0,2,4
+2026-01-24,East West Bancorp,6,2,0,4,2
+2026-01-24,Eastman Chemical,7,4,0,3,4
+2026-01-24,Ebay,6,5,0,1,5
+2026-01-24,EchoStar,5,2,0,3,2
+2026-01-24,Ecolab,7,6,0,1,6
+2026-01-24,Edison International,6,2,0,3,3
+2026-01-24,Edward Jones,6,6,0,0,6
+2026-01-24,Edwards Lifesciences,5,2,0,3,2
+2026-01-24,Elanco Animal Health,5,4,0,1,4
+2026-01-24,Electronic Arts,5,3,0,2,3
+2026-01-24,Elevance Health,6,5,0,1,5
+2026-01-24,Eli Lilly,3,1,0,2,1
+2026-01-24,Emerson Electric,7,4,0,3,4
+2026-01-24,EnLink Midstream,7,2,0,5,2
+2026-01-24,Encompass Health,7,3,0,4,3
+2026-01-24,Endeavor Group,9,2,0,7,2
+2026-01-24,Endeavor Group Holdings,10,1,1,8,1
+2026-01-24,EnerSys,7,5,0,2,5
+2026-01-24,Energizer Holdings,8,3,0,0,8
+2026-01-24,Energy Transfer,7,4,0,0,7
+2026-01-24,Ensign Group,7,2,0,5,2
+2026-01-24,Entegris,6,4,0,2,4
+2026-01-24,Entergy,6,5,0,1,5
+2026-01-24,Enterprise Products Partners,5,2,0,3,2
+2026-01-24,Envista Holdings,7,5,0,2,5
+2026-01-24,Equifax,7,3,1,3,3
+2026-01-24,Equinix,4,3,0,1,3
+2026-01-24,Equitable Holdings,7,4,0,3,4
+2026-01-24,Equity Residential,6,3,0,3,3
+2026-01-24,Erie Insurance,7,5,1,1,5
+2026-01-24,Estée Lauder,7,3,1,3,3
+2026-01-24,Etsy,5,3,0,2,3
+2026-01-24,Euronet Worldwide,6,3,0,3,3
+2026-01-24,Evergy,6,4,0,2,4
+2026-01-24,Eversource Energy,6,4,0,0,6
+2026-01-24,Exact Sciences,6,4,0,2,4
+2026-01-24,Exelon,5,2,0,3,2
+2026-01-24,Expand Energy Corporation,6,2,0,0,6
+2026-01-24,Expedia,5,5,0,0,5
+2026-01-24,Expeditors International of Washington,6,2,0,4,2
+2026-01-24,Extra Space Storage,4,2,0,2,2
+2026-01-24,Exxon Mobil,6,2,0,3,3
+2026-01-24,F5,5,2,0,3,2
+2026-01-24,FM Global,8,6,1,1,6
+2026-01-24,FMC Corporation,6,3,0,3,3
+2026-01-24,FTI Consulting,7,3,1,3,3
+2026-01-24,Fannie Mae,5,1,0,4,1
+2026-01-24,Farmers Insurance Exchange,9,7,0,2,7
+2026-01-24,Fastenal,6,3,0,3,3
+2026-01-24,FedEx,5,4,0,1,4
+2026-01-24,Federated Mutual Insurance,7,2,0,5,2
+2026-01-24,Fidelity National Financial,7,2,0,4,3
+2026-01-24,Fidelity National Information Services,6,1,0,5,1
+2026-01-24,Fifth Third Bancorp,8,5,0,3,5
+2026-01-24,First American Financial,6,2,0,3,3
+2026-01-24,First Citizens BancShares,5,1,0,3,2
+2026-01-24,First Horizon,5,4,0,1,4
+2026-01-24,First National of Nebraska,7,3,0,4,3
+2026-01-24,First Solar,8,2,0,6,2
+2026-01-24,FirstCash,7,4,0,3,4
+2026-01-24,FirstEnergy,8,7,0,1,7
+2026-01-24,Fiserv,5,4,0,1,4
+2026-01-24,Five Below,5,2,0,3,2
+2026-01-24,Flagstar Financial,5,2,0,3,2
+2026-01-24,Floor & Decor,5,3,0,2,3
+2026-01-24,Flowers Foods,6,3,0,3,3
+2026-01-24,Flowserve,8,6,0,2,6
+2026-01-24,Fluor,5,3,0,2,3
+2026-01-24,Foot Locker,5,5,0,0,5
+2026-01-24,Ford Motor,6,2,0,4,2
+2026-01-24,Fortinet,6,3,1,2,3
+2026-01-24,Fortive,5,2,0,3,2
+2026-01-24,Fortune Brands Innovations,7,2,0,4,3
+2026-01-24,Franklin Resources,7,2,0,5,2
+2026-01-24,Freddie Mac,4,2,0,2,2
+2026-01-24,Freeport-McMoRan,6,2,0,3,3
+2026-01-24,Frontier Airlines,6,4,0,2,4
+2026-01-24,Frontier Communications,5,4,0,1,4
+2026-01-24,G-III Apparel Group,6,3,0,3,3
+2026-01-24,GE HealthCare Technologies,7,3,0,4,3
+2026-01-24,GE Vernova,4,2,0,2,2
+2026-01-24,GEICO,7,5,1,1,5
+2026-01-24,GMS,8,4,0,4,4
+2026-01-24,GXO Logistics,5,2,0,3,2
+2026-01-24,GameStop,6,3,1,2,3
+2026-01-24,Gannett,7,2,0,5,2
+2026-01-24,Gap Inc,6,5,0,1,5
+2026-01-24,Garrett Motion Inc,6,2,0,4,2
+2026-01-24,Gartner,4,4,0,0,4
+2026-01-24,Gen Digital,7,3,1,3,3
+2026-01-24,Generac,8,2,0,6,2
+2026-01-24,General Dynamics,5,4,0,0,5
+2026-01-24,General Mills,5,3,0,2,3
+2026-01-24,General Motors,5,4,0,1,4
+2026-01-24,Genesis Energy,7,3,0,2,5
+2026-01-24,Genuine Parts Company,6,3,0,3,3
+2026-01-24,Genworth Financial,7,2,0,4,3
+2026-01-24,Gilead Sciences,4,1,0,3,1
+2026-01-24,Global Partners,7,5,0,2,5
+2026-01-24,Global Payments,5,2,0,2,3
+2026-01-24,Globe Life,7,5,1,1,5
+2026-01-24,GoDaddy,5,4,0,1,4
+2026-01-24,Goldman Sachs,4,3,0,1,3
+2026-01-24,Goodyear Tire & Rubber,7,2,0,5,2
+2026-01-24,Graham Holdings Company,7,3,0,4,3
+2026-01-24,Granite Construction,6,3,0,3,3
+2026-01-24,Graphic Packaging,5,2,0,3,2
+2026-01-24,Gray Television,7,3,0,3,4
+2026-01-24,Graybar Electric,6,3,0,3,3
+2026-01-24,Green Plains Inc,7,3,0,4,3
+2026-01-24,Greif,6,3,0,3,3
+2026-01-24,Griffon Corporation,7,2,0,5,2
+2026-01-24,Grocery Outlet Holding,6,2,0,4,2
+2026-01-24,Group 1 Automotive,7,4,0,3,4
+2026-01-24,Guardian Life insurance,6,2,0,4,2
+2026-01-24,Guess Inc,6,4,0,2,4
+2026-01-24,GuideWell Mutual,8,3,0,5,3
+2026-01-24,HB Fuller,6,4,0,2,4
+2026-01-24,HCA Healthcare,6,4,0,2,4
+2026-01-24,HEICO,7,4,0,3,4
+2026-01-24,HF Sinclair,9,7,0,2,7
+2026-01-24,HP,4,3,0,1,3
+2026-01-24,Halliburton,6,3,0,3,3
+2026-01-24,Hanesbrands,6,3,0,2,4
+2026-01-24,Hanover Insurance Group,7,3,0,4,3
+2026-01-24,Harley-Davidson,6,4,0,2,4
+2026-01-24,Hasbro,6,5,0,1,5
+2026-01-24,Hawaiian Airlines Inc,6,3,0,3,3
+2026-01-24,Hawaiian Electric Industries,6,3,0,3,3
+2026-01-24,Helmerich & Payne,6,3,0,3,3
+2026-01-24,Henry Schein,7,5,0,2,5
+2026-01-24,Herc Rentals,6,2,1,3,2
+2026-01-24,Hershey,10,7,0,1,9
+2026-01-24,Hertz,7,4,0,3,4
+2026-01-24,Hewlett Packard Enterprise,6,4,0,2,4
+2026-01-24,Hillenbrand,6,1,0,4,2
+2026-01-24,Hilton Grand Vacations,6,5,1,0,5
+2026-01-24,Hilton Worldwide,10,7,0,3,7
+2026-01-24,Hologic,5,4,0,1,4
+2026-01-24,Home Depot,5,2,0,2,3
+2026-01-24,Honeywell,7,4,0,2,5
+2026-01-24,Hormel Foods,7,4,0,3,4
+2026-01-24,Host Hotels & Resorts,6,3,0,3,3
+2026-01-24,Hovnanian Enterprises,6,2,0,4,2
+2026-01-24,Howmet Aerospace,6,3,0,3,3
+2026-01-24,Hub Group,6,3,0,3,3
+2026-01-24,Hubbell,6,4,0,2,4
+2026-01-24,Humana,7,6,0,1,6
+2026-01-24,Huntington Bancshares,5,2,0,3,2
+2026-01-24,Huntington Ingalls Industries,4,2,0,2,2
+2026-01-24,Huntsman Corporation,7,4,0,3,4
+2026-01-24,Hyatt Hotels,7,1,1,3,3
+2026-01-24,Hyster-Yale,6,4,0,2,4
+2026-01-24,IAC,10,3,0,7,3
+2026-01-24,IBM,3,1,0,2,1
+2026-01-24,IDEX,6,4,0,2,4
+2026-01-24,IDEXX Laboratories,6,4,0,2,4
+2026-01-24,IQVIA,8,4,0,4,4
+2026-01-24,ITT,6,3,0,3,3
+2026-01-24,Icahn Enterprises,6,2,1,3,2
+2026-01-24,Illinois Tool Works,7,2,0,5,2
+2026-01-24,Illumina Inc,6,3,0,2,4
+2026-01-24,Incyte,4,3,0,1,3
+2026-01-24,Ingersoll Rand,7,5,0,2,5
+2026-01-24,Ingles Markets,7,4,0,2,5
+2026-01-24,Ingram Micro,10,6,0,4,6
+2026-01-24,Ingredion,6,5,0,1,5
+2026-01-24,Insight Enterprises,7,5,0,2,5
+2026-01-24,Insperity,6,6,0,0,6
+2026-01-24,Instacart,6,5,0,1,5
+2026-01-24,Installed Building Products,6,2,0,4,2
+2026-01-24,Intel,4,1,0,3,1
+2026-01-24,Interactive Brokers,6,3,0,3,3
+2026-01-24,Intercontinental Exchange,6,2,0,4,2
+2026-01-24,International Flavors & Fragrances,6,3,0,3,3
+2026-01-24,International Paper,6,3,0,3,3
+2026-01-24,Interpublic Group,8,4,0,4,4
+2026-01-24,Intuit,5,2,0,3,2
+2026-01-24,Intuitive Surgical,6,4,0,2,4
+2026-01-24,Iron Mountain,7,5,0,2,5
+2026-01-24,JB Hunt Transport Services,8,3,0,5,3
+2026-01-24,JELD-WEN Holding,7,5,0,2,5
+2026-01-24,JM Smucker,6,4,0,2,4
+2026-01-24,JPMorgan Chase,4,3,0,1,3
+2026-01-24,Jabil,6,5,0,1,5
+2026-01-24,Jackson Financial,7,3,0,4,3
+2026-01-24,Jacobs Solutions,7,4,0,3,4
+2026-01-24,Jefferies Financial,6,2,0,3,3
+2026-01-24,JetBlue Airways,6,4,0,2,4
+2026-01-24,John Deere & Company,7,6,0,1,6
+2026-01-24,Johnson & Johnson,5,2,0,3,2
+2026-01-24,Jones Lang LaSalle,6,4,0,2,4
+2026-01-24,Juniper Networks,8,4,0,4,4
+2026-01-24,KB Home,7,3,0,4,3
+2026-01-24,KBR,7,5,0,2,5
+2026-01-24,KKR & Co,6,2,0,4,2
+2026-01-24,KLA,5,3,0,2,3
+2026-01-24,Kaiser Aluminum,7,2,0,5,2
+2026-01-24,Kellanova,6,3,0,3,3
+2026-01-24,Kelly Services Inc,7,6,0,1,6
+2026-01-24,Kemper Corporation,8,3,0,5,3
+2026-01-24,Kenvue,6,2,0,4,2
+2026-01-24,Keurig Dr Pepper,5,2,0,3,2
+2026-01-24,KeyCorp,8,2,0,6,2
+2026-01-24,Keysight Technologies,5,2,0,3,2
+2026-01-24,Kiewit Corporation,6,3,0,3,3
+2026-01-24,Kimberly-Clark,6,4,0,2,4
+2026-01-24,Kinder Morgan,5,2,0,0,5
+2026-01-24,Kirby Corporation,8,3,0,4,4
+2026-01-24,Knife River Corporation,7,4,1,2,4
+2026-01-24,Knight Swift Transportation,5,2,0,2,3
+2026-01-24,Kohl's,6,5,0,1,5
+2026-01-24,Kontoor Brands,6,3,0,3,3
+2026-01-24,Korn Ferry,4,2,0,2,2
+2026-01-24,Kraft Heinz,4,2,0,2,2
+2026-01-24,Kroger,5,5,0,0,5
+2026-01-24,Kyndryl,5,2,1,2,2
+2026-01-24,L3Harris Technologies,4,1,0,3,1
+2026-01-24,LCI Industries,9,4,0,5,4
+2026-01-24,LKQ,6,3,0,3,3
+2026-01-24,LPL Financial,5,2,1,2,2
+2026-01-24,Labcorp Holdings,8,2,0,6,2
+2026-01-24,Lam Research,6,3,0,3,3
+2026-01-24,Lamb Weston,5,3,0,2,3
+2026-01-24,Land O'Lakes,5,4,0,1,4
+2026-01-24,Landstar System,7,3,1,3,3
+2026-01-24,Las Vegas Sands,5,2,0,3,2
+2026-01-24,Lear Corporation,7,4,0,3,4
+2026-01-24,Leggett & Platt,6,3,0,3,3
+2026-01-24,Leidos,5,2,0,3,2
+2026-01-24,Lennar,5,3,0,2,3
+2026-01-24,Lennox International,8,4,0,4,4
+2026-01-24,Levi Strauss,8,4,0,4,4
+2026-01-24,Liberty Energy,8,4,0,0,8
+2026-01-24,Liberty Media,5,2,0,0,5
+2026-01-24,Liberty Mutual Insurance,8,6,0,0,8
+2026-01-24,Light & Wonder,7,2,0,5,2
+2026-01-24,Lincoln Electric,7,6,0,1,6
+2026-01-24,Lincoln National,7,2,0,5,2
+2026-01-24,Lithia Motors,5,3,0,2,3
+2026-01-24,Live Nation Entertainment,5,3,0,0,5
+2026-01-24,Lockheed Martin,5,2,0,2,3
+2026-01-24,Loews,10,4,0,5,5
+2026-01-24,Louisiana-Pacific Corporation,7,3,0,4,3
+2026-01-24,Lowe's Companies,8,7,0,1,7
+2026-01-24,Lululemon athletica,6,3,0,3,3
+2026-01-24,Lumen Technologies,4,3,0,1,3
+2026-01-24,Lyft,5,5,0,0,5
+2026-01-24,M&T Bank,7,6,0,1,6
+2026-01-24,M/I Homes,5,4,0,1,4
+2026-01-24,MDU Resources Group,7,2,0,5,2
+2026-01-24,MGM Resorts International,6,5,0,1,5
+2026-01-24,MKS Instruments,6,2,0,4,2
+2026-01-24,MRC Global,7,5,0,2,5
+2026-01-24,MSC Industrial Direct,6,3,0,3,3
+2026-01-24,MSCI,5,2,0,3,2
+2026-01-24,MYR Group,5,1,0,4,1
+2026-01-24,Macys,6,3,0,2,4
+2026-01-24,ManpowerGroup,5,3,0,1,4
+2026-01-24,Marathon Oil,9,4,0,5,4
+2026-01-24,Marathon Petroleum,6,1,0,5,1
+2026-01-24,Markel Group,10,3,0,7,3
+2026-01-24,Marriott International,8,7,0,1,7
+2026-01-24,Marriott Vacations Worldwide,7,4,0,2,5
+2026-01-24,Marsh & McLennan,9,6,0,2,7
+2026-01-24,Martin Marietta Materials,7,3,0,4,3
+2026-01-24,Marvell Technology,6,3,1,2,3
+2026-01-24,MasTec,6,3,0,3,3
+2026-01-24,Masco,7,3,0,4,3
+2026-01-24,Mass Mutual,8,7,0,1,7
+2026-01-24,MasterBrand,9,6,0,3,6
+2026-01-24,Mastercard,8,5,0,2,6
+2026-01-24,Matador Resources,7,2,0,5,2
+2026-01-24,Match Group,5,3,0,2,3
+2026-01-24,Mativ,8,2,0,6,2
+2026-01-24,Matson Inc,7,3,0,4,3
+2026-01-24,Mattel,9,8,0,1,8
+2026-01-24,Maximus,8,4,0,4,4
+2026-01-24,McCormick & Company,7,5,0,2,5
+2026-01-24,McDonalds,8,7,0,1,7
+2026-01-24,McKesson,6,3,1,2,3
+2026-01-24,Medical Mutual of Ohio,7,4,0,3,4
+2026-01-24,Merck,5,2,0,3,2
+2026-01-24,Mercury General,7,2,0,5,2
+2026-01-24,Meritage Homes,6,4,0,2,4
+2026-01-24,MetLife Inc,7,3,0,4,3
+2026-01-24,Meta Platforms,9,4,0,5,4
+2026-01-24,Mettler-Toledo International,9,5,0,4,5
+2026-01-24,Microchip Technology,5,2,0,3,2
+2026-01-24,Micron Technology,7,3,0,4,3
+2026-01-24,Microsoft,6,4,0,1,5
+2026-01-24,Middleby,5,4,0,1,4
+2026-01-24,MillerKnoll,4,2,0,2,2
+2026-01-24,Moderna,3,2,0,1,2
+2026-01-24,ModivCare,8,5,0,3,5
+2026-01-24,Mohawk Industries,6,4,0,2,4
+2026-01-24,Molina Healthcare,6,2,0,4,2
+2026-01-24,Molson Coors Beverage,5,2,0,3,2
+2026-01-24,Mondelez,5,3,0,2,3
+2026-01-24,Monster Beverage,6,2,0,4,2
+2026-01-24,Moodys Corporation,10,6,0,3,7
+2026-01-24,Moog Inc,5,3,0,2,3
+2026-01-24,Morgan Stanley,5,4,0,1,4
+2026-01-24,Motorola Solutions,9,7,0,2,7
+2026-01-24,Mueller Industries,6,4,0,2,4
+2026-01-24,Murphy Oil,5,2,0,2,3
+2026-01-24,Murphy USA,8,6,0,2,6
+2026-01-24,Mutual of Omaha,7,3,0,4,3
+2026-01-24,NCR Atleos,5,3,0,2,3
+2026-01-24,NCR Voyix,7,4,0,3,4
+2026-01-24,NGL Energy Partners,7,2,0,0,7
+2026-01-24,NLV Financial,10,3,0,5,5
+2026-01-24,NOV,8,2,0,6,2
+2026-01-24,NRG Energy,6,4,0,0,6
+2026-01-24,NVR Inc,7,4,0,3,4
+2026-01-24,Nasdaq Inc,7,2,0,5,2
+2026-01-24,Nationwide Mutual Insurance Company,7,3,0,4,3
+2026-01-24,Navient,7,1,2,3,2
+2026-01-24,NetApp,6,3,1,2,3
+2026-01-24,Netflix,5,4,0,1,4
+2026-01-24,NeueHealth,7,3,0,4,3
+2026-01-24,New York Life Insurance,6,2,0,3,3
+2026-01-24,NewMarket Corporation,7,2,0,4,3
+2026-01-24,Newell Brands,6,3,0,3,3
+2026-01-24,Newmont,9,5,0,4,5
+2026-01-24,News Corp,7,3,0,4,3
+2026-01-24,Nexstar Media Group,7,4,0,3,4
+2026-01-24,NextEra Energy,7,3,1,0,6
+2026-01-24,NiSource,6,4,0,2,4
+2026-01-24,Nike,6,4,0,2,4
+2026-01-24,Nordson,6,3,0,3,3
+2026-01-24,Nordstrom,6,5,0,1,5
+2026-01-24,Norfolk Southern,4,1,0,3,1
+2026-01-24,Northern Trust,6,5,0,0,6
+2026-01-24,Northrop Grumman,6,4,0,2,4
+2026-01-24,Northwestern Mutual,7,4,1,2,4
+2026-01-24,Nucor,7,3,0,4,3
+2026-01-24,Nvidia,5,3,0,2,3
+2026-01-24,O'Reilly Automotive,6,2,1,3,2
+2026-01-24,O-I Glass,6,3,0,3,3
+2026-01-24,ODP Business Solutions,7,3,1,3,3
+2026-01-24,OGE Energy,7,2,0,2,5
+2026-01-24,ON Semiconductor,7,2,0,5,2
+2026-01-24,Occidental Petroleum,6,1,0,5,1
+2026-01-24,Old Dominion Freight Line,5,4,0,1,4
+2026-01-24,Old National Bancorp,6,4,0,2,4
+2026-01-24,Old Republic International,6,3,0,3,3
+2026-01-24,Olin Corporation,7,2,0,5,2
+2026-01-24,Omnicom Group,5,1,0,4,1
+2026-01-24,OneMain,7,4,1,2,4
+2026-01-24,Oneok,4,2,0,2,2
+2026-01-24,Opendoor Technologies,6,2,0,4,2
+2026-01-24,Option Care Health,7,2,0,0,7
+2026-01-24,Oracle,10,8,0,2,8
+2026-01-24,Organon,6,2,0,3,3
+2026-01-24,Oscar Health,6,4,0,2,4
+2026-01-24,Oshkosh Corporation,6,4,0,2,4
+2026-01-24,Otis Worldwide,6,2,0,4,2
+2026-01-24,Ovintiv,7,3,0,4,3
+2026-01-24,Owens & Minor,6,3,0,3,3
+2026-01-24,Owens Corning,6,5,0,1,5
+2026-01-24,PACS Group,7,2,0,4,3
+2026-01-24,PBF Energy,7,3,0,0,7
+2026-01-24,PC Connection Inc,7,2,0,4,3
+2026-01-24,PENN Entertainment,6,4,0,0,6
+2026-01-24,PNC Financial Services,8,7,0,1,7
+2026-01-24,PPG Industries,6,4,0,2,4
+2026-01-24,PPL Corporation,7,3,0,4,3
+2026-01-24,PVH,8,4,0,4,4
+2026-01-24,Paccar,6,5,0,1,5
+2026-01-24,Pacific Gas and Electric Company,8,7,0,1,7
+2026-01-24,Pacific Life,5,3,0,2,3
+2026-01-24,Packaging Corp of America,7,3,0,3,4
+2026-01-24,Palo Alto Networks,5,3,0,2,3
+2026-01-24,Par Pacific,8,2,0,5,3
+2026-01-24,Paramount Global,4,2,0,2,2
+2026-01-24,Park Hotels & Resorts,7,2,0,5,2
+2026-01-24,Parker-Hannifin,8,5,0,3,5
+2026-01-24,Parsons Corporation,7,4,0,3,4
+2026-01-24,Patrick Industries,6,3,0,3,3
+2026-01-24,Patterson Companies Inc,7,4,0,3,4
+2026-01-24,Patterson-UTI Energy,7,4,0,1,6
+2026-01-24,PayPal,5,3,0,2,3
+2026-01-24,Paychex,7,4,0,3,4
+2026-01-24,Peabody Energy,6,3,0,0,6
+2026-01-24,Peloton Interactive,7,3,0,4,3
+2026-01-24,Penn Mutual Life Insurance,6,3,0,3,3
+2026-01-24,PennyMac Financial Services,7,2,0,5,2
+2026-01-24,Penske Automotive,5,3,0,2,3
+2026-01-24,PepsiCo,5,3,0,2,3
+2026-01-24,Performance Food,7,5,0,2,5
+2026-01-24,Permian Resources,7,2,0,5,2
+2026-01-24,Petco Health and Wellness,10,6,0,1,9
+2026-01-24,Pfizer,4,3,0,1,3
+2026-01-24,Philip Morris International,5,1,0,4,1
+2026-01-24,Phillips 66,6,4,0,2,4
+2026-01-24,Pinnacle West Capital,10,6,0,4,6
+2026-01-24,Pinterest,6,5,0,1,5
+2026-01-24,Pioneer Natural Resources,6,3,0,0,6
+2026-01-24,Pitney Bowes,6,5,0,1,5
+2026-01-24,Plains GP,7,2,0,5,2
+2026-01-24,Playtika Holding,8,1,0,7,1
+2026-01-24,Plexus Corp,6,3,0,3,3
+2026-01-24,Polaris Inc,6,4,0,2,4
+2026-01-24,Pool Corporation,6,2,0,4,2
+2026-01-24,Popular Inc,9,4,0,0,9
+2026-01-24,Portland General Electric,6,5,0,1,5
+2026-01-24,Post Holdings,7,2,0,4,3
+2026-01-24,PrIncipal Financial,6,4,0,2,4
+2026-01-24,PriceSmart,6,5,0,1,5
+2026-01-24,Primerica,6,5,1,0,5
+2026-01-24,Primoris Services,7,4,0,3,4
+2026-01-24,ProFrac Holding,8,4,0,4,4
+2026-01-24,Procter & Gamble,5,3,0,2,3
+2026-01-24,Progressive Insurance,7,4,0,3,4
+2026-01-24,Prologis,4,2,0,2,2
+2026-01-24,Prudential Financial,6,3,0,3,3
+2026-01-24,Public Service Enterprise Group,7,5,0,2,5
+2026-01-24,Public Storage,6,4,0,2,4
+2026-01-24,Publix Super Markets,10,6,0,2,8
+2026-01-24,Puget Sound Energy,10,6,0,1,9
+2026-01-24,PulteGroup,9,5,0,4,5
+2026-01-24,Pure Storage,7,4,1,2,4
+2026-01-24,QVC Group,7,3,0,4,3
+2026-01-24,QXO Building Products,7,2,0,5,2
+2026-01-24,Qorvo,6,3,0,3,3
+2026-01-24,Qualcomm,5,3,0,2,3
+2026-01-24,Quanta Services,6,3,0,3,3
+2026-01-24,Quest Diagnostics,7,6,0,1,6
+2026-01-24,QuidelOrtho,6,2,0,4,2
+2026-01-24,REV Group,6,2,0,4,2
+2026-01-24,RPM International,7,2,0,5,2
+2026-01-24,RTX,6,2,0,4,2
+2026-01-24,RXO Inc,7,4,0,3,4
+2026-01-24,Rackspace Technology,6,4,0,2,4
+2026-01-24,Radius Recycling,7,2,0,5,2
+2026-01-24,Ralph Lauren,5,3,0,2,3
+2026-01-24,Range Resources,6,4,0,2,4
+2026-01-24,Raymond James Financial,7,4,0,1,6
+2026-01-24,Realty Income,4,2,0,2,2
+2026-01-24,Regal Rexnord,7,3,0,4,3
+2026-01-24,Regeneron Pharmaceuticals,6,2,0,4,2
+2026-01-24,Regions Financial,7,6,0,1,6
+2026-01-24,Reinsurance Group of America,5,3,0,2,3
+2026-01-24,Reliance Inc,7,3,0,4,3
+2026-01-24,Republic Services,6,2,1,2,3
+2026-01-24,ResMed,6,3,0,3,3
+2026-01-24,Resideo Technologies,7,4,0,3,4
+2026-01-24,Restoration Hardware,6,3,0,3,3
+2026-01-24,Revvity,5,1,0,4,1
+2026-01-24,Rithm Capital,6,2,0,4,2
+2026-01-24,Rivian Automotive,6,2,0,4,2
+2026-01-24,Robert Half,6,6,0,0,6
+2026-01-24,Roblox,5,4,0,1,4
+2026-01-24,Rocket Companies,6,1,0,5,1
+2026-01-24,Rockwell Automation,7,5,0,2,5
+2026-01-24,Roku,5,4,0,1,4
+2026-01-24,Rollins Inc,6,2,0,4,2
+2026-01-24,Roper Technologies,7,3,0,3,4
+2026-01-24,Ross Stores,6,2,0,4,2
+2026-01-24,Rush Enterprises,7,3,0,4,3
+2026-01-24,Ryder System,5,3,0,2,3
+2026-01-24,Ryerson Holding,8,2,0,6,2
+2026-01-24,S&P Global,7,4,0,3,4
+2026-01-24,SBA Communications,8,3,0,5,3
+2026-01-24,SS&C Technologies,6,3,0,3,3
+2026-01-24,Sabre Corporation,6,3,0,3,3
+2026-01-24,Saia Inc,7,2,0,5,2
+2026-01-24,Salesforce,3,2,0,1,2
+2026-01-24,Sallie Mae,5,3,0,2,3
+2026-01-24,Sally Beauty,6,4,0,0,6
+2026-01-24,Sanmina,5,2,0,3,2
+2026-01-24,ScanSource,7,5,0,2,5
+2026-01-24,Schneider National,7,4,0,3,4
+2026-01-24,Science Applications International,7,2,0,5,2
+2026-01-24,Scotts Miracle-Gro,6,4,0,2,4
+2026-01-24,Seaboard,9,5,0,4,5
+2026-01-24,Sealed Air Corporation,6,2,0,4,2
+2026-01-24,Securian Financial,6,3,0,2,4
+2026-01-24,Select Medical Holdings,7,3,0,4,3
+2026-01-24,Selective Insurance Group,7,2,0,5,2
+2026-01-24,Sempra,7,5,0,2,5
+2026-01-24,Sentry Insurance Group,7,3,0,4,3
+2026-01-24,Service Corp International,7,2,0,5,2
+2026-01-24,ServiceNow,4,3,0,1,3
+2026-01-24,Sherwin-Williams,6,4,0,2,4
+2026-01-24,Shift4 Payments,5,1,0,4,1
+2026-01-24,Silgan,8,6,0,2,6
+2026-01-24,Simon Property Group,5,3,0,2,3
+2026-01-24,Sinclair,7,4,0,3,4
+2026-01-24,Sirius XM,7,6,0,1,6
+2026-01-24,SiteOne Landscape Supply,6,4,0,1,5
+2026-01-24,Skechers USA,6,2,0,4,2
+2026-01-24,SkyWest,6,3,0,3,3
+2026-01-24,Skyline Champion,8,5,0,0,8
+2026-01-24,Skyworks Solutions,5,3,0,2,3
+2026-01-24,Smurfit Westrock,5,4,0,1,4
+2026-01-24,Snap Inc,7,4,0,3,4
+2026-01-24,Snap-on,6,2,1,3,2
+2026-01-24,Snowflake Inc,6,3,1,2,3
+2026-01-24,Solventum,6,5,0,1,5
+2026-01-24,Sonic Automotive,6,4,0,2,4
+2026-01-24,Sonoco Products,6,3,0,3,3
+2026-01-24,Southern Company,5,3,0,2,3
+2026-01-24,Southwest Airlines,5,4,0,1,4
+2026-01-24,Southwest Gas Holdings,7,4,0,3,4
+2026-01-24,SpartanNash,5,3,0,2,3
+2026-01-24,Spectrum Brands,8,4,0,4,4
+2026-01-24,Spire Inc,7,3,0,3,4
+2026-01-24,Spirit AeroSystems,6,2,0,3,3
+2026-01-24,Spirit Airlines,5,3,0,2,3
+2026-01-24,Splunk Inc,5,2,0,3,2
+2026-01-24,Sprouts Farmers Market,4,2,0,2,2
+2026-01-24,Stagwell,6,3,1,2,3
+2026-01-24,Stanley Black & Decker,6,4,0,2,4
+2026-01-24,Starbucks,5,3,1,1,3
+2026-01-24,State Farm Insurance,6,1,0,5,1
+2026-01-24,State Street,6,3,0,3,3
+2026-01-24,Steel Dynamics,4,2,0,0,4
+2026-01-24,Steelcase,5,3,0,2,3
+2026-01-24,Stericycle,6,4,1,1,4
+2026-01-24,Stifel Financial,6,2,0,4,2
+2026-01-24,StoneX Group,7,5,0,2,5
+2026-01-24,Stryker,6,4,0,2,4
+2026-01-24,Summit Materials,7,3,0,4,3
+2026-01-24,Sun Communities,7,6,0,1,6
+2026-01-24,Super Micro Computer,6,3,0,1,5
+2026-01-24,Surgery Partners,7,2,0,4,3
+2026-01-24,Sylvamo,7,6,0,1,6
+2026-01-24,Synchrony Financial,6,3,0,3,3
+2026-01-24,Synopsys,5,3,0,2,3
+2026-01-24,Synovus Financial,5,3,0,2,3
+2026-01-24,Sysco,7,4,0,1,6
+2026-01-24,T Rowe Price,6,5,0,1,5
+2026-01-24,TD Synnex,7,5,0,2,5
+2026-01-24,TEGNA,6,2,1,3,2
+2026-01-24,THOR Industries,6,3,0,3,3
+2026-01-24,TIAA,6,5,0,1,5
+2026-01-24,TJX,7,4,0,3,4
+2026-01-24,Take-Two Interactive Software,5,3,0,2,3
+2026-01-24,Talen Energy,6,3,0,1,5
+2026-01-24,Tapestry,8,2,0,5,3
+2026-01-24,Targa Resources,7,3,0,4,3
+2026-01-24,Target Corporation,5,2,0,3,2
+2026-01-24,Taylor Morrison Home,5,2,0,3,2
+2026-01-24,Teladoc Health,7,3,0,4,3
+2026-01-24,Teledyne Technologies,6,3,0,3,3
+2026-01-24,Teleflex,7,5,0,1,6
+2026-01-24,Telephone & Data Systems,10,5,0,5,5
+2026-01-24,TelevisaUnivision,6,5,0,1,5
+2026-01-24,Tempur Sealy International,7,4,0,3,4
+2026-01-24,Tenet Healthcare,8,2,0,6,2
+2026-01-24,Teradyne,6,3,0,3,3
+2026-01-24,Terakeet,7,5,0,2,5
+2026-01-24,Terex,6,4,0,2,4
+2026-01-24,Tesla,4,2,0,2,2
+2026-01-24,Tetra Tech,5,3,1,1,3
+2026-01-24,Texas Instruments,4,1,1,2,1
+2026-01-24,Texas Roadhouse,6,4,0,1,5
+2026-01-24,Textron,7,4,0,3,4
+2026-01-24,The Andersons Inc,6,4,0,2,4
+2026-01-24,The Coca-Cola Company,5,4,0,1,4
+2026-01-24,The Greenbrier Companies,6,3,0,3,3
+2026-01-24,The Hartford Insurance Group,6,3,0,3,3
+2026-01-24,The Mosaic Company,6,2,0,4,2
+2026-01-24,Thermo Fisher Scientific,5,4,0,1,4
+2026-01-24,Thrivent Financial for Lutherans,7,3,0,4,3
+2026-01-24,Timken,6,3,0,3,3
+2026-01-24,Titan Machinery,6,5,0,1,5
+2026-01-24,Toast Inc,7,4,0,3,4
+2026-01-24,Toll Brothers,5,4,0,1,4
+2026-01-24,TopBuild,5,3,0,2,3
+2026-01-24,Topgolf Callaway Brands,6,4,0,2,4
+2026-01-24,Toro Company,7,5,0,2,5
+2026-01-24,Tractor Supply,6,4,0,2,4
+2026-01-24,TransDigm,7,2,1,4,2
+2026-01-24,TransUnion,6,2,0,3,3
+2026-01-24,Travelers Insurance,7,3,0,4,3
+2026-01-24,TreeHouse Foods,9,6,0,3,6
+2026-01-24,Tri Pointe Homes,6,4,0,2,4
+2026-01-24,TriNet Group,8,3,0,5,3
+2026-01-24,Trimble Inc,7,5,0,2,5
+2026-01-24,Trinity Industries,9,2,0,7,2
+2026-01-24,TruStage,6,4,0,2,4
+2026-01-24,Truist Financial,7,4,0,3,4
+2026-01-24,Tutor Perini Corporation,7,5,0,2,5
+2026-01-24,Twilio,5,4,0,1,4
+2026-01-24,Tyson Foods,5,4,0,1,4
+2026-01-24,U-Haul,6,4,1,1,4
+2026-01-24,UFP Industries,6,3,0,3,3
+2026-01-24,UGI Utilities Inc,6,5,0,1,5
+2026-01-24,UL Solutions,7,4,0,2,5
+2026-01-24,UPS,5,4,0,0,5
+2026-01-24,US Bancorp,7,4,0,3,4
+2026-01-24,US Foods,6,3,1,2,3
+2026-01-24,USAA,6,4,0,2,4
+2026-01-24,Uber,6,5,0,1,5
+2026-01-24,Ulta Beauty,5,4,0,0,5
+2026-01-24,Under Armour,6,4,0,2,4
+2026-01-24,Union Pacific,4,2,0,2,2
+2026-01-24,United Airlines,5,4,0,0,5
+2026-01-24,United Natural Foods,7,3,0,0,7
+2026-01-24,United Rentals,7,3,0,0,7
+2026-01-24,United States Steel,5,3,0,2,3
+2026-01-24,UnitedHealth,8,4,0,3,5
+2026-01-24,Universal Corporation,8,2,0,5,3
+2026-01-24,Universal Health Services,6,3,0,3,3
+2026-01-24,Unum Group,7,3,0,4,3
+2026-01-24,Upbound Group,9,6,0,3,6
+2026-01-24,Urban Outfitters,5,3,0,2,3
+2026-01-24,VF Corporation,6,4,0,2,4
+2026-01-24,VICI Properties,6,2,0,4,2
+2026-01-24,Vail Resorts,6,2,0,4,2
+2026-01-24,Valero Energy,5,2,0,0,5
+2026-01-24,Valley National Bancorp,7,4,0,3,4
+2026-01-24,Valmont Industries,6,4,0,2,4
+2026-01-24,Valvoline Inc,7,5,0,2,5
+2026-01-24,Ventas Inc,7,2,0,4,3
+2026-01-24,Verisk Analytics,8,2,0,5,3
+2026-01-24,Verizon,4,4,0,0,4
+2026-01-24,Vertex Pharmaceuticals,5,2,0,3,2
+2026-01-24,Vertiv,12,10,0,2,10
+2026-01-24,Viasat,5,3,0,2,3
+2026-01-24,Viatris,7,5,0,2,5
+2026-01-24,Victorias Secret,7,5,0,1,6
+2026-01-24,Visa Inc,7,3,0,3,4
+2026-01-24,Vishay Intertechnology,5,2,0,3,2
+2026-01-24,Vista Outdoor,9,4,0,5,4
+2026-01-24,Visteon,6,3,0,3,3
+2026-01-24,Vistra,5,3,0,2,3
+2026-01-24,Vontier,6,2,0,4,2
+2026-01-24,Voya Financial,6,4,0,2,4
+2026-01-24,Vulcan Materials,6,3,0,3,3
+2026-01-24,WEC Energy,5,1,0,0,5
+2026-01-24,WESCO International,9,6,0,3,6
+2026-01-24,WEX,7,4,0,3,4
+2026-01-24,WR Berkley,8,3,0,5,3
+2026-01-24,WW Grainger,7,3,0,4,3
+2026-01-24,Wabash National,6,2,0,4,2
+2026-01-24,Walmart,5,4,0,1,4
+2026-01-24,Warner Bros Discovery,4,3,0,1,3
+2026-01-24,Warner Music Group,6,4,0,2,4
+2026-01-24,Wasserman,8,6,0,2,6
+2026-01-24,Waters Corporation,9,6,0,3,6
+2026-01-24,Watsco,7,3,0,4,3
+2026-01-24,Wayfair,5,5,0,0,5
+2026-01-24,Webster Financial,6,3,0,3,3
+2026-01-24,Weis Markets,5,2,0,3,2
+2026-01-24,Wells Fargo,6,4,0,1,5
+2026-01-24,Welltower,5,2,0,2,3
+2026-01-24,Werner Enterprises,5,3,0,2,3
+2026-01-24,West Pharmaceutical Services,7,3,0,4,3
+2026-01-24,Western & Southern Financial,7,3,0,4,3
+2026-01-24,Western Alliance Bancorp,6,3,0,3,3
+2026-01-24,Western Digital,7,5,0,2,5
+2026-01-24,Western Midstream Partners,6,1,0,4,2
+2026-01-24,Western Union,6,5,0,1,5
+2026-01-24,Westinghouse Air Brake Technologies,6,2,0,4,2
+2026-01-24,Weyerhaeuser,7,4,0,1,6
+2026-01-24,Whirlpool,5,3,0,2,3
+2026-01-24,Williams Companies,7,2,0,5,2
+2026-01-24,Williams-Sonoma,5,5,0,0,5
+2026-01-24,Winnebago Industries,7,4,0,3,4
+2026-01-24,Wintrust Financial,6,3,0,3,3
+2026-01-24,Woodward Inc,6,4,0,2,4
+2026-01-24,Workday,7,7,0,0,7
+2026-01-24,World Kinect,6,2,0,4,2
+2026-01-24,Worthington Enterprises,6,3,0,3,3
+2026-01-24,Wynn Resorts,7,4,0,3,4
+2026-01-24,XPO,5,3,0,2,3
+2026-01-24,Xcel Energy,4,3,0,0,4
+2026-01-24,Xerox,6,5,0,1,5
+2026-01-24,Xylem Inc,8,4,0,4,4
+2026-01-24,Yum Brands,5,3,0,2,3
+2026-01-24,Yum China,8,4,0,4,4
+2026-01-24,Zebra Technologies,8,6,0,2,6
+2026-01-24,Zimmer Biomet,6,6,0,0,6
+2026-01-24,Zions Bancorp,7,4,0,3,4
+2026-01-24,Zoetis,7,7,0,0,7
+2026-01-24,Zoom Video Communications,6,4,0,2,4
+2026-01-24,eXp World,7,6,0,1,6
+2026-01-24,iHeartMedia,5,3,0,1,4
+2026-01-24,v2x Inc,8,2,0,6,2
