@@ -1,0 +1,1283 @@
+date,ceo,company,positive,neutral,negative,total,neg_pct,theme,alias
+2026-05-11,John Furner,Walmart,8,15,2,25,8.0,,John Furner Walmart
+2026-05-11,Andy Jassy,Amazon,14,10,1,25,4.0,,Andy Jassy Amazon
+2026-05-11,Stephen Hemsley,UnitedHealth,9,16,0,25,0.0,,Stephen Hemsley UnitedHealth
+2026-05-11,Tim Cook,Apple,7,16,2,25,8.0,,Tim Cook Apple
+2026-05-11,David Joyner,CVS Health,6,12,7,25,28.0,,David Joyner CVS Health
+2026-05-11,Warren Buffett,Berkshire Hathaway,8,11,6,25,24.0,,Warren Buffett Berkshire Hathaway
+2026-05-11,Sundar Pichai,Alphabet Inc,7,12,6,25,24.0,,Sundar Pichai Alphabet Inc
+2026-05-11,Darren Woods,Exxon Mobil,1,13,11,25,44.0,,Darren Woods Exxon Mobil
+2026-05-11,Brian Tyler,McKesson,5,13,7,25,28.0,,Brian Tyler McKesson
+2026-05-11,Robert Mauch,Cencora,4,9,0,13,0.0,,Robert Mauch Cencora
+2026-05-11,Jamie Dimon,JPMorgan Chase,5,13,7,25,28.0,,Jamie Dimon JPMorgan Chase
+2026-05-11,Ron Vachris,Costco,12,12,1,25,4.0,,Ron Vachris Costco
+2026-05-11,David Cordani,Cigna,13,12,0,25,0.0,,David Cordani Cigna
+2026-05-11,Satya Nadella,Microsoft,4,16,5,25,20.0,,Satya Nadella Microsoft
+2026-05-11,Jason Hollar,Cardinal Health,12,12,1,25,4.0,,Jason Hollar Cardinal Health
+2026-05-11,Mike Wirth,Chevron,3,10,12,25,48.0,,Mike Wirth Chevron
+2026-05-11,Brian Moynihan,Bank of America,11,10,4,25,16.0,,Brian Moynihan Bank of America
+2026-05-11,Mary Barra,General Motors,9,14,2,25,8.0,,Mary Barra General Motors
+2026-05-11,Jim Farley,Ford Motor,7,11,7,25,28.0,,Jim Farley Ford Motor
+2026-05-11,Gail Boudreaux,Elevance Health,11,11,3,25,12.0,,Gail Boudreaux Elevance Health
+2026-05-11,Jane Fraser,Citigroup,11,11,3,25,12.0,,Jane Fraser Citigroup
+2026-05-11,Mark Zuckerberg,Meta Platforms,4,14,7,25,28.0,,Mark Zuckerberg Meta Platforms
+2026-05-11,Sarah London,Centene,5,15,5,25,20.0,,Sarah London Centene
+2026-05-11,Ted Decker,The Home Depot Inc,3,19,3,25,12.0,,Ted Decker The Home Depot Inc
+2026-05-11,Priscilla Almodovar,Fannie Mae,1,18,6,25,24.0,,Priscilla Almodovar Fannie Mae
+2026-05-11,Ron Sargent,Kroger,1,20,4,25,16.0,,Ron Sargent Kroger
+2026-05-11,Mark Lashier,Phillips 66,3,10,12,25,48.0,,Mark Lashier Phillips 66
+2026-05-11,Maryann Mannen,Marathon Petroleum,4,19,2,25,8.0,,Maryann Mannen Marathon Petroleum
+2026-05-11,Dan Schulman,Verizon,5,10,10,25,40.0,,Dan Schulman Verizon
+2026-05-11,Jensen Huang,Nvidia,9,11,5,25,20.0,,Jensen Huang Nvidia
+2026-05-11,David Solomon,Goldman Sachs,3,15,7,25,28.0,,David Solomon Goldman Sachs
+2026-05-11,Charles Scharf,Wells Fargo,17,3,5,25,20.0,,Charles Scharf Wells Fargo
+2026-05-11,Lane Riggs,Valero Energy,20,5,0,25,0.0,,Lane Riggs Valero Energy
+2026-05-11,Brian Roberts,Comcast,3,15,7,25,28.0,,Brian Roberts Comcast
+2026-05-11,Jon Farney,State Farm Insurance,8,12,5,25,20.0,,Jon Farney State Farm Insurance
+2026-05-11,John Stankey,AT&T,6,16,3,25,12.0,,John Stankey AT&T
+2026-05-11,Michael Hutchins,Freddie Mac,3,20,2,25,8.0,,Michael Hutchins Freddie Mac
+2026-05-11,Jim Rechtin,Humana,16,7,2,25,8.0,,Jim Rechtin Humana
+2026-05-11,Ted Pick,Morgan Stanley,7,15,3,25,12.0,,Ted Pick Morgan Stanley
+2026-05-11,Michael Fiddelke,Target Corporation,1,15,9,25,36.0,,Michael Fiddelke Target Corporation
+2026-05-11,Philip Smith,StoneX Group,3,18,1,22,4.5,,Philip Smith StoneX Group
+2026-05-11,Elon Musk,Tesla,5,17,3,25,12.0,,Elon Musk Tesla
+2026-05-11,Michael Dell,Dell Technologies,9,15,1,25,4.0,,Michael Dell Dell Technologies
+2026-05-11,Ramon Laguarta,PepsiCo,5,17,3,25,12.0,,Ramon Laguarta PepsiCo
+2026-05-11,Josh D'Amaro,The Walt Disney Company,10,12,3,25,12.0,,Josh D'Amaro The Walt Disney Company
+2026-05-11,Carol Tome,UPS,7,11,7,25,28.0,,Carol Tome UPS
+2026-05-11,Joaquin Duato,Johnson & Johnson,10,10,5,25,20.0,,Joaquin Duato Johnson & Johnson
+2026-05-11,Rajesh Subramaniam,FedEx,3,15,7,25,28.0,,Rajesh Subramaniam FedEx
+2026-05-11,Juan Luciano,Archer Daniels Midland,1,15,9,25,36.0,,Juan Luciano Archer Daniels Midland
+2026-05-11,Jon Moeller,Procter & Gamble,4,17,4,25,16.0,,Jon Moeller Procter & Gamble
+2026-05-11,Marvin Ellison,Lowe's Companies,6,15,4,25,16.0,,Marvin Ellison Lowe's Companies
+2026-05-11,Thomas Long,Energy Transfer,19,2,4,25,16.0,,Thomas Long Energy Transfer
+2026-05-11,Christopher Calio,RTX,12,12,1,25,4.0,,Christopher Calio RTX
+2026-05-11,Susan Morris,Albertsons,7,17,1,25,4.0,,Susan Morris Albertsons
+2026-05-11,Kevin Hourican,Sysco,10,13,2,25,8.0,,Kevin Hourican Sysco
+2026-05-11,Tricia Griffith,Progressive Insurance,9,15,1,25,4.0,,Tricia Griffith Progressive Insurance
+2026-05-11,Stephen Squeri,American Express,11,12,2,25,8.0,,Stephen Squeri American Express
+2026-05-11,James Taiclet,Lockheed Martin,8,13,4,25,16.0,,James Taiclet Lockheed Martin
+2026-05-11,Michel Khalaf,MetLife Inc,9,15,1,25,4.0,,Michel Khalaf MetLife Inc
+2026-05-11,Samuel Hazen,HCA Healthcare,9,13,3,25,12.0,,Samuel Hazen HCA Healthcare
+2026-05-11,Andrew Sullivan,Prudential Financial,7,17,1,25,4.0,,Andrew Sullivan Prudential Financial
+2026-05-11,Kelly Ortberg,Boeing,11,11,3,25,12.0,,Kelly Ortberg Boeing
+2026-05-11,Joe Creed,Caterpillar,4,21,0,25,0.0,,Joe Creed Caterpillar
+2026-05-11,Robert M Davis,Merck,7,13,5,25,20.0,,Robert M Davis Merck
+2026-05-11,Thomas J Wilson,Allstate,3,15,7,25,28.0,,Thomas J Wilson Allstate
+2026-05-11,Albert Bourla,Pfizer,11,10,4,25,16.0,,Albert Bourla Pfizer
+2026-05-11,Arvind Krishna,IBM,7,16,2,25,8.0,,Arvind Krishna IBM
+2026-05-11,Craig DeSanto,New York Life Insurance,5,20,0,25,0.0,,Craig DeSanto New York Life Insurance
+2026-05-11,Ed Bastian,Delta Air Lines,7,10,8,25,32.0,,Ed Bastian Delta Air Lines
+2026-05-11,Kevin Murphy,Publix Super Markets,11,35,4,50,8.0,,Kevin Murphy Publix Super Markets
+2026-05-11,Kirt Walker,Nationwide Mutual Insurance Company,10,14,1,25,4.0,,Kirt Walker Nationwide Mutual Insurance Company
+2026-05-11,Patrick Zammit,TD Synnex,8,13,4,25,16.0,,Patrick Zammit TD Synnex
+2026-05-11,Scott Kirby,United Airlines,22,2,1,25,4.0,,Scott Kirby United Airlines
+2026-05-11,Ryan Lance,ConocoPhillips,0,0,0,0,0.0,,Ryan Lance ConocoPhillips
+2026-05-11,Ernie Herrman,TJX,15,8,2,25,8.0,,Ernie Herrman TJX
+2026-05-11,Bob Michael,AbbVie,5,15,5,25,20.0,,Bob Michael AbbVie
+2026-05-11,AJ Jim Teague,Enterprise Products Partners,2,19,0,21,0.0,,AJ Jim Teague Enterprise Products Partners
+2026-05-11,Christopher Winfrey,Charter Communications,8,12,5,25,20.0,,Christopher Winfrey Charter Communications
+2026-05-11,George Holm,Performance Food,8,15,2,25,8.0,,George Holm Performance Food
+2026-05-11,Robert Isom,American Airlines,9,11,5,25,20.0,,Robert Isom American Airlines
+2026-05-11,Richard Fairbank,Capital One,7,15,3,25,12.0,,Richard Fairbank Capital One
+2026-05-11,Chuck Robbins,Cisco Systems,15,8,2,25,8.0,,Chuck Robbins Cisco Systems
+2026-05-11,Bruce Broussard,HP,2,22,1,25,4.0,,Bruce Broussard HP
+2026-05-11,Donnie King,Tyson Foods,5,13,7,25,28.0,,Donnie King Tyson Foods
+2026-05-11,Lip-Bu Tan,Intel,9,11,5,25,20.0,,Lip-Bu Tan Intel
+2026-05-11,Clay Magouyrk,Oracle,5,16,4,25,16.0,,Clay Magouyrk Oracle
+2026-05-11,Mike Sicilia,Oracle,2,15,8,25,32.0,,Mike Sicilia Oracle
+2026-05-11,Hock Tan,Broadcom,2,17,6,25,24.0,,Hock Tan Broadcom
+2026-05-11,John May,John Deere & Company,6,13,6,25,24.0,,John May John Deere & Company
+2026-05-11,Elliott Hill,Nike,6,15,4,25,16.0,,Elliott Hill Nike
+2026-05-11,Timothy M Sweeney,Liberty Mutual Insurance,24,1,0,25,0.0,,Timothy M Sweeney Liberty Mutual Insurance
+2026-05-11,Willie Chiang,Plains GP,4,12,3,19,15.8,,Willie Chiang Plains GP
+2026-05-11,Juan Andrade,USAA,7,12,6,25,24.0,,Juan Andrade USAA
+2026-05-11,Chris Boerner,Bristol-Myers Squibb,10,11,4,25,16.0,,Chris Boerner Bristol-Myers Squibb
+2026-05-11,Paul Bay,Ingram Micro,9,13,3,25,12.0,,Paul Bay Ingram Micro
+2026-05-11,Phebe Novakovic,General Dynamics,19,5,1,25,4.0,,Phebe Novakovic General Dynamics
+2026-05-11,James Quincey,The Coca-Cola Company,13,12,0,25,0.0,,James Quincey The Coca-Cola Company
+2026-05-11,Thasunda Brown Duckett,TIAA,9,14,2,25,8.0,,Thasunda Brown Duckett TIAA
+2026-05-11,Alan Schnitzer,The Travelers Indemnity Company,11,13,1,25,4.0,,Alan Schnitzer The Travelers Indemnity Company
+2026-05-11,David Ricks,Eli Lilly,3,17,5,25,20.0,,David Ricks Eli Lilly
+2026-05-11,Dara Khosrowshahi,Uber Technologies,11,14,0,25,0.0,,Dara Khosrowshahi Uber Technologies
+2026-05-11,Roger Crandall,Mass Mutual,5,16,4,25,16.0,,Roger Crandall Mass Mutual
+2026-05-11,Marc Casper,Thermo Fisher Scientific,9,16,0,25,0.0,,Marc Casper Thermo Fisher Scientific
+2026-05-11,Gunjan Kedia,US Bancorp,8,17,0,25,0.0,,Gunjan Kedia US Bancorp
+2026-05-11,Ira M Birns,World Kinect,2,9,0,11,0.0,,Ira M Birns World Kinect
+2026-05-11,Robert Ford,Abbott Laboratories,8,11,6,25,24.0,,Robert Ford Abbott Laboratories
+2026-05-11,Corie Barry,Best Buy,24,0,1,25,4.0,,Corie Barry Best Buy
+2026-05-11,Tim Gerend,Northwestern Mutual,4,19,2,25,8.0,,Tim Gerend Northwestern Mutual
+2026-05-11,Kathy Warden,Northrop Grumman,8,14,3,25,12.0,,Kathy Warden Northrop Grumman
+2026-05-11,Joe Zubretsky,Molina Healthcare,7,14,4,25,16.0,,Joe Zubretsky Molina Healthcare
+2026-05-11,Todd Vasos,Dollar General Corporation,9,15,1,25,4.0,,Todd Vasos Dollar General Corporation
+2026-05-11,Robin Vince,Bank of New York Mellon,7,16,2,25,8.0,,Robin Vince Bank of New York Mellon
+2026-05-11,David Zaslav,Warner Bros Discovery,5,12,8,25,32.0,,David Zaslav Warner Bros Discovery
+2026-05-11,Jay Debertin,CHS,5,18,2,25,8.0,,Jay Debertin CHS
+2026-05-11,Ted Sarandos,Netflix,3,16,6,25,24.0,,Ted Sarandos Netflix
+2026-05-11,Cristiano Amon,Qualcomm,8,16,1,25,4.0,,Cristiano Amon Qualcomm
+2026-05-11,Vimal Kapur,Honeywell,7,16,2,25,8.0,,Vimal Kapur Honeywell
+2026-05-11,Marc Benioff,Salesforce,7,10,8,25,32.0,,Marc Benioff Salesforce
+2026-05-11,Jacek Olczak,Philip Morris International,7,18,0,25,0.0,,Jacek Olczak Philip Morris International
+2026-05-11,David Flitman,US Foods,4,18,3,25,12.0,,David Flitman US Foods
+2026-05-11,Paul Romanowski,DR Horton Inc,6,17,2,25,8.0,,Paul Romanowski DR Horton Inc
+2026-05-11,Bryan DeBoer,Lithia Motors,7,14,4,25,16.0,,Bryan DeBoer Lithia Motors
+2026-05-11,Dirk Van de Put,Mondelez,3,15,7,25,28.0,,Dirk Van de Put Mondelez
+2026-05-11,Brian Niccol,Starbucks,9,14,2,25,8.0,,Brian Niccol Starbucks
+2026-05-11,Ryan McInerney,Visa Inc,9,16,0,25,0.0,,Ryan McInerney Visa Inc
+2026-05-11,Robert Sulentic,CBRE Group,10,12,3,25,12.0,,Robert Sulentic CBRE Group
+2026-05-11,Jonathan Jaffe,Lennar,2,11,2,15,13.3,,Jonathan Jaffe Lennar
+2026-05-11,Scott Strazik,GE Vernova,4,19,2,25,8.0,,Scott Strazik GE Vernova
+2026-05-11,William Demchak,PNC Financial Services,7,15,3,25,12.0,,William Demchak PNC Financial Services
+2026-05-11,Jennifer Rumsey,Cummins Inc,13,9,3,25,12.0,,Jennifer Rumsey Cummins Inc
+2026-05-11,Preston Feight,Paccar,7,16,2,25,8.0,,Preston Feight Paccar
+2026-05-11,Robert Bradway,Amgen,4,18,3,25,12.0,,Robert Bradway Amgen
+2026-05-11,Matthew Lucey,PBF Energy,14,7,0,21,0.0,,Matthew Lucey PBF Energy
+2026-05-11,Brian D Pieninck,GuideWell Mutual,1,5,0,6,0.0,,Brian D Pieninck GuideWell Mutual
+2026-05-11,Enrique Lores,PayPal,5,14,6,25,24.0,,Enrique Lores PayPal
+2026-05-11,Sandy Douglas,United Natural Foods,19,6,0,25,0.0,,Sandy Douglas United Natural Foods
+2026-05-11,Michael Creedon,Dollar Tree,6,17,2,25,8.0,,Michael Creedon Dollar Tree
+2026-05-11,Leon Topalian,Nucor,8,14,3,25,12.0,,Leon Topalian Nucor
+2026-05-11,Roger Penske,Penske Automotive,6,16,3,25,12.0,,Roger Penske Penske Automotive
+2026-05-11,Bom Kim,Coupang,3,13,9,25,36.0,,Bom Kim Coupang
+2026-05-11,Antonio Neri,Hewlett Packard Enterprise,9,12,4,25,16.0,,Antonio Neri Hewlett Packard Enterprise
+2026-05-11,Harry Sideris,Duke Energy Corporation,20,1,4,25,16.0,,Harry Sideris Duke Energy Corporation
+2026-05-11,Joseph Bae,KKR & Co,5,18,2,25,8.0,,Joseph Bae KKR & Co
+2026-05-11,David Ellison,Paramount Global,4,13,8,25,32.0,,David Ellison Paramount Global
+2026-05-11,Michael Dastoor,Jabil,6,13,6,25,24.0,,Michael Dastoor Jabil
+2026-05-11,Daniel O'Day,Gilead Sciences,15,7,3,25,12.0,,Daniel O'Day Gilead Sciences
+2026-05-11,Tim Go,HF Sinclair,3,8,14,25,56.0,,Tim Go HF Sinclair
+2026-05-11,David McCreight,CarMax,3,14,8,25,32.0,,David McCreight CarMax
+2026-05-11,Michael Miebach,Mastercard,4,18,3,25,12.0,,Michael Miebach Mastercard
+2026-05-11,Lawrence Coben,NRG Energy,12,6,2,20,10.0,,Lawrence Coben NRG Energy
+2026-05-11,William F Austen,Arrow Electronics,1,6,0,7,0.0,,William F Austen Arrow Electronics
+2026-05-11,Lorenzo Simonelli,Baker Hughes,12,10,3,25,12.0,,Lorenzo Simonelli Baker Hughes
+2026-05-11,Bob Jordan,Southwest Airlines,6,13,6,25,24.0,,Bob Jordan Southwest Airlines
+2026-05-11,Eric Andersen,AIG,5,18,2,25,8.0,,Eric Andersen AIG
+2026-05-11,Gary Dickerson,Applied Materials,5,10,10,25,40.0,,Gary Dickerson Applied Materials
+2026-05-11,Vicki Hollub,Occidental Petroleum,6,16,3,25,12.0,,Vicki Hollub Occidental Petroleum
+2026-05-11,Michael Manley,AutoNation,5,19,1,25,4.0,,Michael Manley AutoNation
+2026-05-11,Christopher Womack,Southern Company,6,16,3,25,12.0,,Christopher Womack Southern Company
+2026-05-11,Christopher Swift,The Hartford Insurance,9,13,3,25,12.0,,Christopher Swift The Hartford Insurance
+2026-05-11,Marc Rowan,Apollo Global Management,5,12,8,25,32.0,,Marc Rowan Apollo Global Management
+2026-05-11,Rick Wurster,Charles Schwab,9,12,4,25,16.0,,Rick Wurster Charles Schwab
+2026-05-11,Chris Kempczinski,McDonalds,4,11,10,25,40.0,,Chris Kempczinski McDonalds
+2026-05-11,Carlos Abrams-Rivera,Kraft Heinz,4,19,2,25,8.0,,Carlos Abrams-Rivera Kraft Heinz
+2026-05-11,Lisa Su,Advanced Micro Devices,7,13,5,25,20.0,,Lisa Su Advanced Micro Devices
+2026-05-11,William H Rogers Jr,Truist Financial,8,12,5,25,20.0,,William H Rogers Jr Truist Financial
+2026-05-11,Kathleen Quirk,Freeport-McMoRan,7,15,3,25,12.0,,Kathleen Quirk Freeport-McMoRan
+2026-05-11,Sanjay Mehrotra,Micron Technology,6,13,6,25,24.0,,Sanjay Mehrotra Micron Technology
+2026-05-11,Anthony Capuano,Marriott International,11,14,0,25,0.0,,Anthony Capuano Marriott International
+2026-05-11,David Gitlin,Carrier Global,7,13,5,25,20.0,,David Gitlin Carrier Global
+2026-05-11,John Ketchum,NextEra Energy,16,8,1,25,4.0,,John Ketchum NextEra Energy
+2026-05-11,William M Brown,3M Company,5,18,2,25,8.0,,William M Brown 3M Company
+2026-05-11,John Doyle,Marsh,3,11,11,25,44.0,,John Doyle Marsh
+2026-05-11,Patricia Poppe,Pacific Gas and Electric Company,9,11,5,25,20.0,,Patricia Poppe Pacific Gas and Electric Company
+2026-05-11,Jim Vena,Union Pacific,13,10,2,25,8.0,,Jim Vena Union Pacific
+2026-05-11,Brian Doubles,Synchrony Financial,7,15,3,25,12.0,,Brian Doubles Synchrony Financial
+2026-05-11,Rainer Blair,Danaher,8,14,3,25,12.0,,Rainer Blair Danaher
+2026-05-11,Philip Gallagher,Avnet,5,18,1,24,4.2,,Philip Gallagher Avnet
+2026-05-11,Glenn Fogel,Booking Holdings,8,11,6,25,24.0,,Glenn Fogel Booking Holdings
+2026-05-11,Ezra Yacob,EOG Resources,11,14,0,25,0.0,,Ezra Yacob EOG Resources
+2026-05-11,Earl Austin,Quanta Services,12,12,1,25,4.0,,Earl Austin Quanta Services
+2026-05-11,Michael Shepherd,Discover Financial,5,16,4,25,16.0,,Michael Shepherd Discover Financial
+2026-05-11,Joseph Dominguez,Constellation Energy,16,8,1,25,4.0,,Joseph Dominguez Constellation Energy
+2026-05-11,William Stengel II,Genuine Parts Company,7,17,1,25,4.0,,William Stengel II Genuine Parts Company
+2026-05-11,Christian Ulbrich,Jones Lang LaSalle,9,14,2,25,8.0,,Christian Ulbrich Jones Lang LaSalle
+2026-05-11,Raymond E Scott,Lear Corporation,4,14,4,22,18.2,,Raymond E Scott Lear Corporation
+2026-05-11,Michael Rapino,Live Nation Entertainment,7,13,5,25,20.0,,Michael Rapino Live Nation Entertainment
+2026-05-11,Heidi Petz,Sherwin-Williams,6,13,6,25,24.0,,Heidi Petz Sherwin-Williams
+2026-05-11,Calvin G Butler Jr,Exelon,0,0,0,0,0.0,,Calvin G Butler Jr Exelon
+2026-05-11,Tony Spring,Macys,8,15,2,25,8.0,,Tony Spring Macys
+2026-05-11,Jeff Miller,Halliburton,8,12,5,25,20.0,,Jeff Miller Halliburton
+2026-05-11,Kevin Lobo,Stryker,6,16,3,25,12.0,,Kevin Lobo Stryker
+2026-05-11,Tony Cheng,Reinsurance Group of America,5,9,2,16,12.5,,Tony Cheng Reinsurance Group of America
+2026-05-11,Ronald P O'Hanley,State Street,5,16,4,25,16.0,,Ronald P O'Hanley State Street
+2026-05-11,John Engel,WESCO International,1,23,1,25,4.0,,John Engel WESCO International
+2026-05-11,Pierce Norton II,Oneok,10,15,0,25,0.0,,Pierce Norton II Oneok
+2026-05-11,Shantanu Narayen,Adobe,0,23,2,25,8.0,,Shantanu Narayen Adobe
+2026-05-11,Bill Westrate,American Family Insurance,7,15,3,25,12.0,,Bill Westrate American Family Insurance
+2026-05-11,Chris Kubasik,L3Harris Technologies,7,16,2,25,8.0,,Chris Kubasik L3Harris Technologies
+2026-05-11,James Conroy,Ross Stores,4,19,2,25,8.0,,James Conroy Ross Stores
+2026-05-11,Christine Leahy,CDW,6,18,1,25,4.0,,Christine Leahy CDW
+2026-05-11,Saumya Sutaria,Tenet Healthcare,4,5,1,10,10.0,,Saumya Sutaria Tenet Healthcare
+2026-05-11,Bob Eddy,BJ's Wholesale Club,5,20,0,25,0.0,,Bob Eddy BJ's Wholesale Club
+2026-05-11,Mike Lyons,Fiserv,7,11,7,25,28.0,,Mike Lyons Fiserv
+2026-05-11,William Gifford,Altria,5,20,0,25,0.0,,William Gifford Altria
+2026-05-11,Larry Fink,BlackRock,9,12,4,25,16.0,,Larry Fink BlackRock
+2026-05-11,Thomas Polen,Becton Dickinson,3,18,4,25,16.0,,Thomas Polen Becton Dickinson
+2026-05-11,Noel Wallace,Colgate-Palmolive,5,18,2,25,8.0,,Noel Wallace Colgate-Palmolive
+2026-05-11,Michael Hsu,Kimberly-Clark,11,13,1,25,4.0,,Michael Hsu Kimberly-Clark
+2026-05-11,Daryl Kenningham,Group 1 Automotive,4,17,4,25,16.0,,Daryl Kenningham Group 1 Automotive
+2026-05-11,Jennifer Parmentier,Parker-Hannifin,3,13,0,16,0.0,,Jennifer Parmentier Parker-Hannifin
+2026-05-11,Jeffrey Harmening,General Mills,8,13,4,25,16.0,,Jeffrey Harmening General Mills
+2026-05-11,Ravi Kumar S,Cognizant Technology Solutions,5,15,5,25,20.0,,Ravi Kumar S Cognizant Technology Solutions
+2026-05-11,William Fehrman,American Electric Power,5,18,2,25,8.0,,William Fehrman American Electric Power
+2026-05-11,Peter Arduini,GE HealthCare Technologies,5,15,5,25,20.0,,Peter Arduini GE HealthCare Technologies
+2026-05-11,Maria Black,Automatic Data Processing,12,11,2,25,8.0,,Maria Black Automatic Data Processing
+2026-05-11,Lourenco Goncalves,Cleveland-Cliffs,8,13,4,25,16.0,,Lourenco Goncalves Cleveland-Cliffs
+2026-05-11,Dan Amos,Aflac,2,17,6,25,24.0,,Dan Amos Aflac
+2026-05-11,Mark Stewart,Goodyear Tire & Rubber,4,19,2,25,8.0,,Mark Stewart Goodyear Tire & Rubber
+2026-05-11,Kevin Hogan,Corebridge Financial,8,6,2,16,12.5,,Kevin Hogan Corebridge Financial
+2026-05-11,Natascha Viljoen,Newmont,6,19,0,25,0.0,,Natascha Viljoen Newmont
+2026-05-11,Andrew Silvernail,International Paper,6,14,5,25,20.0,,Andrew Silvernail International Paper
+2026-05-11,Philip Daniele III,AutoZone,4,19,2,25,8.0,,Philip Daniele III AutoZone
+2026-05-11,Ellen Cooper,Lincoln National,7,15,3,25,12.0,,Ellen Cooper Lincoln National
+2026-05-11,Ryan Marshall,PulteGroup,5,16,4,25,16.0,,Ryan Marshall PulteGroup
+2026-05-11,James Cracchiolo,Ameriprise Financial,0,21,4,25,16.0,,James Cracchiolo Ameriprise Financial
+2026-05-11,Andrew Clyde,Murphy USA,8,16,1,25,4.0,,Andrew Clyde Murphy USA
+2026-05-11,Jonas Prising,ManpowerGroup,4,17,4,25,16.0,,Jonas Prising ManpowerGroup
+2026-05-11,David Bozeman,CH Robinson Worldwide,2,20,3,25,12.0,,David Bozeman CH Robinson Worldwide
+2026-05-11,Timothy Knavish,PPG Industries,3,10,0,13,0.0,,Timothy Knavish PPG Industries
+2026-05-11,Pedro Pizarro,Edison International,9,10,6,25,24.0,,Pedro Pizarro Edison International
+2026-05-11,Mark Millett,Steel Dynamics,21,3,1,25,4.0,,Mark Millett Steel Dynamics
+2026-05-11,Benjamin Tisch,Loews,4,15,6,25,24.0,,Benjamin Tisch Loews
+2026-05-11,Karsanbhai,Emerson Electric,3,19,3,25,12.0,,Karsanbhai Emerson Electric
+2026-05-11,John Zillmer,Aramark,7,17,1,25,4.0,,John Zillmer Aramark
+2026-05-11,William Hornbuckle,MGM Resorts International,7,15,3,25,12.0,,William Hornbuckle MGM Resorts International
+2026-05-11,James Burke,Vistra,6,8,1,15,6.7,,James Burke Vistra
+2026-05-11,David Hult,Asbury Automotive Group,4,20,1,25,4.0,,David Hult Asbury Automotive Group
+2026-05-11,DG Macpherson,WW Grainger,0,20,3,23,13.0,,DG Macpherson WW Grainger
+2026-05-11,Eric Slifka,Global Partners,3,17,5,25,20.0,,Eric Slifka Global Partners
+2026-05-11,Bob Pragada,Jacobs Solutions,5,17,3,25,12.0,,Bob Pragada Jacobs Solutions
+2026-05-11,Charles Magro,Corteva,2,13,2,17,11.8,,Charles Magro Corteva
+2026-05-11,Rick Lanoha,Kiewit Corporation,0,16,1,17,5.9,,Rick Lanoha Kiewit Corporation
+2026-05-11,Michael Mahoney,Boston Scientific,3,15,7,25,28.0,,Michael Mahoney Boston Scientific
+2026-05-11,Brad Beckham,O'Reilly Automotive,6,17,2,25,8.0,,Brad Beckham O'Reilly Automotive
+2026-05-11,Thomas Bell,Leidos,8,14,3,25,12.0,,Thomas Bell Leidos
+2026-05-11,Thomas Gayner,Markel Group,8,15,2,25,8.0,,Thomas Gayner Markel Group
+2026-05-11,Marc Bitzer,Whirlpool Corporation,3,12,10,25,40.0,,Marc Bitzer Whirlpool Corporation
+2026-05-11,Andrew McMahon,Guardian Life insurance,5,20,0,25,0.0,,Andrew McMahon Guardian Life insurance
+2026-05-11,Peter Jackson,Builders FirstSource,5,16,1,22,4.5,,Peter Jackson Builders FirstSource
+2026-05-11,Michael Rhodes,Ally Financial,4,20,1,25,4.0,,Michael Rhodes Ally Financial
+2026-05-11,Matthew Meloy,Targa Resources,6,12,2,20,10.0,,Matthew Meloy Targa Resources
+2026-05-11,James Breuer,Fluor,1,5,1,7,14.3,,James Breuer Fluor
+2026-05-11,Sasan Goodarzi,Intuit,6,15,4,25,16.0,,Sasan Goodarzi Intuit
+2026-05-11,Troy Rudd,AECOM,6,15,4,25,16.0,,Troy Rudd AECOM
+2026-05-11,Penny Pennington,Edward Jones,8,14,3,25,12.0,,Penny Pennington Edward Jones
+2026-05-11,Michael Bender,Kohl's,2,22,1,25,4.0,,Michael Bender Kohl's
+2026-05-11,Beth Ford,Land O'Lakes,7,13,5,25,20.0,,Beth Ford Land O'Lakes
+2026-05-11,Deanna Strable-Soethout,PrIncipal Financial,3,8,0,11,0.0,,Deanna Strable-Soethout PrIncipal Financial
+2026-05-11,Robert Blue,Dominion Energy,12,11,2,25,8.0,,Robert Blue Dominion Energy
+2026-05-11,Martin Schroeter,Kyndryl,4,16,5,25,20.0,,Martin Schroeter Kyndryl
+2026-05-11,Jon Vander Ark,Republic Services,5,7,13,25,52.0,,Jon Vander Ark Republic Services
+2026-05-11,Clay Gaspar,Devon Energy,22,3,0,25,0.0,,Clay Gaspar Devon Energy
+2026-05-11,Christopher O'Herlihy,Illinois Tool Works,2,22,1,25,4.0,,Christopher O'Herlihy Illinois Tool Works
+2026-05-11,Michael O'Grady,Northern Trust,20,5,0,25,0.0,,Michael O'Grady Northern Trust
+2026-05-11,Jamie Whisnant,Auto-Owners Insurance,0,2,0,2,0.0,,Jamie Whisnant Auto-Owners Insurance
+2026-05-11,Marc Miller,Universal Health Services,3,21,1,25,4.0,,Marc Miller Universal Health Services
+2026-05-11,Darryl Button,Pacific Life,2,21,2,25,8.0,,Darryl Button Pacific Life
+2026-05-11,Hamid Akhavan,EchoStar,12,8,5,25,20.0,,Hamid Akhavan EchoStar
+2026-05-11,Christophe Beck,Ecolab,8,14,3,25,12.0,,Christophe Beck Ecolab
+2026-05-11,Jack Fusco,Cheniere Energy,10,11,4,25,16.0,,Jack Fusco Cheniere Energy
+2026-05-11,John Wren,Omnicom Group,7,14,4,25,16.0,,John Wren Omnicom Group
+2026-05-11,Haviv Ilan,Texas Instruments,6,15,4,25,16.0,,Haviv Ilan Texas Instruments
+2026-05-11,David Burritt,United States Steel,7,18,0,25,0.0,,David Burritt United States Steel
+2026-05-11,Stéphane de La Faverie,The Estee Lauder Companies,8,15,2,25,8.0,,Stéphane de La Faverie The Estee Lauder Companies
+2026-05-11,Raul Nicholas Vargas Ochoa,Farmers Insurance Group,0,0,0,0,0.0,,Raul Nicholas Vargas Ochoa Farmers Insurance Group
+2026-05-11,Kirk Perry,Kenvue,3,19,3,25,12.0,,Kirk Perry Kenvue
+2026-05-11,Ari Bousbib,IQVIA,4,19,2,25,8.0,,Ari Bousbib IQVIA
+2026-05-11,Donald Allan,Stanley Black & Decker,5,19,1,25,4.0,,Donald Allan Stanley Black & Decker
+2026-05-11,Timothy Cofer,Keurig Dr Pepper,4,10,0,14,0.0,,Timothy Cofer Keurig Dr Pepper
+2026-05-11,Matthew Flannery,United Rentals,25,0,0,25,0.0,,Matthew Flannery United Rentals
+2026-05-11,Timothy Cawley,Consolidated Edison,5,7,8,20,40.0,,Timothy Cawley Consolidated Edison
+2026-05-11,Adam Norwitt,Amphenol,6,18,1,25,4.0,,Adam Norwitt Amphenol
+2026-05-11,Brent Shafer,Baxter International,2,12,1,15,6.7,,Brent Shafer Baxter International
+2026-05-11,Kimberly Dang,Kinder Morgan,13,3,0,16,0.0,,Kimberly Dang Kinder Morgan
+2026-05-11,Erik Nordstrom,Nordstrom,2,19,4,25,16.0,,Erik Nordstrom Nordstrom
+2026-05-11,Frank Holding,First Citizens BancShares,9,15,1,25,4.0,,Frank Holding First Citizens BancShares
+2026-05-11,Paul Shoukry,Raymond James Financial,11,12,2,25,8.0,,Paul Shoukry Raymond James Financial
+2026-05-11,Timothy Archer,Lam Research,9,13,3,25,12.0,,Timothy Archer Lam Research
+2026-05-11,Harry Lawton III,Tractor Supply Company,4,7,3,14,21.4,,Harry Lawton III Tractor Supply Company
+2026-05-11,Darren Rebelez,Caseys General Stores,8,15,2,25,8.0,,Darren Rebelez Caseys General Stores
+2026-05-11,Scott Smith,Viatris,6,16,3,25,12.0,,Scott Smith Viatris
+2026-05-11,James Blackledge,Mutual of Omaha,1,21,1,23,4.3,,James Blackledge Mutual of Omaha
+2026-05-11,Anthony Guzzi,EMCOR Group,2,10,3,15,20.0,,Anthony Guzzi EMCOR Group
+2026-05-11,Joseph Hinrichs,CSX,3,17,5,25,20.0,,Joseph Hinrichs CSX
+2026-05-11,Justin Jude,LKQ,6,12,3,21,14.3,,Justin Jude LKQ
+2026-05-11,Judith Marks,Otis Worldwide,5,17,3,25,12.0,,Judith Marks Otis Worldwide
+2026-05-11,David Bruton Smith,Sonic Automotive,5,11,9,25,36.0,,David Bruton Smith Sonic Automotive
+2026-05-11,Martina Cheung,S&P Global,9,16,0,25,0.0,,Martina Cheung S&P Global
+2026-05-11,Leonard Schleifer,Regeneron Pharmaceuticals,7,15,3,25,12.0,,Leonard Schleifer Regeneron Pharmaceuticals
+2026-05-11,Joseph Fadool,BorgWarner,4,15,0,19,0.0,,Joseph Fadool BorgWarner
+2026-05-11,Karla Lewis,Reliance Inc,5,9,0,14,0.0,,Karla Lewis Reliance Inc
+2026-05-11,John Barrett,Western & Southern Financial,5,19,1,25,4.0,,John Barrett Western & Southern Financial
+2026-05-11,Scott Donnelly,Textron,5,19,1,25,4.0,,Scott Donnelly Textron
+2026-05-11,Ariane Gorin,Expedia,9,11,5,25,20.0,,Ariane Gorin Expedia
+2026-05-11,Michael Nolan,Fidelity National Financial,1,18,6,25,24.0,,Michael Nolan Fidelity National Financial
+2026-05-11,Ernest Garcia III,Carvana,11,12,2,25,8.0,,Ernest Garcia III Carvana
+2026-05-11,Raul Fernandez,DXC Technology,3,21,1,25,4.0,,Raul Fernandez DXC Technology
+2026-05-11,Robert Berkley,WR Berkley,4,17,4,25,16.0,,Robert Berkley WR Berkley
+2026-05-11,René Jones,M&T Bank,8,13,4,25,16.0,,René Jones M&T Bank
+2026-05-11,Lauren Hobart,Dicks Sporting Goods,8,12,5,25,20.0,,Lauren Hobart Dicks Sporting Goods
+2026-05-11,Robert Frenzel,Xcel Energy,12,8,5,25,20.0,,Robert Frenzel Xcel Energy
+2026-05-11,Timothy Spence,Fifth Third Bancorp,8,12,5,25,20.0,,Timothy Spence Fifth Third Bancorp
+2026-05-11,Stephen Schwarzman,Blackstone,6,14,5,25,20.0,,Stephen Schwarzman Blackstone
+2026-05-11,Walker Martin,Sempra,2,3,1,6,16.7,,Walker Martin Sempra
+2026-05-11,Timothy NeCastro,Erie Insurance,4,18,1,23,4.3,,Timothy NeCastro Erie Insurance
+2026-05-11,Wendell Weeks,Corning,7,12,6,25,24.0,,Wendell Weeks Corning
+2026-05-11,Kathleen Johnson,Lumen Technologies,13,11,1,25,4.0,,Kathleen Johnson Lumen Technologies
+2026-05-11,Brian Tierney,FirstEnergy Corp,6,16,3,25,12.0,,Brian Tierney FirstEnergy Corp
+2026-05-11,Adam Schechter,Labcorp Holdings,10,11,1,22,4.5,,Adam Schechter Labcorp Holdings
+2026-05-11,Tiang Yew Tan,Western Digital,2,6,3,11,27.3,,Tiang Yew Tan Western Digital
+2026-05-11,Rick McKenney,Unum Group,14,10,1,25,4.0,,Rick McKenney Unum Group
+2026-05-11,Javier Rodriguez,DaVita,16,8,1,25,4.0,,Javier Rodriguez DaVita
+2026-05-11,Steven Cahillane,Kellanova,0,24,1,25,4.0,,Steven Cahillane Kellanova
+2026-05-11,Stanley Bergman,Henry Schein,0,21,4,25,16.0,,Stanley Bergman Henry Schein
+2026-05-11,Robert Sanchez,Ryder System,3,19,3,25,12.0,,Robert Sanchez Ryder System
+2026-05-11,Tim Hingtgen,Community Health Systems,3,19,3,25,12.0,,Tim Hingtgen Community Health Systems
+2026-05-11,Avigal Soreq,Delek US,4,16,5,25,20.0,,Avigal Soreq Delek US
+2026-05-11,Gerardo Norcia,DTE Energy,7,3,1,11,9.1,,Gerardo Norcia DTE Energy
+2026-05-11,Mark Pearson,Equitable Holdings,12,11,2,25,8.0,,Mark Pearson Equitable Holdings
+2026-05-11,Lori Koch,DuPont de Nemours,2,19,2,23,8.7,,Lori Koch DuPont de Nemours
+2026-05-11,Rich Steinmeier,LPL Financial,12,11,2,25,8.0,,Rich Steinmeier LPL Financial
+2026-05-11,Bruce Van Saun,Citizens Financial Group,12,11,2,25,8.0,,Bruce Van Saun Citizens Financial Group
+2026-05-11,José Mas,MasTec,4,21,0,25,0.0,,José Mas MasTec
+2026-05-11,Andrés Gluski,AES,10,12,3,25,12.0,,Andrés Gluski AES
+2026-05-11,Kevin Kwilinski,Berry Global,4,19,0,23,0.0,,Kevin Kwilinski Berry Global
+2026-05-11,Mark George,Norfolk Southern,8,13,4,25,16.0,,Mark George Norfolk Southern
+2026-05-11,Eduardo Menezes,Air Products & Chemicals,2,16,7,25,28.0,,Eduardo Menezes Air Products & Chemicals
+2026-05-11,Shelley Simpson,JB Hunt Transport Services,6,18,1,25,4.0,,Shelley Simpson JB Hunt Transport Services
+2026-05-11,Ronald J Lewis,Ball Corporation,2,21,2,25,8.0,,Ronald J Lewis Ball Corporation
+2026-05-11,Sean Connolly,Conagra Brands,2,22,1,25,4.0,,Sean Connolly Conagra Brands
+2026-05-11,Stephen Steinour,Huntington Bancshares,9,12,4,25,16.0,,Stephen Steinour Huntington Bancshares
+2026-05-11,James Snee,Hormel Foods,0,24,1,25,4.0,,James Snee Hormel Foods
+2026-05-11,Joseph Nolan,Eversource Energy,6,14,5,25,20.0,,Joseph Nolan Eversource Energy
+2026-05-11,William Oplinger,Alcoa Corporation,5,15,5,25,20.0,,William Oplinger Alcoa Corporation
+2026-05-11,Drew Marsh,Entergy,13,12,0,25,0.0,,Drew Marsh Entergy
+2026-05-11,Keith Demmings,Assurant,4,18,1,23,4.3,,Keith Demmings Assurant
+2026-05-11,Sumit Singh,Chewy,10,14,1,25,4.0,,Sumit Singh Chewy
+2026-05-11,Niraj Shah,Wayfair,8,14,3,25,12.0,,Niraj Shah Wayfair
+2026-05-11,Brian Choi,Avis Budget,4,15,6,25,24.0,,Brian Choi Avis Budget
+2026-05-11,Jeffrey Sprecher,Intercontinental Exchange,10,14,1,25,4.0,,Jeffrey Sprecher Intercontinental Exchange
+2026-05-11,Benito Minicucci,Alaska Airlines,2,10,1,13,7.7,,Benito Minicucci Alaska Airlines
+2026-05-11,Patrick Kelleher,GXO Logistics,8,16,1,25,4.0,,Patrick Kelleher GXO Logistics
+2026-05-11,Eric Hansotia,AGCO,7,15,3,25,12.0,,Eric Hansotia AGCO
+2026-05-11,Kathleen Mazzarella,Graybar Electric,7,16,0,23,0.0,,Kathleen Mazzarella Graybar Electric
+2026-05-11,Rahul Goyal,Molson Coors Beverage,4,20,1,25,4.0,,Rahul Goyal Molson Coors Beverage
+2026-05-11,Patrick Gallagher,Arthur J Gallagher & Co,13,12,0,25,0.0,,Patrick Gallagher Arthur J Gallagher & Co
+2026-05-11,Christopher Kastner,Huntington Ingalls Industries,7,15,3,25,12.0,,Christopher Kastner Huntington Ingalls Industries
+2026-05-11,Erik Fyrwald,International Flavors & Fragrances,9,12,4,25,16.0,,Erik Fyrwald International Flavors & Fragrances
+2026-05-11,Ricardo Cardenas,Darden Restaurants,10,15,0,25,0.0,,Ricardo Cardenas Darden Restaurants
+2026-05-11,Stephen Spray,CIncinnati Financial,5,14,6,25,24.0,,Stephen Spray CIncinnati Financial
+2026-05-11,Scott Boatwright,Chipotle Mexican Grill,6,13,6,25,24.0,,Scott Boatwright Chipotle Mexican Grill
+2026-05-11,Joey Wat,Yum China,5,16,4,25,16.0,,Joey Wat Yum China
+2026-05-11,Patrick Dumont,Las Vegas Sands,2,23,0,25,0.0,,Patrick Dumont Las Vegas Sands
+2026-05-11,Kecia Steelman,Ulta Beauty,21,4,0,25,0.0,,Kecia Steelman Ulta Beauty
+2026-05-11,Thomas Reeg,Caesars Entertainment,10,14,1,25,4.0,,Thomas Reeg Caesars Entertainment
+2026-05-11,Jon Rousseau,BrightSpring Health Services,7,18,0,25,0.0,,Jon Rousseau BrightSpring Health Services
+2026-05-11,William Krueger,The Andersons Inc,4,9,0,13,0.0,,William Krueger The Andersons Inc
+2026-05-11,Kirk Tanner,The Hershey Company,6,17,2,25,8.0,,Kirk Tanner The Hershey Company
+2026-05-11,Christopher Nassetta,Hilton Worldwide,10,11,4,25,16.0,,Christopher Nassetta Hilton Worldwide
+2026-05-11,Mark Wang,Hilton Grand Vacations,25,0,0,25,0.0,,Mark Wang Hilton Grand Vacations
+2026-05-11,Bruce Bodine,The Mosaic Company,8,12,5,25,20.0,,Bruce Bodine The Mosaic Company
+2026-05-11,Brian Chesky,Airbnb,5,10,10,25,40.0,,Brian Chesky Airbnb
+2026-05-11,Kaes Van’t Hof,Diamondback Energy,11,8,6,25,24.0,,Kaes Van’t Hof Diamondback Energy
+2026-05-11,Steven Vondran,American Tower,7,14,4,25,16.0,,Steven Vondran American Tower
+2026-05-11,Reshma Kewalramani,Vertex Pharmaceuticals,6,17,2,25,8.0,,Reshma Kewalramani Vertex Pharmaceuticals
+2026-05-11,William McDermott,ServiceNow,8,11,6,25,24.0,,William McDermott ServiceNow
+2026-05-11,Brian Chambers,Owens Corning,2,20,3,25,12.0,,Brian Chambers Owens Corning
+2026-05-11,Teresa Rasmussen,Thrivent Financial for Lutherans,3,7,0,10,0.0,,Teresa Rasmussen Thrivent Financial for Lutherans
+2026-05-11,Shane O'Kelly,Advance Auto Parts,5,18,2,25,8.0,,Shane O'Kelly Advance Auto Parts
+2026-05-11,Douglas Yearley,Toll Brothers,4,17,4,25,16.0,,Douglas Yearley Toll Brothers
+2026-05-11,Jeffrey Lorberbaum,Mohawk Industries,10,14,1,25,4.0,,Jeffrey Lorberbaum Mohawk Industries
+2026-05-11,Gregory Brown,Motorola Solutions,8,16,1,25,4.0,,Gregory Brown Motorola Solutions
+2026-05-11,John Pfeifer,Oshkosh Corporation,6,19,0,25,0.0,,John Pfeifer Oshkosh Corporation
+2026-05-11,Tony Xu,DoorDash,9,12,4,25,16.0,,Tony Xu DoorDash
+2026-05-11,Edward Pesicka,Owens & Minor,5,16,4,25,16.0,,Edward Pesicka Owens & Minor
+2026-05-11,Eugene Bredow,NVR Inc,1,8,1,10,10.0,,Eugene Bredow NVR Inc
+2026-05-11,Philippe Krakowsky,Interpublic Group,6,17,2,25,8.0,,Philippe Krakowsky Interpublic Group
+2026-05-11,Horacio Rozanski,Booz Allen Hamilton,9,11,5,25,20.0,,Horacio Rozanski Booz Allen Hamilton
+2026-05-11,Michael O’Sullivan,Burlington Stores,10,15,0,25,0.0,,Michael O’Sullivan Burlington Stores
+2026-05-11,Daniel Wall,Expeditors International of Washington,3,6,0,9,0.0,,Daniel Wall Expeditors International of Washington
+2026-05-11,Calvin McDonald,Lululemon athletica,7,36,2,45,4.4,,Calvin McDonald Lululemon athletica
+2026-05-11,Stephanie Ferris,Fidelity National Information Services,10,14,1,25,4.0,,Stephanie Ferris Fidelity National Information Services
+2026-05-11,Rich Handler,Jefferies Financial,8,7,10,25,40.0,,Rich Handler Jefferies Financial
+2026-05-11,Chad Zamarin,Williams Companies,12,11,2,25,8.0,,Chad Zamarin Williams Companies
+2026-05-11,Bracken Darrell,VF Corporation,7,16,2,25,8.0,,Bracken Darrell VF Corporation
+2026-05-11,Mikael Bratt,Autoliv,5,12,6,23,26.1,,Mikael Bratt Autoliv
+2026-05-11,Rafael Santana,Westinghouse Air Brake Technologies,16,9,0,25,0.0,,Rafael Santana Westinghouse Air Brake Technologies
+2026-05-11,Ralph LaRossa,Public Service Enterprise Group,12,11,2,25,8.0,,Ralph LaRossa Public Service Enterprise Group
+2026-05-11,Jamie Iannone,Ebay,11,14,0,25,0.0,,Jamie Iannone Ebay
+2026-05-11,Scott Richardson,Celanese,5,16,4,25,16.0,,Scott Richardson Celanese
+2026-05-11,Cameron Bready,Global Payments,2,19,4,25,16.0,,Cameron Bready Global Payments
+2026-05-11,Robert Thomson,News Corp,4,17,4,25,16.0,,Robert Thomson News Corp
+2026-05-11,Robert Martin,THOR Industries,6,12,3,21,14.3,,Robert Martin THOR Industries
+2026-05-11,David Rawlinson II,QVC Group,4,16,5,25,20.0,,David Rawlinson II QVC Group
+2026-05-11,Andrew Teno,Icahn Enterprises,4,8,2,14,14.3,,Andrew Teno Icahn Enterprises
+2026-05-11,William Newlands,Constellation Brands,4,18,3,25,12.0,,William Newlands Constellation Brands
+2026-05-11,James Davis,Quest Diagnostics,5,18,2,25,8.0,,James Davis Quest Diagnostics
+2026-05-11,Richard Wallace,KLA,3,7,1,11,9.1,,Richard Wallace KLA
+2026-05-11,Brad Jacobs,QXO Building Products,2,21,2,25,8.0,,Brad Jacobs QXO Building Products
+2026-05-11,John Christmann IV,APA,2,7,0,9,0.0,,John Christmann IV APA
+2026-05-11,Gregory Roberts,A-Mark Precious Metals,15,9,1,25,4.0,,Gregory Roberts A-Mark Precious Metals
+2026-05-11,Christopher Viehbacher,Biogen,6,17,2,25,8.0,,Christopher Viehbacher Biogen
+2026-05-11,Mick Beekhuizen,The Campbells Company,4,16,5,25,20.0,,Mick Beekhuizen The Campbells Company
+2026-05-11,Christopher Caldwell,Concentrix,12,10,3,25,12.0,,Christopher Caldwell Concentrix
+2026-05-11,Todd Schneider,Cintas,7,15,3,25,12.0,,Todd Schneider Cintas
+2026-05-11,Tony Sarsam,SpartanNash,9,15,1,25,4.0,,Tony Sarsam SpartanNash
+2026-05-11,John Venhuizen,Ace Hardware,6,17,2,25,8.0,,John Venhuizen Ace Hardware
+2026-05-11,Vincent Roche,Analog Devices,15,9,1,25,4.0,,Vincent Roche Analog Devices
+2026-05-11,Mark Costa,Eastman Chemical,2,15,8,25,32.0,,Mark Costa Eastman Chemical
+2026-05-11,Milan Galik,Interactive Brokers,4,19,2,25,8.0,,Milan Galik Interactive Brokers
+2026-05-11,John Turner,Regions Financial,5,18,2,25,8.0,,John Turner Regions Financial
+2026-05-11,Joanna Geraghty,JetBlue Airways,5,13,7,25,28.0,,Joanna Geraghty JetBlue Airways
+2026-05-11,Kristin Peck,Zoetis,10,13,2,25,8.0,,Kristin Peck Zoetis
+2026-05-11,Christopher Gorman,KeyCorp,6,16,3,25,12.0,,Christopher Gorman KeyCorp
+2026-05-11,Mark Bertolini,Oscar Health,16,7,2,25,8.0,,Mark Bertolini Oscar Health
+2026-05-11,Brendan McCracken,Ovintiv,10,15,0,25,0.0,,Brendan McCracken Ovintiv
+2026-05-11,Robert Steer,Seaboard,0,9,0,9,0.0,,Robert Steer Seaboard
+2026-05-11,Gil West,Hertz,9,10,6,25,24.0,,Gil West Hertz
+2026-05-11,Robert Greenberg,Skechers USA,4,16,5,25,20.0,,Robert Greenberg Skechers USA
+2026-05-11,Dennis Mathew,Optimum Communications Inc,8,15,2,25,8.0,,Dennis Mathew Optimum Communications Inc
+2026-05-11,Clay Williams,NOV,12,10,3,25,12.0,,Clay Williams NOV
+2026-05-11,Michael Doss,Graphic Packaging,4,16,5,25,20.0,,Michael Doss Graphic Packaging
+2026-05-11,Deon Stander,Avery Dennison,2,16,1,19,5.3,,Deon Stander Avery Dennison
+2026-05-11,Adaire Fox-Martin,Equinix,8,16,1,25,4.0,,Adaire Fox-Martin Equinix
+2026-05-11,Joyce Mullen,Insight Enterprises,5,17,3,25,12.0,,Joyce Mullen Insight Enterprises
+2026-05-11,Jennifer Witz,Sirius XM,7,18,0,25,0.0,,Jennifer Witz Sirius XM
+2026-05-11,Stefan Larsson,PVH,6,14,5,25,20.0,,Stefan Larsson PVH
+2026-05-11,Jason P Wells,CenterPoint Energy,12,7,4,23,17.4,,Jason P Wells CenterPoint Energy
+2026-05-11,Scott Lauber,WEC Energy,12,13,0,25,0.0,,Scott Lauber WEC Energy
+2026-05-11,Matthew Pine,Xylem Inc,3,12,1,16,6.2,,Matthew Pine Xylem Inc
+2026-05-11,Jennifer Johnson,Franklin Resources,3,20,2,25,8.0,,Jennifer Johnson Franklin Resources
+2026-05-11,Vincent Sorgi,PPL Corporation,7,16,2,25,8.0,,Vincent Sorgi PPL Corporation
+2026-05-11,Carl Eschenbach,Workday,5,17,3,25,12.0,,Carl Eschenbach Workday
+2026-05-11,Richard Tobin,Dover Corporation,8,15,2,25,8.0,,Richard Tobin Dover Corporation
+2026-05-11,Mark Kowlzan,Packaging Corp of America,7,13,5,25,20.0,,Mark Kowlzan Packaging Corp of America
+2026-05-11,Scott Salmirs,ABM Industries,6,14,5,25,20.0,,Scott Salmirs ABM Industries
+2026-05-11,Dave Rosa,Intuitive Surgical,7,14,4,25,16.0,,Dave Rosa Intuitive Surgical
+2026-05-11,Carl Lindner lll,American Financial Group,4,8,13,25,52.0,,Carl Lindner lll American Financial Group
+2026-05-11,Blake Moret,Rockwell Automation,8,16,1,25,4.0,,Blake Moret Rockwell Automation
+2026-05-11,Bryan Hanson,Solventum,5,19,1,25,4.0,,Bryan Hanson Solventum
+2026-05-11,Craig Smiddy,Old Republic International,1,9,1,11,9.1,,Craig Smiddy Old Republic International
+2026-05-11,Christopher Hilger,Securian Financial,4,10,1,15,6.7,,Christopher Hilger Securian Financial
+2026-05-11,Hamid Moghadam,Prologis,1,21,3,25,12.0,,Hamid Moghadam Prologis
+2026-05-11,Mark Smucker,JM Smucker,5,18,2,25,8.0,,Mark Smucker JM Smucker
+2026-05-11,Sheryl Palmer,Taylor Morrison Home,6,19,0,25,0.0,,Sheryl Palmer Taylor Morrison Home
+2026-05-11,Mario Harik,XPO,7,17,1,25,4.0,,Mario Harik XPO
+2026-05-11,Heather Lavallee,Voya Financial,8,15,2,25,8.0,,Heather Lavallee Voya Financial
+2026-05-11,Nikesh Arora,Palo Alto Networks,13,10,2,25,8.0,,Nikesh Arora Palo Alto Networks
+2026-05-11,Giordano Albertazzi,Vertiv,11,11,3,25,12.0,,Giordano Albertazzi Vertiv
+2026-05-11,Shankh Mitra,Welltower,12,10,3,25,12.0,,Shankh Mitra Welltower
+2026-05-11,Ann Freeman,Foot Locker Inc,1,20,4,25,16.0,,Ann Freeman Foot Locker Inc
+2026-05-11,William Monteleone,Par Pacific,2,8,0,10,0.0,,William Monteleone Par Pacific
+2026-05-11,Kevin Stein,TransDigm,8,14,3,25,12.0,,Kevin Stein TransDigm
+2026-05-11,Peter Matt,Commercial Metals,7,15,3,25,12.0,,Peter Matt Commercial Metals
+2026-05-11,Rob Vitale,Post Holdings,1,19,5,25,20.0,,Rob Vitale Post Holdings
+2026-05-11,Keith Allman,Masco,4,16,0,20,0.0,,Keith Allman Masco
+2026-05-11,Rusty Rush,Rush Enterprises,6,17,2,25,8.0,,Rusty Rush Rush Enterprises
+2026-05-11,Stuart Bradie,KBR,7,15,3,25,12.0,,Stuart Bradie KBR
+2026-05-11,Jack Sinclair,Sprouts Farmers Market,10,13,2,25,8.0,,Jack Sinclair Sprouts Farmers Market
+2026-05-11,Laura Alber,Williams-Sonoma,5,18,2,25,8.0,,Laura Alber Williams-Sonoma
+2026-05-11,Ivan Tornos,Zimmer Biomet,3,16,6,25,24.0,,Ivan Tornos Zimmer Biomet
+2026-05-11,John Mengucci,CACI International,8,14,3,25,12.0,,John Mengucci CACI International
+2026-05-11,Steve Sanghi,Microchip Technology,10,15,0,25,0.0,,Steve Sanghi Microchip Technology
+2026-05-11,Albert Nahmad,Watsco,3,19,3,25,12.0,,Albert Nahmad Watsco
+2026-05-11,Christopher Peterson,Newell Brands,5,13,7,25,28.0,,Christopher Peterson Newell Brands
+2026-05-11,Arie Kotler,ARKO,6,17,2,25,8.0,,Arie Kotler ARKO
+2026-05-11,Jure Sola,Sanmina,4,20,1,25,4.0,,Jure Sola Sanmina
+2026-05-11,Andrew Wilson,Electronic Arts,12,13,0,25,0.0,,Andrew Wilson Electronic Arts
+2026-05-11,David Gibbs,Yum Brands,2,21,2,25,8.0,,David Gibbs Yum Brands
+2026-05-11,Daniel Florness,Fastenal,1,17,4,22,18.2,,Daniel Florness Fastenal
+2026-05-11,Garrick Rochow,CMS Energy,20,4,1,25,4.0,,Garrick Rochow CMS Energy
+2026-05-11,Hilton Schlosberg,Monster Beverage,11,14,0,25,0.0,,Hilton Schlosberg Monster Beverage
+2026-05-11,Toni Townes-Whitley,Science Applications International,4,18,3,25,12.0,,Toni Townes-Whitley Science Applications International
+2026-05-11,Mark Witkowski,Core & Main,1,20,4,25,16.0,,Mark Witkowski Core & Main
+2026-05-11,John Plant,Howmet Aerospace,1,22,2,25,8.0,,John Plant Howmet Aerospace
+2026-05-11,James Zallie,Ingredion,6,17,2,25,8.0,,James Zallie Ingredion
+2026-05-11,Thomas Hill,Vulcan Materials,9,11,5,25,20.0,,Thomas Hill Vulcan Materials
+2026-05-11,Donald Zurbay,Patterson Companies Inc,0,6,2,8,25.0,,Donald Zurbay Patterson Companies Inc
+2026-05-11,Anthony Smurfit,Smurfit Westrock,3,16,6,25,24.0,,Anthony Smurfit Smurfit Westrock
+2026-05-11,Richard P Dealy,Pioneer Natural Resources,4,4,0,8,0.0,,Richard P Dealy Pioneer Natural Resources
+2026-05-11,Derek Chang,Liberty Media,23,2,0,25,0.0,,Derek Chang Liberty Media
+2026-05-11,Timothy J Donahue,Crown Holdings,7,16,2,25,8.0,,Timothy J Donahue Crown Holdings
+2026-05-11,R Bruce McDonald,Dana Incorporated,7,17,1,25,4.0,,R Bruce McDonald Dana Incorporated
+2026-05-11,J Kent Masters,Albemarle Corporation,5,17,3,25,12.0,,J Kent Masters Albemarle Corporation
+2026-05-11,Malcolm C Roberts,FM Global,2,12,3,17,17.6,,Malcolm C Roberts FM Global
+2026-05-11,Mike Speetzen,Polaris Inc,1,18,6,25,24.0,,Mike Speetzen Polaris Inc
+2026-05-11,Bob Flexon,UGI Utilities Inc,2,6,1,9,11.1,,Bob Flexon UGI Utilities Inc
+2026-05-11,Robert D Lawler,Continental Resources,3,6,0,9,0.0,,Robert D Lawler Continental Resources
+2026-05-11,Domenic Dell’Osso Jr,Expand Energy Corporation,25,0,0,25,0.0,,Domenic Dell’Osso Jr Expand Energy Corporation
+2026-05-11,H Michael Krimbill,NGL Energy Partners,5,5,0,10,0.0,,H Michael Krimbill NGL Energy Partners
+2026-05-11,Hassane El-Khoury,ON Semiconductor,10,8,7,25,28.0,,Hassane El-Khoury ON Semiconductor
+2026-05-11,Joseph M Otting,Flagstar Financial,5,17,3,25,12.0,,Joseph M Otting Flagstar Financial
+2026-05-11,Gerry P Smith,ODP Business Solutions,3,6,2,11,18.2,,Gerry P Smith ODP Business Solutions
+2026-05-11,Devin Stockfish,Weyerhaeuser,8,17,0,25,0.0,,Devin Stockfish Weyerhaeuser
+2026-05-11,Thomas J McInerney,Genworth Financial,3,6,1,10,10.0,,Thomas J McInerney Genworth Financial
+2026-05-11,Daniel Heaf,Bath & Body Works,7,14,4,25,16.0,,Daniel Heaf Bath & Body Works
+2026-05-11,Linda Rendle,Clorox,3,17,5,25,20.0,,Linda Rendle Clorox
+2026-05-11,Frank C Sullivan,RPM International,7,16,2,25,8.0,,Frank C Sullivan RPM International
+2026-05-11,Matthew Missad,UFP Industries,9,7,2,18,11.1,,Matthew Missad UFP Industries
+2026-05-11,Martin J Lyons,Ameren,3,14,2,19,10.5,,Martin J Lyons Ameren
+2026-05-11,Adam W Miller,Knight Swift Transportation,6,15,4,25,16.0,,Adam W Miller Knight Swift Transportation
+2026-05-11,Charles Liang,Super Micro Computer,13,9,3,25,12.0,,Charles Liang Super Micro Computer
+2026-05-11,Gordon J Hardie,O-I Glass,0,4,1,5,20.0,,Gordon J Hardie O-I Glass
+2026-05-11,Steve Henry,Domtar,2,8,2,12,16.7,,Steve Henry Domtar
+2026-05-11,Chuck Treadway,CommScope,3,20,2,25,8.0,,Chuck Treadway CommScope
+2026-05-11,Steven J Moskowitz,Crown Castle,3,10,2,15,13.3,,Steven J Moskowitz Crown Castle
+2026-05-11,Emmanuel Ligner,Avantor,3,19,3,25,12.0,,Emmanuel Ligner Avantor
+2026-05-11,Kaz Nejatian,Opendoor Technologies,10,12,3,25,12.0,,Kaz Nejatian Opendoor Technologies
+2026-05-11,Russell Becker,APi Group,3,20,2,25,8.0,,Russell Becker APi Group
+2026-05-11,Toby Rice,EQT,13,5,7,25,28.0,,Toby Rice EQT
+2026-05-11,Jesse Arenivas,EnLink Midstream,4,12,0,16,0.0,,Jesse Arenivas EnLink Midstream
+2026-05-11,Steven Bandrowczak,Xerox,4,20,1,25,4.0,,Steven Bandrowczak Xerox
+2026-05-11,Vicente Reynal,Ingersoll Rand,6,19,0,25,0.0,,Vicente Reynal Ingersoll Rand
+2026-05-11,William T Dillard II,Dillards,12,10,3,25,12.0,,William T Dillard II Dillards
+2026-05-11,C Howard Nye,Martin Marietta Materials,2,6,3,11,27.3,,C Howard Nye Martin Marietta Materials
+2026-05-11,Stephane Bancel,Moderna,5,14,6,25,24.0,,Stephane Bancel Moderna
+2026-05-11,Nate R Jorgensen,Boise Cascade,1,2,0,3,0.0,,Nate R Jorgensen Boise Cascade
+2026-05-11,Padraig McDonnell,Agilent Technologies,10,15,0,25,0.0,,Padraig McDonnell Agilent Technologies
+2026-05-11,Kenneth T Lane,Olin Corporation,4,5,3,12,25.0,,Kenneth T Lane Olin Corporation
+2026-05-11,Randall C Stuewe,Darling Ingredients,19,1,0,20,0.0,,Randall C Stuewe Darling Ingredients
+2026-05-11,R Howard Coker,Sonoco Products,5,14,0,19,0.0,,R Howard Coker Sonoco Products
+2026-05-11,Lee M Tillman,Marathon Oil,3,17,4,24,16.7,,Lee M Tillman Marathon Oil
+2026-05-11,Mark Hoplamazian,Hyatt Hotels,5,19,1,25,4.0,,Mark Hoplamazian Hyatt Hotels
+2026-05-11,David S Chernow,Select Medical Holdings,1,10,0,11,0.0,,David S Chernow Select Medical Holdings
+2026-05-11,Brendan M Foley,McCormick & Company,7,17,1,25,4.0,,Brendan M Foley McCormick & Company
+2026-05-11,Joanne Crevoiserat,Tapestry,10,15,0,25,0.0,,Joanne Crevoiserat Tapestry
+2026-05-11,W Anthony Will,CF Industries,4,15,6,25,24.0,,W Anthony Will CF Industries
+2026-05-11,David A Zapico,Ametek,3,21,1,25,4.0,,David A Zapico Ametek
+2026-05-11,Craig Billings,Wynn Resorts,5,16,4,25,16.0,,Craig Billings Wynn Resorts
+2026-05-11,Giel Rutten,Amkor Technology,6,17,2,25,8.0,,Giel Rutten Amkor Technology
+2026-05-11,Paul Sarvadi,Insperity,9,16,0,25,0.0,,Paul Sarvadi Insperity
+2026-05-11,Rob Sharps,T Rowe Price,8,12,5,25,20.0,,Rob Sharps T Rowe Price
+2026-05-11,Patrice Louvet,Ralph Lauren,10,13,2,25,8.0,,Patrice Louvet Ralph Lauren
+2026-05-11,Jeffrey Mezger,KB Home,2,15,8,25,32.0,,Jeffrey Mezger KB Home
+2026-05-11,David M Foulkes,Brunswick Corporation,4,13,0,17,0.0,,David M Foulkes Brunswick Corporation
+2026-05-11,M Keith Waddell,Robert Half,14,11,0,25,0.0,,M Keith Waddell Robert Half
+2026-05-11,Jay Snowden,PENN Entertainment,17,5,3,25,12.0,,Jay Snowden PENN Entertainment
+2026-05-11,George Kurian,NetApp,7,18,0,25,0.0,,George Kurian NetApp
+2026-05-11,Joseph Morrissey,Organon,1,7,6,14,42.9,,Joseph Morrissey Organon
+2026-05-11,Joel D Anderson,Petco Health and Wellness,3,13,0,16,0.0,,Joel D Anderson Petco Health and Wellness
+2026-05-11,Louis V Pinkham,Regal Rexnord,2,8,1,11,9.1,,Louis V Pinkham Regal Rexnord
+2026-05-11,Jay Geldmacher,Resideo Technologies,10,6,1,17,5.9,,Jay Geldmacher Resideo Technologies
+2026-05-11,Matthew Wagner,Camping World,7,16,2,25,8.0,,Matthew Wagner Camping World
+2026-05-11,Peter R Huntsman,Huntsman Corporation,4,18,3,25,12.0,,Peter R Huntsman Huntsman Corporation
+2026-05-11,Hillary Super,Victorias Secret,17,8,0,25,0.0,,Hillary Super Victorias Secret
+2026-05-11,Michelle Gass,Levi Strauss,8,15,2,25,8.0,,Michelle Gass Levi Strauss
+2026-05-11,Neil Hunn,Roper Technologies,4,20,1,25,4.0,,Neil Hunn Roper Technologies
+2026-05-11,Steven P Lawrence,Academy Sports and Outdoors,1,3,1,5,20.0,,Steven P Lawrence Academy Sports and Outdoors
+2026-05-11,Phillippe Lord,Meritage Homes,7,14,4,25,16.0,,Phillippe Lord Meritage Homes
+2026-05-11,David C Dauch,American Axle & Manufacturing,3,22,0,25,0.0,,David C Dauch American Axle & Manufacturing
+2026-05-11,Olumide Soroye,Fortive,8,16,1,25,4.0,,Olumide Soroye Fortive
+2026-05-11,Adena Friedman,Nasdaq Inc,10,13,2,25,8.0,,Adena Friedman Nasdaq Inc
+2026-05-11,Tim Gokey,Broadridge Financial Solutions,5,20,0,25,0.0,,Tim Gokey Broadridge Financial Solutions
+2026-05-11,Patrick M Shanahan,Spirit AeroSystems,2,11,1,14,7.1,,Patrick M Shanahan Spirit AeroSystems
+2026-05-11,Robert Kyncl,Warner Music Group,10,13,2,25,8.0,,Robert Kyncl Warner Music Group
+2026-05-11,Denise Dignam,Chemours,4,15,6,25,24.0,,Denise Dignam Chemours
+2026-05-11,Jim DeVries,ADT Inc,5,11,3,19,15.8,,Jim DeVries ADT Inc
+2026-05-11,Bernard Zovighian,Edwards Lifesciences,5,16,2,23,8.7,,Bernard Zovighian Edwards Lifesciences
+2026-05-11,Mark E Seaton,First American Financial,2,16,2,20,10.0,,Mark E Seaton First American Financial
+2026-05-11,John C Roche,Hanover Insurance Group,3,14,5,22,22.7,,John C Roche Hanover Insurance Group
+2026-05-11,Adam J Greenlee,Silgan,0,7,2,9,22.2,,Adam J Greenlee Silgan
+2026-05-11,Ari Emanuel,WME Group,5,14,6,25,24.0,,Ari Emanuel WME Group
+2026-05-11,Robert Fauber,Moodys Corporation,6,11,8,25,32.0,,Robert Fauber Moodys Corporation
+2026-05-11,Thomas E Jorden,Coterra Energy,18,2,0,20,0.0,,Thomas E Jorden Coterra Energy
+2026-05-11,Eugene A Hall,Gartner,3,19,3,25,12.0,,Eugene A Hall Gartner
+2026-05-11,Kevin Plank,Under Armour,1,20,4,25,16.0,,Kevin Plank Under Armour
+2026-05-11,James W Lanning,Ingles Markets,4,2,2,8,25.0,,James W Lanning Ingles Markets
+2026-05-11,Matthew T Farrell,Church & Dwight,10,14,1,25,4.0,,Matthew T Farrell Church & Dwight
+2026-05-11,Kevin M Freeman,Old Dominion Freight Line,3,7,1,11,9.1,,Kevin M Freeman Old Dominion Freight Line
+2026-05-11,Joe Shoen,U-Haul,7,12,6,25,24.0,,Joe Shoen U-Haul
+2026-05-11,Jayshree Ullal,Arista Networks,13,12,0,25,0.0,,Jayshree Ullal Arista Networks
+2026-05-11,Sassine Ghazi,Synopsys,5,17,3,25,12.0,,Sassine Ghazi Synopsys
+2026-05-11,Jochen Zeitz,Harley-Davidson,3,19,3,25,12.0,,Jochen Zeitz Harley-Davidson
+2026-05-11,Nick Jeffery,Frontier Communications,3,21,1,25,4.0,,Nick Jeffery Frontier Communications
+2026-05-11,Thomas Edward McCormick,Primoris Services,2,6,1,9,11.1,,Thomas Edward McCormick Primoris Services
+2026-05-11,D Christian Koch,Carlisle Companies,5,16,4,25,16.0,,D Christian Koch Carlisle Companies
+2026-05-11,David E Simon,Simon Property Group,2,17,6,25,24.0,,David E Simon Simon Property Group
+2026-05-11,Stephen Bratspies,Hanesbrands,2,22,1,25,4.0,,Stephen Bratspies Hanesbrands
+2026-05-11,George Bobb III,Teledyne Technologies,1,6,1,8,12.5,,George Bobb III Teledyne Technologies
+2026-05-11,Terrence A Duffy,CME Group,7,14,4,25,16.0,,Terrence A Duffy CME Group
+2026-05-11,Rami Rahim,Juniper Networks,4,19,2,25,8.0,,Rami Rahim Juniper Networks
+2026-05-11,Markus Strobel,Coty,6,15,4,25,16.0,,Markus Strobel Coty
+2026-05-11,Peter D Arvan,Pool Corporation,5,15,5,25,20.0,,Peter D Arvan Pool Corporation
+2026-05-11,David Campbell,Evergy,16,9,0,25,0.0,,David Campbell Evergy
+2026-05-11,Matthew J Murphy,Marvell Technology,4,20,1,25,4.0,,Matthew J Murphy Marvell Technology
+2026-05-11,Lloyd Yates,NiSource,9,15,1,25,4.0,,Lloyd Yates NiSource
+2026-05-11,William C Stone,SS&C Technologies,8,17,0,25,0.0,,William C Stone SS&C Technologies
+2026-05-11,Mark Rourke,Schneider National,9,16,0,25,0.0,,Mark Rourke Schneider National
+2026-05-11,Andrew Anagnost,Autodesk,11,10,4,25,16.0,,Andrew Anagnost Autodesk
+2026-05-11,Dustin Semach,Sealed Air Corporation,6,18,1,25,4.0,,Dustin Semach Sealed Air Corporation
+2026-05-11,William L Meaney,Iron Mountain,8,14,3,25,12.0,,William L Meaney Iron Mountain
+2026-05-11,Andy P Power,Digital Realty Trust,7,10,0,17,0.0,,Andy P Power Digital Realty Trust
+2026-05-11,Satish Dhanasekaran,Keysight Technologies,7,12,1,20,5.0,,Satish Dhanasekaran Keysight Technologies
+2026-05-11,Frank M Svoboda,Globe Life,7,2,3,12,25.0,,Frank M Svoboda Globe Life
+2026-05-11,Carey A Smith,Parsons Corporation,8,12,5,25,20.0,,Carey A Smith Parsons Corporation
+2026-05-11,Ynon Kreiz,Mattel,8,15,2,25,8.0,,Ynon Kreiz Mattel
+2026-05-11,Karen S Haller,Southwest Gas Holdings,2,8,0,10,0.0,,Karen S Haller Southwest Gas Holdings
+2026-05-11,Terrance Williams,TruStage,0,8,1,9,11.1,,Terrance Williams TruStage
+2026-05-11,Eric W Gerstenberg,Clean Harbors,5,1,2,8,25.0,,Eric W Gerstenberg Clean Harbors
+2026-05-11,Gunner Smith,Cornerstone Building Brands,5,15,0,20,0.0,,Gunner Smith Cornerstone Building Brands
+2026-05-11,Gerben W Bakker,Hubbell Incorporated,1,8,1,10,10.0,,Gerben W Bakker Hubbell Incorporated
+2026-05-11,Dave Davis,Spirit Airlines,2,14,9,25,36.0,,Dave Davis Spirit Airlines
+2026-05-11,Michael J Smith,Lamb Weston,1,14,10,25,40.0,,Michael J Smith Lamb Weston
+2026-05-11,Strauss Zelnick,Take-Two Interactive Software,9,14,2,25,8.0,,Strauss Zelnick Take-Two Interactive Software
+2026-05-11,John C Turner Jr,GMS,4,21,0,25,0.0,,John C Turner Jr GMS
+2026-05-11,David M O'Malley,Penn Mutual Life Insurance,1,3,2,6,33.3,,David M O'Malley Penn Mutual Life Insurance
+2026-05-11,Frank A Lonegro,Landstar System,5,10,2,17,11.8,,Frank A Lonegro Landstar System
+2026-05-11,James F Risoleo,Host Hotels & Resorts,4,13,0,17,0.0,,James F Risoleo Host Hotels & Resorts
+2026-05-11,Ken Xie,Fortinet,7,15,3,25,12.0,,Ken Xie Fortinet
+2026-05-11,Doug Shulman,OneMain,0,9,0,9,0.0,,Doug Shulman OneMain
+2026-05-11,Ryan Cohen,GameStop,4,10,11,25,44.0,,Ryan Cohen GameStop
+2026-05-11,Mark W Begor,Equifax,1,24,0,25,0.0,,Mark W Begor Equifax
+2026-05-11,Jay L Schottenstein,American Eagle Outfitters,11,12,2,25,8.0,,Jay L Schottenstein American Eagle Outfitters
+2026-05-11,Ole Rosgaard,Greif,7,12,6,25,24.0,,Ole Rosgaard Greif
+2026-05-11,Brian E Lane,Comfort Systems USA,23,1,1,25,4.0,,Brian E Lane Comfort Systems USA
+2026-05-11,Robert M Buck,TopBuild,0,7,3,10,30.0,,Robert M Buck TopBuild
+2026-05-11,Ralph Andretta,Bread Financial,7,14,0,21,0.0,,Ralph Andretta Bread Financial
+2026-05-11,Jim Anderson,Coherent,3,20,2,25,8.0,,Jim Anderson Coherent
+2026-05-11,Walter C. D. Carlson,Telephone & Data Systems,6,17,2,25,8.0,,Walter C. D. Carlson Telephone & Data Systems
+2026-05-11,Ronald Kruszewski,Stifel Financial,7,15,3,25,12.0,,Ronald Kruszewski Stifel Financial
+2026-05-11,Richard Hayne,Urban Outfitters,8,12,5,25,20.0,,Richard Hayne Urban Outfitters
+2026-05-11,Simon Meester,Terex,5,19,1,25,4.0,,Simon Meester Terex
+2026-05-11,Edward J Lehner,Ryerson Holding,2,3,0,5,0.0,,Edward J Lehner Ryerson Holding
+2026-05-11,Nicholas T Pinchuk,Snap-on,6,7,2,15,13.3,,Nicholas T Pinchuk Snap-on
+2026-05-11,Ryals McMullian,Flowers Foods,5,18,2,25,8.0,,Ryals McMullian Flowers Foods
+2026-05-11,D Bryan Jordan,First Horizon,9,13,3,25,12.0,,D Bryan Jordan First Horizon
+2026-05-11,John B Gibson,Paychex,1,20,0,21,0.0,,John B Gibson Paychex
+2026-05-11,Chris Cocks,Hasbro,10,12,3,25,12.0,,Chris Cocks Hasbro
+2026-05-11,Pete McPartland,Sentry Insurance Group,9,11,0,20,0.0,,Pete McPartland Sentry Insurance Group
+2026-05-11,Michael Arougheti,Ares Management,4,16,5,25,20.0,,Michael Arougheti Ares Management
+2026-05-11,Alok Maskara,Lennox International,11,12,0,23,0.0,,Alok Maskara Lennox International
+2026-05-11,James C Grech,Peabody Energy,8,1,1,10,10.0,,James C Grech Peabody Energy
+2026-05-11,C Thomas Evans Jr,Kemper Corporation,0,19,6,25,24.0,,C Thomas Evans Jr Kemper Corporation
+2026-05-11,Perry A Sook,Nexstar Media Group,6,13,6,25,24.0,,Perry A Sook Nexstar Media Group
+2026-05-11,Daniel Alegre,TelevisaUnivision,2,17,6,25,24.0,,Daniel Alegre TelevisaUnivision
+2026-05-11,Scott L Thompson,Tempur Sealy International,1,7,1,9,11.1,,Scott L Thompson Tempur Sealy International
+2026-05-11,Mike Simonds,TriNet Group,2,13,0,15,0.0,,Mike Simonds TriNet Group
+2026-05-11,B Andrew Rose,Worthington Enterprises,1,9,0,10,0.0,,B Andrew Rose Worthington Enterprises
+2026-05-11,Bruce L Caswell,Maximus,5,8,0,13,0.0,,Bruce L Caswell Maximus
+2026-05-11,Robert L Reffkin,Compass Group,2,11,4,17,23.5,,Robert L Reffkin Compass Group
+2026-05-11,Mark Eubanks,Brinks Company,5,17,3,25,12.0,,Mark Eubanks Brinks Company
+2026-05-11,Peter Quigley,Kelly Services Inc,8,17,0,25,0.0,,Peter Quigley Kelly Services Inc
+2026-05-11,David L Yowan,Navient,3,6,0,9,0.0,,David L Yowan Navient
+2026-05-11,Mary E Kipp,Puget Sound Energy,6,4,0,10,0.0,,Mary E Kipp Puget Sound Energy
+2026-05-11,Adam Aron,AMC Entertainment,11,9,5,25,20.0,,Adam Aron AMC Entertainment
+2026-05-11,Mark J Tarr,Encompass Health,1,10,1,12,8.3,,Mark J Tarr Encompass Health
+2026-05-11,Liam K Griffin,Skyworks Solutions,2,10,0,12,0.0,,Liam K Griffin Skyworks Solutions
+2026-05-11,Richard G Kyle,Timken,5,15,1,21,4.8,,Richard G Kyle Timken
+2026-05-11,Ron Gusek,Liberty Energy,23,1,1,25,4.0,,Ron Gusek Liberty Energy
+2026-05-11,John E Geller Jr,Marriott Vacations Worldwide,3,11,1,15,6.7,,John E Geller Jr Marriott Vacations Worldwide
+2026-05-11,Karl G. Glassman,Leggett & Platt,9,8,1,18,5.6,,Karl G. Glassman Leggett & Platt
+2026-05-11,Jonathan H Weis,Weis Markets,4,19,2,25,8.0,,Jonathan H Weis Weis Markets
+2026-05-11,Jeffrey B Guldner,Pinnacle West Capital,2,6,1,9,11.1,,Jeffrey B Guldner Pinnacle West Capital
+2026-05-11,Arkadiy Dobkin,EPAM Systems,10,12,3,25,12.0,,Arkadiy Dobkin EPAM Systems
+2026-05-11,Paul M Rady,Antero Resources,6,3,0,9,0.0,,Paul M Rady Antero Resources
+2026-05-11,Michael Spanos,Bloomin Brands,4,21,0,25,0.0,,Michael Spanos Bloomin Brands
+2026-05-11,Nicole A Kivisto,MDU Resources Group,6,10,2,18,11.1,,Nicole A Kivisto MDU Resources Group
+2026-05-11,Gerald L Morgan,Texas Roadhouse,5,13,7,25,28.0,,Gerald L Morgan Texas Roadhouse
+2026-05-11,Gabriel Tirador,Mercury General,3,7,0,10,0.0,,Gabriel Tirador Mercury General
+2026-05-11,Nicholas I Fink,Fortune Brands Innovations,4,18,3,25,12.0,,Nicholas I Fink Fortune Brands Innovations
+2026-05-11,Paul E Burdiss,Zions Bancorp,2,7,0,9,0.0,,Paul E Burdiss Zions Bancorp
+2026-05-11,William J Christensen,JELD-WEN Holding,2,7,0,9,0.0,,William J Christensen JELD-WEN Holding
+2026-05-11,Evan Spiegel,Snap Inc,6,10,9,25,36.0,,Evan Spiegel Snap Inc
+2026-05-11,Bill Burns,Zebra Technologies,6,19,0,25,0.0,,Bill Burns Zebra Technologies
+2026-05-11,Steven Sell,Agilon Health,1,8,4,13,30.8,,Steven Sell Agilon Health
+2026-05-11,Richard M Olson,Toro Company,2,22,1,25,4.0,,Richard M Olson Toro Company
+2026-05-11,Eric S Yuan,Zoom Video Communications,7,16,2,25,8.0,,Eric S Yuan Zoom Video Communications
+2026-05-11,Dan L Batrack,Tetra Tech,4,7,0,11,0.0,,Dan L Batrack Tetra Tech
+2026-05-11,Joseph D Russell Jr,Public Storage,0,19,2,21,9.5,,Joseph D Russell Jr Public Storage
+2026-05-11,Jacob Thaysen,Illumina Inc,7,14,4,25,16.0,,Jacob Thaysen Illumina Inc
+2026-05-11,Debra A Cafaro,Ventas Inc,11,14,0,25,0.0,,Debra A Cafaro Ventas Inc
+2026-05-11,Pierre R Brondeau,FMC Corporation,1,17,2,20,10.0,,Pierre R Brondeau FMC Corporation
+2026-05-11,Judy R McReynolds,ArcBest,9,15,1,25,4.0,,Judy R McReynolds ArcBest
+2026-05-11,Russell J Weiner,Dominos Pizza Inc,7,13,5,25,20.0,,Russell J Weiner Dominos Pizza Inc
+2026-05-11,Theodore S Hanson,ASGN,2,8,0,10,0.0,,Theodore S Hanson ASGN
+2026-05-11,RJ Scaringe,Rivian Automotive,3,21,1,25,4.0,,RJ Scaringe Rivian Automotive
+2026-05-11,Jeffrey N Simmons,Elanco Animal Health,18,7,0,25,0.0,,Jeffrey N Simmons Elanco Animal Health
+2026-05-11,Tim O Shaughnessy,Graham Holdings Company,6,17,2,25,8.0,,Tim O Shaughnessy Graham Holdings Company
+2026-05-11,Thomas V Taylor,Floor & Decor,2,13,3,18,16.7,,Thomas V Taylor Floor & Decor
+2026-05-11,Neil A Schrimsher,Applied Industrial Technologies,3,16,0,19,0.0,,Neil A Schrimsher Applied Industrial Technologies
+2026-05-11,Robert E Price,PriceSmart,4,9,1,14,7.1,,Robert E Price PriceSmart
+2026-05-11,John David Risher,Lyft,4,20,1,25,4.0,,John David Risher Lyft
+2026-05-11,Gary B Smith,Ciena,10,14,1,25,4.0,,Gary B Smith Ciena
+2026-05-11,Barry Diller,IAC inc,4,14,7,25,28.0,,Barry Diller IAC inc
+2026-05-11,Jim Jacobs,Country Financial,8,15,2,25,8.0,,Jim Jacobs Country Financial
+2026-05-11,Devin B McGranahan,Western Union,4,19,2,25,8.0,,Devin B McGranahan Western Union
+2026-05-11,R Scott Rowe,Flowserve,1,10,1,12,8.3,,R Scott Rowe Flowserve
+2026-05-11,Kenneth A Vecchione,Western Alliance Bancorp,5,13,7,25,28.0,,Kenneth A Vecchione Western Alliance Bancorp
+2026-05-11,John C Rademacher,Option Care Health,17,3,0,20,0.0,,John C Rademacher Option Care Health
+2026-05-11,Doug Black,SiteOne Landscape Supply,5,20,0,25,0.0,,Doug Black SiteOne Landscape Supply
+2026-05-11,Oliver G Brewer III,Topgolf Callaway Brands,0,2,0,2,0.0,,Oliver G Brewer III Topgolf Callaway Brands
+2026-05-11,Glenn Sanford,eXp World,8,13,4,25,16.0,,Glenn Sanford eXp World
+2026-05-11,Fran Horowitz,Abercrombie & Fitch,14,8,3,25,12.0,,Fran Horowitz Abercrombie & Fitch
+2026-05-11,Kevin Akers,Atmos Energy,20,3,2,25,8.0,,Kevin Akers Atmos Energy
+2026-05-11,Alessandro Maselli,Catalent,5,17,3,25,12.0,,Alessandro Maselli Catalent
+2026-05-11,J Powell Brown,Brown & Brown,8,13,4,25,16.0,,J Powell Brown Brown & Brown
+2026-05-11,Aman Bhutani,GoDaddy,8,15,2,25,8.0,,Aman Bhutani GoDaddy
+2026-05-11,John C. Griffith,American Water Works,4,20,1,25,4.0,,John C. Griffith American Water Works
+2026-05-11,John J Marchioni,Selective Insurance Group,4,12,2,18,11.1,,John J Marchioni Selective Insurance Group
+2026-05-11,Lawson E Whiting,Brown-Forman,6,17,2,25,8.0,,Lawson E Whiting Brown-Forman
+2026-05-11,Dave Peacock,Advantage Solutions,21,4,0,25,0.0,,Dave Peacock Advantage Solutions
+2026-05-11,Mick Farrell,ResMed,7,17,1,25,4.0,,Mick Farrell ResMed
+2026-05-11,Kamal Hathi,Splunk Inc,5,5,0,10,0.0,,Kamal Hathi Splunk Inc
+2026-05-11,Todd Kelsey,Plexus Corp,6,7,2,15,13.3,,Todd Kelsey Plexus Corp
+2026-05-11,Phillip D Yeager,Hub Group,4,9,0,13,0.0,,Phillip D Yeager Hub Group
+2026-05-11,Steven B Hedlund,Lincoln Electric,4,20,1,25,4.0,,Steven B Hedlund Lincoln Electric
+2026-05-11,Timothy C Oliver,NCR Atleos,2,4,0,6,0.0,,Timothy C Oliver NCR Atleos
+2026-05-11,Bruce Fleming,Calumet Inc,2,5,2,9,22.2,,Bruce Fleming Calumet Inc
+2026-05-11,Daniel S. Peyovich,Dycom Industries,2,4,1,7,14.3,,Daniel S. Peyovich Dycom Industries
+2026-05-11,Avner M Applbaum,Valmont Industries,1,16,1,18,5.6,,Avner M Applbaum Valmont Industries
+2026-05-11,Kimberly A Fields,ATI Inc,9,16,0,25,0.0,,Kimberly A Fields ATI Inc
+2026-05-11,Khozema Z Shipchandler,Twilio,1,6,3,10,30.0,,Khozema Z Shipchandler Twilio
+2026-05-11,Gary C Bhojwani,CNO Financial Group,2,12,0,14,0.0,,Gary C Bhojwani CNO Financial Group
+2026-05-11,William Andrew Hendricks Jr,Patterson-UTI Energy,7,2,1,10,10.0,,William Andrew Hendricks Jr Patterson-UTI Energy
+2026-05-11,Kevin D Hochman,Brinker International,13,11,1,25,4.0,,Kevin D Hochman Brinker International
+2026-05-11,James C Foster,Charles River Laboratories International,5,19,1,25,4.0,,James C Foster Charles River Laboratories International
+2026-05-11,Rajiv K Prasad,Hyster-Yale,0,5,1,6,16.7,,Rajiv K Prasad Hyster-Yale
+2026-05-11,Eric T Steigerwalt,Brighthouse Financial,5,12,1,18,5.6,,Eric T Steigerwalt Brighthouse Financial
+2026-05-11,Thomas L Ryan,Service Corp International,6,12,3,21,14.3,,Thomas L Ryan Service Corp International
+2026-05-11,Charles M Nifong Jr,CrossAmerica Partners,0,4,0,4,0.0,,Charles M Nifong Jr CrossAmerica Partners
+2026-05-11,Anirudh Devgan,Cadence,8,16,1,25,4.0,,Anirudh Devgan Cadence
+2026-05-11,Andi Owen,MillerKnoll,6,12,7,25,28.0,,Andi Owen MillerKnoll
+2026-05-11,Sumit Roy,Realty Income,7,17,1,25,4.0,,Sumit Roy Realty Income
+2026-05-11,Timothy John Fitzgerald,Middleby,1,5,1,7,14.3,,Timothy John Fitzgerald Middleby
+2026-05-11,Robert H Schottenstein,M/I Homes,4,10,0,14,0.0,,Robert H Schottenstein M/I Homes
+2026-05-11,Stephen P MacMillan,Hologic,5,16,2,23,8.7,,Stephen P MacMillan Hologic
+2026-05-11,Lisa M Barton,Alliant Energy,5,3,0,8,0.0,,Lisa M Barton Alliant Energy
+2026-05-11,Aaron P Jagdfeld,Generac,2,8,3,13,23.1,,Aaron P Jagdfeld Generac
+2026-05-11,Erik Gershwind,MSC Industrial Direct,6,14,5,25,20.0,,Erik Gershwind MSC Industrial Direct
+2026-05-11,Varun Krishna,Rocket Companies,7,16,2,25,8.0,,Varun Krishna Rocket Companies
+2026-05-11,Fahmi Karam,Upbound Group,7,6,0,13,0.0,,Fahmi Karam Upbound Group
+2026-05-11,NADominic Ng,East West Bancorp,0,0,0,0,0.0,,NADominic Ng East West Bancorp
+2026-05-11,Jason Potter,Grocery Outlet Holding,6,17,2,25,8.0,,Jason Potter Grocery Outlet Holding
+2026-05-11,Simon D Campion,Dentsply Sirona,1,9,0,10,0.0,,Simon D Campion Dentsply Sirona
+2026-05-11,Jeremy Wensinger,V2X,7,8,1,16,6.2,,Jeremy Wensinger V2X
+2026-05-11,Andrew Rees,Crocs,9,13,3,25,12.0,,Andrew Rees Crocs
+2026-05-11,David M Maura,Spectrum Brands,7,11,2,20,10.0,,David M Maura Spectrum Brands
+2026-05-11,Sachin S Lawande,Visteon,10,11,4,25,16.0,,Sachin S Lawande Visteon
+2026-05-11,Neil M Ashe,Acuity Inc,2,8,1,11,9.1,,Neil M Ashe Acuity Inc
+2026-05-11,Lorie L Tekorius,The Greenbrier Companies,5,5,0,10,0.0,,Lorie L Tekorius The Greenbrier Companies
+2026-05-11,John R Ciulla,Webster Financial,8,17,0,25,0.0,,John R Ciulla Webster Financial
+2026-05-11,Sean D Keohane,Cabot Corporation,2,5,3,10,30.0,,Sean D Keohane Cabot Corporation
+2026-05-11,Drew M Wilkerson,RXO Inc,5,6,1,12,8.3,,Drew M Wilkerson RXO Inc
+2026-05-11,Daniel E Brown,Chord Energy,4,1,0,5,0.0,,Daniel E Brown Chord Energy
+2026-05-11,Javier D Ferrer Fernandez,Popular Inc,1,3,0,4,0.0,,Javier D Ferrer Fernandez Popular Inc
+2026-05-11,Olivier Rabiller,Garrett Motion Inc,7,12,1,20,5.0,,Olivier Rabiller Garrett Motion Inc
+2026-05-11,Ronald N Tutor,Tutor Perini Corporation,7,14,3,24,12.5,,Ronald N Tutor Tutor Perini Corporation
+2026-05-11,Jeff Liaw,Copart,7,13,5,25,20.0,,Jeff Liaw Copart
+2026-05-11,Aman Narang,Toast Inc,6,18,1,25,4.0,,Aman Narang Toast Inc
+2026-05-11,Joseph M Hogan,Align Technology,3,19,3,25,12.0,,Joseph M Hogan Align Technology
+2026-05-11,Kevin J Wheeler,A O Smith,5,20,0,25,0.0,,Kevin J Wheeler A O Smith
+2026-05-11,Christopher A Cartwright,TransUnion,7,17,1,25,4.0,,Christopher A Cartwright TransUnion
+2026-05-11,James Kelly,NCR Voyix,2,15,0,17,0.0,,James Kelly NCR Voyix
+2026-05-11,Tom Leighton,Akamai Technologies,15,10,0,25,0.0,,Tom Leighton Akamai Technologies
+2026-05-11,Robert G Painter,Trimble Inc,5,4,0,9,0.0,,Robert G Painter Trimble Inc
+2026-05-11,Tony Helton,Medical Mutual of Ohio,2,6,1,9,11.1,,Tony Helton Medical Mutual of Ohio
+2026-05-11,Caroline S Grace,AMN Healthcare Services,1,2,1,4,25.0,,Caroline S Grace AMN Healthcare Services
+2026-05-11,Patrick Kaltenbach,Mettler-Toledo International,3,4,1,8,12.5,,Patrick Kaltenbach Mettler-Toledo International
+2026-05-11,Michael L Baur,ScanSource,1,4,1,6,16.7,,Michael L Baur ScanSource
+2026-05-11,Jason Lippert,LCI Industries,5,18,2,25,8.0,,Jason Lippert LCI Industries
+2026-05-11,Fredric J Tomczyk,Cboe Global Markets,0,10,4,14,28.6,,Fredric J Tomczyk Cboe Global Markets
+2026-05-11,Octavio Marquez,Diebold Nixdorf,3,14,0,17,0.0,,Octavio Marquez Diebold Nixdorf
+2026-05-11,Sivasankaran Somasundaram,ChampionX,7,5,0,12,0.0,,Sivasankaran Somasundaram ChampionX
+2026-05-11,Ronald F Clarke,Corpay,1,10,1,12,8.3,,Ronald F Clarke Corpay
+2026-05-11,Robert W Pittman,iHeartMedia,8,12,2,22,9.1,,Robert W Pittman iHeartMedia
+2026-05-11,Patrick Zalupski,Dream Finders Homes,19,5,1,25,4.0,,Patrick Zalupski Dream Finders Homes
+2026-05-11,Keith E Smith,Boyd Gaming,3,20,2,25,8.0,,Keith E Smith Boyd Gaming
+2026-05-11,Mehran Assadi,NLV Financial,0,3,0,3,0.0,,Mehran Assadi NLV Financial
+2026-05-11,Barry R Port,Ensign Group,2,8,3,13,23.1,,Barry R Port Ensign Group
+2026-05-11,Denise A Paulonis,Sally Beauty,17,1,0,18,0.0,,Denise A Paulonis Sally Beauty
+2026-05-11,Harsha V Agadi,Conduent,0,8,1,9,11.1,,Harsha V Agadi Conduent
+2026-05-11,Jean-Michel Ribieras,Sylvamo,1,6,0,7,0.0,,Jean-Michel Ribieras Sylvamo
+2026-05-11,Douglas F Bauer,Tri Pointe Homes,0,11,0,11,0.0,,Douglas F Bauer Tri Pointe Homes
+2026-05-11,Shawn O'Connell,EnerSys,2,5,0,7,0.0,,Shawn O'Connell EnerSys
+2026-05-11,Bill Meury,Incyte,8,14,3,25,12.0,,Bill Meury Incyte
+2026-05-11,Dale Francescon,Century Communities,6,18,1,25,4.0,,Dale Francescon Century Communities
+2026-05-11,Michael Nierenberg,Rithm Capital,6,18,1,25,4.0,,Michael Nierenberg Rithm Capital
+2026-05-11,Michael J Brown,Euronet Worldwide,2,8,0,10,0.0,,Michael J Brown Euronet Worldwide
+2026-05-11,Scott Seu,Hawaiian Electric Industries,5,17,3,25,12.0,,Scott Seu Hawaiian Electric Industries
+2026-05-11,Jason D Robins,DraftKings,9,11,5,25,20.0,,Jason D Robins DraftKings
+2026-05-11,Jonathan J Mazelsky,IDEXX Laboratories,2,5,3,10,30.0,,Jonathan J Mazelsky IDEXX Laboratories
+2026-05-11,Richard S Swartz,MYR Group,1,5,1,7,14.3,,Richard S Swartz MYR Group
+2026-05-11,Stefano Caroti,Deckers Outdoor,9,15,1,25,4.0,,Stefano Caroti Deckers Outdoor
+2026-05-11,Jake Leach,DexCom,6,16,3,25,12.0,,Jake Leach DexCom
+2026-05-11,John T C Lee,MKS Instruments,7,18,0,25,0.0,,John T C Lee MKS Instruments
+2026-05-11,Edward B Pitoniak,VICI Properties,0,6,3,9,33.3,,Edward B Pitoniak VICI Properties
+2026-05-11,Albert White III,Cooper Cos,4,15,6,25,24.0,,Albert White III Cooper Cos
+2026-05-11,James Dempsey,Frontier Airlines,5,16,4,25,16.0,,James Dempsey Frontier Airlines
+2026-05-11,Robert A Bruggeworth,Qorvo,2,7,2,11,18.2,,Robert A Bruggeworth Qorvo
+2026-05-11,Winnie Park,Five Below,9,16,0,25,0.0,,Winnie Park Five Below
+2026-05-11,Steven Oakland,TreeHouse Foods,7,16,2,25,8.0,,Steven Oakland TreeHouse Foods
+2026-05-11,James S Hagedorn,Scotts Miracle-Gro,2,6,1,9,11.1,,James S Hagedorn Scotts Miracle-Gro
+2026-05-11,Michael Cannon-Brookes,Atlassian,11,9,5,25,20.0,,Michael Cannon-Brookes Atlassian
+2026-05-11,Bertrand Loy,Entegris,7,15,3,25,12.0,,Bertrand Loy Entegris
+2026-05-11,William E Waltz,Atkore,2,6,1,9,11.1,,William E Waltz Atkore
+2026-05-11,Celeste B Mastin,HB Fuller,1,14,1,16,6.2,,Celeste B Mastin HB Fuller
+2026-05-11,Kyle T Larkin,Granite Construction,2,11,1,14,7.1,,Kyle T Larkin Granite Construction
+2026-05-11,Michael J Happe,Winnebago Industries,2,3,4,9,44.4,,Michael J Happe Winnebago Industries
+2026-05-11,Steven H Gunby,FTI Consulting,6,17,1,24,4.2,,Steven H Gunby FTI Consulting
+2026-05-11,Stephan B Tanda,AptarGroup,3,7,2,12,16.7,,Stephan B Tanda AptarGroup
+2026-05-11,Timothy P Boyle,Columbia Sportswear,4,16,5,25,20.0,,Timothy P Boyle Columbia Sportswear
+2026-05-11,Anthony J Wood,Roku,10,13,2,25,8.0,,Anthony J Wood Roku
+2026-05-11,M Christopher Doyle,Civitas Resources,0,1,0,1,0.0,,M Christopher Doyle Civitas Resources
+2026-05-11,Andy Eidson,Alpha Metallurgical Resources,1,14,7,22,31.8,,Andy Eidson Alpha Metallurgical Resources
+2026-05-11,Andy L Nemeth,Patrick Industries,3,5,0,8,0.0,,Andy L Nemeth Patrick Industries
+2026-05-11,Roger W Jenkins,Murphy Oil,5,15,5,25,20.0,,Roger W Jenkins Murphy Oil
+2026-05-11,Kevin S Blair,Synovus Financial,1,11,1,13,7.7,,Kevin S Blair Synovus Financial
+2026-05-11,Julie Felss Masino,Cracker Barrel Old Country Store,3,9,13,25,52.0,,Julie Felss Masino Cracker Barrel Old Country Store
+2026-05-11,David M Overton,Cheesecake Factory,11,12,2,25,8.0,,David M Overton Cheesecake Factory
+2026-05-11,Nick DeIuliis,CNX Resources,11,11,0,22,0.0,,Nick DeIuliis CNX Resources
+2026-05-11,Christopher Pappas,Chefs Warehouse,7,17,1,25,4.0,,Christopher Pappas Chefs Warehouse
+2026-05-11,Tod Carpenter,Donaldson Company,5,15,5,25,20.0,,Tod Carpenter Donaldson Company
+2026-05-11,Gregory L Christopher,Mueller Industries,12,12,1,25,4.0,,Gregory L Christopher Mueller Industries
+2026-05-11,Rob Saltiel,MRC Global,1,12,2,15,13.3,,Rob Saltiel MRC Global
+2026-05-11,Jillian C Evanko,Chart Industries,0,9,1,10,10.0,,Jillian C Evanko Chart Industries
+2026-05-11,Dave Guilmette,Alight Solutions,3,8,1,12,8.3,,Dave Guilmette Alight Solutions
+2026-05-11,Joel Smejkal,Vishay Intertechnology,4,14,0,18,0.0,,Joel Smejkal Vishay Intertechnology
+2026-05-11,Dennis Degner,Range Resources,4,6,0,10,0.0,,Dennis Degner Range Resources
+2026-05-11,Ira D Robbins,Valley National Bancorp,5,13,3,21,14.3,,Ira D Robbins Valley National Bancorp
+2026-05-11,Bernard Kim,Match Group,3,18,4,25,16.0,,Bernard Kim Match Group
+2026-05-11,Vincent Pilette,Gen Digital,5,12,3,20,15.0,,Vincent Pilette Gen Digital
+2026-05-11,Timothy S Crane,Wintrust Financial,2,6,0,8,0.0,,Timothy S Crane Wintrust Financial
+2026-05-11,Pat Roche,Moog Inc,6,15,4,25,16.0,,Pat Roche Moog Inc
+2026-05-11,Mark R Widmar,First Solar,10,12,3,25,12.0,,Mark R Widmar First Solar
+2026-05-11,Niko Lahanas,Central Garden & Pet,3,9,1,13,7.7,,Niko Lahanas Central Garden & Pet
+2026-05-11,Chris Osowski,Green Plains Inc,11,13,1,25,4.0,,Chris Osowski Green Plains Inc
+2026-05-11,Derek J Leathers,Werner Enterprises,1,8,2,11,18.2,,Derek J Leathers Werner Enterprises
+2026-05-11,Adam Foroughi,AppLovin,7,14,4,25,16.0,,Adam Foroughi AppLovin
+2026-05-11,Luca Savi,ITT,4,13,0,17,0.0,,Luca Savi ITT
+2026-05-11,Lawrence H Silber,Herc Rentals,0,2,0,2,0.0,,Lawrence H Silber Herc Rentals
+2026-05-11,Hilton H Howell Jr,Gray Television,6,18,1,25,4.0,,Hilton H Howell Jr Gray Television
+2026-05-11,Eric D Ashleman,IDEX,1,7,0,8,0.0,,Eric D Ashleman IDEX
+2026-05-11,Owen D Thomas,Boston Properties,2,23,0,25,0.0,,Owen D Thomas Boston Properties
+2026-05-11,Kurt Wolf,Pitney Bowes,11,13,0,24,0.0,,Kurt Wolf Pitney Bowes
+2026-05-11,Jeff Lorenger,Steelcase,5,12,0,17,0.0,,Jeff Lorenger Steelcase
+2026-05-11,Charles D. Young,Sun Communities,3,12,2,17,11.8,,Charles D. Young Sun Communities
+2026-05-11,Suzanne Foster,AdaptHealth,7,15,3,25,12.0,,Suzanne Foster AdaptHealth
+2026-05-11,Grant E Sims,Genesis Energy,9,2,0,11,0.0,,Grant E Sims Genesis Energy
+2026-05-11,Laura Prieskorn,Jackson Financial,8,16,1,25,4.0,,Laura Prieskorn Jackson Financial
+2026-05-11,Rick L Wessel,FirstCash,0,8,1,9,11.1,,Rick L Wessel FirstCash
+2026-05-11,Sherman Miller,Cal-Maine Foods,7,14,4,25,16.0,,Sherman Miller Cal-Maine Foods
+2026-05-11,Paul A Lang,Arch Resources,14,11,0,25,0.0,,Paul A Lang Arch Resources
+2026-05-11,Ashish K Khandpur,Avient,1,8,0,9,0.0,,Ashish K Khandpur Avient
+2026-05-11,Shyam K Reddy,BlueLinx,0,7,0,7,0.0,,Shyam K Reddy BlueLinx
+2026-05-11,Christopher S Ripley,Sinclair,10,9,6,25,24.0,,Christopher S Ripley Sinclair
+2026-05-11,Stacy Kymes,BOK Financial,12,13,0,25,0.0,,Stacy Kymes BOK Financial
+2026-05-11,James H Walter,Permian Resources,2,15,0,17,0.0,,James H Walter Permian Resources
+2026-05-11,Jason Murray,PACS Group,11,10,4,25,16.0,,Jason Murray PACS Group
+2026-05-11,Brian Armstrong,Coinbase Global,6,10,9,25,36.0,,Brian Armstrong Coinbase Global
+2026-05-11,Oscar K Brown,Western Midstream Partners,2,20,3,25,12.0,,Oscar K Brown Western Midstream Partners
+2026-05-11,Nicholas R Lower,Federated Mutual Insurance,0,1,3,4,75.0,,Nicholas R Lower Federated Mutual Insurance
+2026-05-11,Morris Goldfarb,G-III Apparel Group,10,7,8,25,32.0,,Morris Goldfarb G-III Apparel Group
+2026-05-11,Mark D Morelli,Vontier,3,7,0,10,0.0,,Mark D Morelli Vontier
+2026-05-11,Matthew J Cox,Matson Inc,3,18,2,23,8.7,,Matthew J Cox Matson Inc
+2026-05-11,David W Grzebinski,Kirby Corporation,2,6,2,10,20.0,,David W Grzebinski Kirby Corporation
+2026-05-11,Keith A Harvey,Kaiser Aluminum,7,17,1,25,4.0,,Keith A Harvey Kaiser Aluminum
+2026-05-11,Eric Nyman,Vista Outdoor,1,8,1,10,10.0,,Eric Nyman Vista Outdoor
+2026-05-11,Doug Howe,Designer Brands Inc,7,16,2,25,8.0,,Doug Howe Designer Brands Inc
+2026-05-11,Jerry E Gahlhoff Jr,Rollins Inc,0,1,2,3,66.7,,Jerry E Gahlhoff Jr Rollins Inc
+2026-05-11,D Scott Barbour,Advanced Drainage Systems,6,3,0,9,0.0,,D Scott Barbour Advanced Drainage Systems
+2026-05-11,Sean Gamble,Cinemark,9,6,10,25,40.0,,Sean Gamble Cinemark
+2026-05-11,George Kurtz,CrowdStrike,11,13,1,25,4.0,,George Kurtz CrowdStrike
+2026-05-11,Bill Ready,Pinterest,17,6,2,25,8.0,,Bill Ready Pinterest
+2026-05-11,Fidji Simo,Instacart,7,14,4,25,16.0,,Fidji Simo Instacart
+2026-05-11,Kimberly K Ryan,Hillenbrand,2,5,1,8,12.5,,Kimberly K Ryan Hillenbrand
+2026-05-11,David S Graziosi,Allison Transmission,0,24,1,25,4.0,,David S Graziosi Allison Transmission
+2026-05-11,Gary G Friedman,Restoration Hardware,4,17,4,25,16.0,,Gary G Friedman Restoration Hardware
+2026-05-11,Lucinda M Baier,Brookdale Senior Living,1,8,4,13,30.8,,Lucinda M Baier Brookdale Senior Living
+2026-05-11,Brian J Blaser,QuidelOrtho,2,7,2,11,18.2,,Brian J Blaser QuidelOrtho
+2026-05-11,E Jean Savage,Trinity Industries,4,15,6,25,24.0,,E Jean Savage Trinity Industries
+2026-05-11,Stuart Randle,Teleflex,0,13,3,16,18.8,,Stuart Randle Teleflex
+2026-05-11,Laurans A Mendelson,HEICO,6,16,3,25,12.0,,Laurans A Mendelson HEICO
+2026-05-11,Frank H Laukien,Bruker,2,12,1,15,6.7,,Frank H Laukien Bruker
+2026-05-11,Harvey M Schwartz,Carlyle Group,6,16,3,25,12.0,,Harvey M Schwartz Carlyle Group
+2026-05-11,Mark S LaVigne,Energizer Holdings,9,1,0,10,0.0,,Mark S LaVigne Energizer Holdings
+2026-05-11,Amar Maletira,Rackspace Technology,7,15,3,25,12.0,,Amar Maletira Rackspace Technology
+2026-05-11,Udit Batra,Waters Corporation,7,16,2,25,8.0,,Udit Batra Waters Corporation
+2026-05-11,Eric M Green,West Pharmaceutical Services,2,21,2,25,8.0,,Eric M Green West Pharmaceutical Services
+2026-05-11,Doug Palladini,Carters Inc,2,15,4,21,19.0,,Doug Palladini Carters Inc
+2026-05-11,G Mike Mikan,NeueHealth,2,5,1,8,12.5,,G Mike Mikan NeueHealth
+2026-05-11,Russell Chip Childs,SkyWest,0,5,3,8,37.5,,Russell Chip Childs SkyWest
+2026-05-11,Debra Osteen,Acadia Healthcare,4,19,2,25,8.0,,Debra Osteen Acadia Healthcare
+2026-05-11,Prahlad Singh,Revvity,8,7,3,18,16.7,,Prahlad Singh Revvity
+2026-05-11,Maria M Pope,Portland General Electric,6,16,3,25,12.0,,Maria M Pope Portland General Electric
+2026-05-11,Charles Chip Blankenship,Woodward Inc,1,7,1,9,11.1,,Charles Chip Blankenship Woodward Inc
+2026-05-11,Mike Steib,TEGNA,11,13,1,25,4.0,,Mike Steib TEGNA
+2026-05-11,Kurt J Ekert,Sabre Corporation,1,3,0,4,0.0,,Kurt J Ekert Sabre Corporation
+2026-05-11,Matt Wilson,Light & Wonder,7,13,5,25,20.0,,Matt Wilson Light & Wonder
+2026-05-11,Rob Katz,Vail Resorts,6,9,10,25,40.0,,Rob Katz Vail Resorts
+2026-05-11,Marc Hathhorn,Radius Recycling,0,4,0,4,0.0,,Marc Hathhorn Radius Recycling
+2026-05-11,David A Spector,PennyMac Financial Services,7,18,0,25,0.0,,David A Spector PennyMac Financial Services
+2026-05-11,Frederick J Holzgrefe III,Saia Inc,3,3,0,6,0.0,,Frederick J Holzgrefe III Saia Inc
+2026-05-11,Mark J Parrell,Equity Residential,3,7,1,11,9.1,,Mark J Parrell Equity Residential
+2026-05-11,John W Lindsay,Helmerich & Payne,4,5,2,11,18.2,,John W Lindsay Helmerich & Payne
+2026-05-11,Gary D Burnison,Korn Ferry,8,16,1,25,4.0,,Gary D Burnison Korn Ferry
+2026-05-11,Timothy J McGrath,PC Connection Inc,0,5,1,6,16.7,,Timothy J McGrath PC Connection Inc
+2026-05-11,Lynn M Bamford,Curtiss-Wright,8,17,0,25,0.0,,Lynn M Bamford Curtiss-Wright
+2026-05-11,Jonathan W Witter,Sallie Mae,3,6,0,9,0.0,,Jonathan W Witter Sallie Mae
+2026-05-11,Jeff Benck,Benchmark Electronics,4,16,0,20,0.0,,Jeff Benck Benchmark Electronics
+2026-05-11,Charles H Giancarlo,Pure Storage,5,14,3,22,13.6,,Charles H Giancarlo Pure Storage
+2026-05-11,Brian R Gray,Knife River Corporation,2,6,1,9,11.1,,Brian R Gray Knife River Corporation
+2026-05-11,Jay Schmidt,Caleres Inc,2,12,1,15,6.7,,Jay Schmidt Caleres Inc
+2026-05-11,Dale Asplund,BrightView Holdings,2,7,1,10,10.0,,Dale Asplund BrightView Holdings
+2026-05-11,Jeffrey S Edwards,Cooper-Standard,2,13,0,15,0.0,,Jeffrey S Edwards Cooper-Standard
+2026-05-11,Glenn J Williams,Primerica,4,5,2,11,18.2,,Glenn J Williams Primerica
+2026-05-11,Francois Locoh-Donou,F5,10,12,3,25,12.0,,Francois Locoh-Donou F5
+2026-05-11,Joseph Wm Foran,Matador Resources,6,19,0,25,0.0,,Joseph Wm Foran Matador Resources
+2026-05-11,Sridhar Ramaswamy,Snowflake Inc,13,7,5,25,20.0,,Sridhar Ramaswamy Snowflake Inc
+2026-05-11,Mark D Dankberg,Viasat,6,13,6,25,24.0,,Mark D Dankberg Viasat
+2026-05-11,Francisco J Leon,California Resources,5,7,1,13,7.7,,Francisco J Leon California Resources
+2026-05-11,Peter Stern,Peloton Interactive,10,9,6,25,24.0,,Peter Stern Peloton Interactive
+2026-05-11,David Baszucki,Roblox,13,10,2,25,8.0,,David Baszucki Roblox
+2026-05-11,Jeffrey W Edwards,Installed Building Products,2,13,3,18,16.7,,Jeffrey W Edwards Installed Building Products
+2026-05-11,Clark Lauritzen,First National of Nebraska,1,9,0,10,0.0,,Clark Lauritzen First National of Nebraska
+2026-05-11,Carlos Alberini,Guess Inc,2,21,2,25,8.0,,Carlos Alberini Guess Inc
+2026-05-11,Shyam P Kambeyanda,ESAB,3,9,0,12,0.0,,Shyam P Kambeyanda ESAB
+2026-05-11,Edmund Shallcross III,Amica Mutual Insurance,0,8,0,8,0.0,,Edmund Shallcross III Amica Mutual Insurance
+2026-05-11,Benjamin W Schall,AvalonBay Communities,4,17,4,25,16.0,,Benjamin W Schall AvalonBay Communities
+2026-05-11,Allan C Thygesen,DocuSign,4,9,2,15,13.3,,Allan C Thygesen DocuSign
+2026-05-11,Bryan J Knutson,Titan Machinery,2,0,2,4,50.0,,Bryan J Knutson Titan Machinery
+2026-05-11,Ara K Hovnanian,Hovnanian Enterprises,6,15,4,25,16.0,,Ara K Hovnanian Hovnanian Enterprises
+2026-05-11,Kruti Patel Goyal,Etsy,8,14,3,25,12.0,,Kruti Patel Goyal Etsy
+2026-05-11,Kevin Roycraft,Adams Resources & Energy,8,2,0,10,0.0,,Kevin Roycraft Adams Resources & Energy
+2026-05-11,J Eric Evans,Surgery Partners,0,4,1,5,20.0,,J Eric Evans Surgery Partners
+2026-05-11,Clint E Stein,Columbia Banking System,0,13,0,13,0.0,,Clint E Stein Columbia Banking System
+2026-05-11,Lee M Shavel,Verisk Analytics,4,18,3,25,12.0,,Lee M Shavel Verisk Analytics
+2026-05-11,Dave Banyard Jr,MasterBrand,0,2,3,5,60.0,,Dave Banyard Jr MasterBrand
+2026-05-11,Diana Birkett Rakow,Hawaiian Airlines Inc,2,22,1,25,4.0,,Diana Birkett Rakow Hawaiian Airlines Inc
+2026-05-11,Kristin A Dolan,AMC Networks,4,14,7,25,28.0,,Kristin A Dolan AMC Networks
+2026-05-11,Brendan T Cavanagh,SBA Communications,3,10,0,13,0.0,,Brendan T Cavanagh SBA Communications
+2026-05-11,George F Chappelle Jr,Americold Realty Trust,2,5,0,7,0.0,,George F Chappelle Jr Americold Realty Trust
+2026-05-11,Thomas E Gottwald,NewMarket Corporation,2,9,1,12,8.3,,Thomas E Gottwald NewMarket Corporation
+2026-05-11,Thomas J Baltimore Jr,Park Hotels & Resorts,3,17,5,25,20.0,,Thomas J Baltimore Jr Park Hotels & Resorts
+2026-05-11,Peter M Moglia,Alexandria Real Estate Equities,1,9,1,11,9.1,,Peter M Moglia Alexandria Real Estate Equities
+2026-05-11,Ronald J Kramer,Griffon Corporation,1,6,1,8,12.5,,Ronald J Kramer Griffon Corporation
+2026-05-11,John L Plueger,Air Lease,4,12,0,16,0.0,,John L Plueger Air Lease
+2026-05-11,Jennifer F Scanlon,UL Solutions,11,8,0,19,0.0,,Jennifer F Scanlon UL Solutions
+2026-05-11,Greg Smith,Teradyne,0,0,0,0,0.0,,Greg Smith Teradyne
+2026-05-11,Sean Trauschke,OGE Energy,18,6,1,25,4.0,,Sean Trauschke OGE Energy
+2026-05-11,Norman D Schwartz,Bio-Rad Laboratories,2,4,2,8,25.0,,Norman D Schwartz Bio-Rad Laboratories
+2026-05-11,Scott Doyle,Spire Inc,6,8,2,16,12.5,,Scott Doyle Spire Inc
+2026-05-11,Michael E Reed,Gannett,0,4,1,5,20.0,,Michael E Reed Gannett
+2026-05-11,Phillip D Green,Cullen Frost Bankers,3,16,5,24,20.8,,Phillip D Green Cullen Frost Bankers
+2026-05-11,Joseph D Margolis,Extra Space Storage,3,11,1,15,6.7,,Joseph D Margolis Extra Space Storage
+2026-05-11,Mark A Skonieczny,REV Group,1,8,3,12,25.0,,Mark A Skonieczny REV Group
+2026-05-11,Ladd Wilks,ProFrac Holding,2,3,0,5,0.0,,Ladd Wilks ProFrac Holding
+2026-05-11,Sundaram Nagarajan,Nordson,2,16,2,20,10.0,,Sundaram Nagarajan Nordson
+2026-05-11,Anne P Noonan,Summit Materials,0,6,0,6,0.0,,Anne P Noonan Summit Materials
+2026-05-11,Lori Flees,Valvoline Inc,4,10,9,23,39.1,,Lori Flees Valvoline Inc
+2026-05-11,Scott H Baxter,Kontoor Brands,4,8,1,13,7.7,,Scott H Baxter Kontoor Brands
+2026-05-11,Tim Larson,Skyline Champion,20,0,0,20,0.0,,Tim Larson Skyline Champion
+2026-05-11,Chuck Divita,Teladoc Health,8,16,1,25,4.0,,Chuck Divita Teladoc Health
+2026-05-11,W Bradley Southern,Louisiana-Pacific Corporation,1,11,0,12,0.0,,W Bradley Southern Louisiana-Pacific Corporation
+2026-05-11,George C Freeman III,Universal Corporation,6,18,1,25,4.0,,George C Freeman III Universal Corporation
+2026-05-11,James A Brock,Consol Energy,8,2,1,11,9.1,,James A Brock Consol Energy
+2026-05-11,Robert Antokol,Playtika Holding,0,13,2,15,13.3,,Robert Antokol Playtika Holding
+2026-05-11,Joe Craft,Alliance Resource Partners,9,13,3,25,12.0,,Joe Craft Alliance Resource Partners
+2026-05-11,Paul Keel,Envista Holdings,3,12,1,16,6.2,,Paul Keel Envista Holdings
+2026-05-11,Jared Isaacman,Shift4 Payments,5,19,1,25,4.0,,Jared Isaacman Shift4 Payments
+2026-05-11,Mark Mac McFarland,Talen Energy,6,2,1,9,11.1,,Mark Mac McFarland Talen Energy
+2026-05-11,Tony R Thene,Carpenter Technology,1,21,0,22,0.0,,Tony R Thene Carpenter Technology
+2026-05-11,Melissa D Smith,WEX,4,12,1,17,5.9,,Melissa D Smith WEX
+2026-05-11,James Jim C Ryan III,Old National Bancorp,0,5,0,5,0.0,,James Jim C Ryan III Old National Bancorp
+2026-05-11,Peter J Federico,AGNC Investment,3,4,1,8,12.5,,Peter J Federico AGNC Investment
+2026-05-11,Brent L Yeagy,Wabash National,0,5,1,6,16.7,,Brent L Yeagy Wabash National
+2026-05-11,Henry A Fernandez,MSCI,7,14,4,25,16.0,,Henry A Fernandez MSCI
+2026-05-11,Mark Penn,Stagwell,8,11,6,25,24.0,,Mark Penn Stagwell
+2026-05-11,Julie Schertell,Mativ,0,8,0,8,0.0,,Julie Schertell Mativ
+2026-05-11,Ashish Chand,Belden,2,8,1,11,9.1,,Ashish Chand Belden
+2026-05-11,Greg Anderson,Allegiant Travel Company,6,19,0,25,0.0,,Greg Anderson Allegiant Travel Company
+2026-05-11,Drew Houston,Dropbox,7,17,1,25,4.0,,Drew Houston Dropbox
+2026-05-11,Kevin T Conroy,Exact Sciences,4,17,4,25,16.0,,Kevin T Conroy Exact Sciences
+2026-05-11,Rex D Geveden,BWX Technologies,7,15,3,25,12.0,,Rex D Geveden BWX Technologies
+2026-05-11,Scott R Wells,Clear Channel Outdoor Holdings,4,3,1,8,12.5,,Scott R Wells Clear Channel Outdoor Holdings
+2026-05-11,Mac Cummings,Terakeet,4,5,0,9,0.0,,Mac Cummings Terakeet
+2026-05-11,Casey Wasserman,Wasserman,7,9,9,25,36.0,,Casey Wasserman Wasserman
+2026-05-11,Nancy Pierce,GEICO,7,12,3,22,13.6,,Nancy Pierce GEICO
+2026-05-11,Richard Dickson,Gap Inc,16,8,1,25,4.0,,Richard Dickson Gap Inc
+2026-05-11,Horacio Barbeito,Old Navy,2,9,2,13,15.4,,Horacio Barbeito Old Navy
+2026-05-11,Marcus Lemonis,Bed Bath & Beyond,6,17,2,25,8.0,,Marcus Lemonis Bed Bath & Beyond
+2026-05-11,Gregory A Adams,Kaiser Permanente,7,14,4,25,16.0,,Gregory A Adams Kaiser Permanente
+2026-05-11,Andy MacMillan,Alteryx,4,17,3,24,12.5,,Andy MacMillan Alteryx
+2026-05-11,Magda Chambriard,Petrobras,9,11,5,25,20.0,,Magda Chambriard Petrobras
+2026-05-11,Mike Petrullo,Dynata,2,7,0,9,0.0,,Mike Petrullo Dynata
+2026-05-11,James Fish Jr,WM,3,5,17,25,68.0,,James Fish Jr WM
+2026-05-11,Jack Dorsey,Block Inc,0,4,21,25,84.0,,Jack Dorsey Block Inc
+2026-05-11,Lachlan Murdoch,Fox Corporation,6,11,8,25,32.0,,Lachlan Murdoch Fox Corporation
+2026-05-11,Jean-Marc Gilson,Westlake Corporation,3,13,3,19,15.8,,Jean-Marc Gilson Westlake Corporation
+2026-05-11,Joe Earley,Hulu,8,16,1,25,4.0,,Joe Earley Hulu
+2026-05-11,Brent Saunders,Bausch & Lomb,5,17,3,25,12.0,,Brent Saunders Bausch & Lomb
+2026-05-11,Ayman Antoun,OpenText,1,17,0,18,0.0,,Ayman Antoun OpenText
+2026-05-11,Paul Guyardo,Fetch Pet Insurance,2,12,0,14,0.0,,Paul Guyardo Fetch Pet Insurance
+2026-05-11,James R Downing,St Jude Childrens Research Hospital,9,12,4,25,16.0,,James R Downing St Jude Childrens Research Hospital
+2026-05-11,Stanley Middleman,Freedom Mortgage,16,8,1,25,4.0,,Stanley Middleman Freedom Mortgage
+2026-05-11,Michael Rubin,Fanatics,9,15,1,25,4.0,,Michael Rubin Fanatics
+2026-05-11,Shane Jacobson,American Cancer Society,4,3,18,25,72.0,,Shane Jacobson American Cancer Society
+2026-05-11,Albert Crawford,BHG Financial,4,4,0,8,0.0,,Albert Crawford BHG Financial
+2026-05-11,Robert F Smith,Vista Equity Partners,10,12,3,25,12.0,,Robert F Smith Vista Equity Partners
+2026-05-11,Jonathan Lavine,Bain Capital,5,17,3,25,12.0,,Jonathan Lavine Bain Capital
+2026-05-11,Joshua Bekenstein,Bain Capital,2,6,2,10,20.0,,Joshua Bekenstein Bain Capital
+2026-05-11,Stephen Pagliuca,Bain Capital,2,21,2,25,8.0,,Stephen Pagliuca Bain Capital
+2026-05-11,Baron Silverstein,Newrez,4,19,2,25,8.0,,Baron Silverstein Newrez
+2026-05-11,Robert G Goldstein,Las Vegas Sands,6,15,4,25,16.0,,Robert G Goldstein Las Vegas Sands
+2026-05-11,Jennifer L Mnookin,Columbia University,3,22,0,25,0.0,,Jennifer L Mnookin Columbia University
+2026-05-11,Soren Toft,MSC Mediterranean Shipping Company,6,17,2,25,8.0,,Soren Toft MSC Mediterranean Shipping Company
+2026-05-11,Joe Rice,Motley Rice,7,10,8,25,32.0,,Joe Rice Motley Rice
+2026-05-11,Michael ByungJu Kim,MBK Partners,2,4,19,25,76.0,,Michael ByungJu Kim MBK Partners
+2026-05-11,Michael Fisch,American Securities,12,6,4,22,18.2,,Michael Fisch American Securities
+2026-05-11,Oliver Schusser,Beats Electronics LLC,1,2,0,3,0.0,,Oliver Schusser Beats Electronics LLC
+2026-05-11,Andrew Dudum,Hims & Hers,7,14,4,25,16.0,,Andrew Dudum Hims & Hers
+2026-05-11,Brian Sikes,Cargill,4,19,2,25,8.0,,Brian Sikes Cargill
+2026-05-11,Dave Robertson,Koch Inc,6,13,6,25,24.0,,Dave Robertson Koch Inc
+2026-05-11,Poul Weihrauch,Mars,3,22,0,25,0.0,,Poul Weihrauch Mars
+2026-05-11,Charles Butt,H-E-B Grocery Company,8,14,3,25,12.0,,Charles Butt H-E-B Grocery Company
+2026-05-11,Duke Reyes,Reyes Holdings,2,21,2,25,8.0,,Duke Reyes Reyes Holdings
+2026-05-11,Chrissy Taylor,Enterprise Mobility,5,19,1,25,4.0,,Chrissy Taylor Enterprise Mobility
+2026-05-11,Eric Winn,C&S Wholesale Grocers,8,17,0,25,0.0,,Eric Winn C&S Wholesale Grocers
+2026-05-11,Abigail Johnson,Fidelity Investments,4,14,7,25,28.0,,Abigail Johnson Fidelity Investments
+2026-05-11,Wayne Chaplin,Southern Glazer's Wine & Spirits,8,17,0,25,0.0,,Wayne Chaplin Southern Glazer's Wine & Spirits
+2026-05-11,Greg Love,Love's Travel Stops & Country Stores,9,6,10,25,40.0,,Greg Love Love's Travel Stops & Country Stores
+2026-05-11,Jim Boyle,Medline Industries,10,14,1,25,4.0,,Jim Boyle Medline Industries
+2026-05-11,Alex Taylor,Cox Enterprises,11,14,0,25,0.0,,Alex Taylor Cox Enterprises
+2026-05-11,Rick Keyes,Meijer,10,14,1,25,4.0,,Rick Keyes Meijer
+2026-05-11,Rich Wolowski,Gordon Food Service,9,16,0,25,0.0,,Rich Wolowski Gordon Food Service
+2026-05-11,Dan Chait,JM Family Enterprises,2,11,0,13,0.0,,Dan Chait JM Family Enterprises
+2026-05-11,Brendan Bechtel,Bechtel,3,18,4,25,16.0,,Brendan Bechtel Bechtel
+2026-05-11,Keith Rozolis,ABC Supply,4,14,0,18,0.0,,Keith Rozolis ABC Supply
+2026-05-11,Jim Kavanaugh,World Wide Technology,9,16,0,25,0.0,,Jim Kavanaugh World Wide Technology
+2026-05-11,Kevin Thornton,QuikTrip,4,4,0,8,0.0,,Kevin Thornton QuikTrip
+2026-05-11,Jim Voss,Tenneco,5,8,0,13,0.0,,Jim Voss Tenneco
+2026-05-11,Chris Gheysens,Wawa,8,14,3,25,12.0,,Chris Gheysens Wawa
+2026-05-11,Natalie Morhous,RaceTrac,5,14,0,19,0.0,,Natalie Morhous RaceTrac
+2026-05-11,Bob Sternfels,McKinsey & Company,9,15,1,25,4.0,,Bob Sternfels McKinsey & Company
+2026-05-11,Craig Abod,Carahsoft,14,10,1,25,4.0,,Craig Abod Carahsoft
+2026-05-11,Thai Lee,SHI International,6,18,1,25,4.0,,Thai Lee SHI International
+2026-05-11,Jay Alvather,Allegis Group,3,6,1,10,10.0,,Jay Alvather Allegis Group
+2026-05-11,John Tu,Kingston Technology,6,19,0,25,0.0,,John Tu Kingston Technology
+2026-05-11,Travis R Sheetz,Sheetz,8,15,2,25,8.0,,Travis R Sheetz Sheetz
+2026-05-11,Andrew Novotny,Calpine,5,7,0,12,0.0,,Andrew Novotny Calpine
+2026-05-11,Dan Friedkin,The Friedkin Group,7,12,6,25,24.0,,Dan Friedkin The Friedkin Group
+2026-05-11,Jeremy Gosch,Hy-Vee,9,15,1,25,4.0,,Jeremy Gosch Hy-Vee
+2026-05-11,John Menard Jr,Menards,5,14,6,25,24.0,,John Menard Jr Menards
+2026-05-11,Colleen Wegman,Wegmans Food Markets,16,8,1,25,4.0,,Colleen Wegman Wegmans Food Markets
+2026-05-11,Christoph Schweizer,BCG (Boston Consulting Group),7,14,4,25,16.0,,Christoph Schweizer BCG (Boston Consulting Group)
+2026-05-11,Steven R Swartz,Hearst,7,16,2,25,8.0,,Steven R Swartz Hearst
+2026-05-11,Fisk Johnson,SC Johnson,12,10,3,25,12.0,,Fisk Johnson SC Johnson
+2026-05-11,Tim Regan,Whiting-Turner Contracting,4,20,1,25,4.0,,Tim Regan Whiting-Turner Contracting
+2026-05-11,Bill Artman,Giant Eagle,7,17,1,25,4.0,,Bill Artman Giant Eagle
+2026-05-11,Robert Mullen,STO Building Group,2,7,0,9,0.0,,Robert Mullen STO Building Group
+2026-05-11,Kathleen M Mazzarella,Graybar Electric,1,9,1,11,9.1,,Kathleen M Mazzarella Graybar Electric
+2026-05-11,Todd Wanek,Ashley Furniture Industries,9,15,1,25,4.0,,Todd Wanek Ashley Furniture Industries
+2026-05-11,Marc Sachs,Republic National Distributing Company,3,20,2,25,8.0,,Marc Sachs Republic National Distributing Company
+2026-05-11,Garrett Lofto,JR Simplot,2,6,1,9,11.1,,Garrett Lofto JR Simplot
+2026-05-11,David Winter,Standard Industries,8,17,0,25,0.0,,David Winter Standard Industries
+2026-05-11,Dick Tracy,Dot Foods,2,13,4,19,21.1,,Dick Tracy Dot Foods
+2026-05-11,David Jukes,Univar Solutions,2,12,0,14,0.0,,David Jukes Univar Solutions
+2026-05-11,Kevin McAdams,Perdue Farms,3,21,1,25,4.0,,Kevin McAdams Perdue Farms
+2026-05-11,Ken Hicks,Petsmart,1,14,1,16,6.2,,Ken Hicks Petsmart
+2026-05-11,Grant Haag,WinCo Foods,6,3,0,9,0.0,,Grant Haag WinCo Foods
+2026-05-11,George Pfeffer,DPR Construction,2,7,0,9,0.0,,George Pfeffer DPR Construction
+2026-05-11,Dean Muglia,Discount Tire,2,23,0,25,0.0,,Dean Muglia Discount Tire
+2026-05-11,Christopher Leitner,Tenaska,0,5,0,5,0.0,,Christopher Leitner Tenaska
+2026-05-11,David Kohler,Kohler,5,17,3,25,12.0,,David Kohler Kohler
+2026-05-11,Shahid Khan,Flex-N-Gate,6,17,2,25,8.0,,Shahid Khan Flex-N-Gate
+2026-05-11,Doug Lawler,Continental Resources,8,16,1,25,4.0,,Doug Lawler Continental Resources
+2026-05-11,Tom Bené,Breakthru Beverage Group,1,20,3,24,12.5,,Tom Bené Breakthru Beverage Group
+2026-05-11,LT Gibson,US LBM Holdings,2,17,0,19,0.0,,LT Gibson US LBM Holdings
+2026-05-11,Andrew Wallach,Central National-Gottesman,1,6,0,7,0.0,,Andrew Wallach Central National-Gottesman
+2026-05-11,Steve Lavin,OSI Group,3,6,0,9,0.0,,Steve Lavin OSI Group
+2026-05-11,Michael Mansfield,Mansfield Energy,11,10,4,25,16.0,,Michael Mansfield Mansfield Energy
+2026-05-11,Mike Gitlin,Capital Group Companies,7,15,3,25,12.0,,Mike Gitlin Capital Group Companies
+2026-05-11,John Morris,Great American Outdoors Group,15,10,0,25,0.0,,John Morris Great American Outdoors Group
+2026-05-11,David Green,Hobby Lobby Stores,10,12,3,25,12.0,,David Green Hobby Lobby Stores
+2026-05-11,Ganesh Ramaswamy,Southwire,2,6,0,8,0.0,,Ganesh Ramaswamy Southwire
+2026-05-11,John Lederer,Staples Inc,1,14,0,15,0.0,,John Lederer Staples Inc
+2026-05-11,Richard Uihlein,Uline,2,21,2,25,8.0,,Richard Uihlein Uline
+2026-05-11,Andrew Truett Cathy,Chick-fil-A,8,16,1,25,4.0,,Andrew Truett Cathy Chick-fil-A
+2026-05-11,John Catsimatidis,Red Apple Group,5,19,1,25,4.0,,John Catsimatidis Red Apple Group
+2026-05-11,Paul Maass,Scoular,3,6,0,9,0.0,,Paul Maass Scoular
+2026-05-11,Michael Nelson,Amway,9,16,0,25,0.0,,Michael Nelson Amway
+2026-05-11,Christopher L Ayers,Arconic,0,0,0,0,0.0,,Christopher L Ayers Arconic
+2026-05-11,Eric Smidt,Harbor Freight Tools,7,18,0,25,0.0,,Eric Smidt Harbor Freight Tools
+2026-05-11,Deb Conklin,Kehe Distributors,5,8,0,13,0.0,,Deb Conklin Kehe Distributors
+2026-05-11,Darron Ash,Sammons Enterprises,2,8,0,10,0.0,,Darron Ash Sammons Enterprises
+2026-05-11,Leslie Duke,Burns & McDonnell,8,16,1,25,4.0,,Leslie Duke Burns & McDonnell
+2026-05-11,Adam R Jelen,Gilbane,3,7,0,10,0.0,,Adam R Jelen Gilbane
+2026-05-11,Donald T Mulligan,Demoulas Super Markets,1,17,7,25,28.0,,Donald T Mulligan Demoulas Super Markets
+2026-05-11,John Howard Hallam,Ben E Keith,1,5,0,6,0.0,,John Howard Hallam Ben E Keith
+2026-05-11,Jim Allen,Hard Rock International,3,5,17,25,68.0,,Jim Allen Hard Rock International
+2026-05-11,Jon A Ballis,Kirkland & Ellis,4,18,3,25,12.0,,Jon A Ballis Kirkland & Ellis
+2026-05-11,Brad Jeanneret,Hensel Phelps Construction,1,10,0,11,0.0,,Brad Jeanneret Hensel Phelps Construction
+2026-05-11,Christophe de Vusser,Bain & Company,3,22,0,25,0.0,,Christophe de Vusser Bain & Company
+2026-05-11,Crystal Maggelet,FJ Management,6,13,1,20,5.0,,Crystal Maggelet FJ Management
+2026-05-11,John Persons,Northeast Grocery,12,13,0,25,0.0,,John Persons Northeast Grocery
+2026-05-11,Ron Dunford,Schreiber Foods,3,12,1,16,6.2,,Ron Dunford Schreiber Foods
+2026-05-11,Matthew Walsh,Walsh Group,6,17,2,25,8.0,,Matthew Walsh Walsh Group
+2026-05-11,Ken Oaks,TQL - Total Quality Logistics,8,11,5,24,20.8,,Ken Oaks TQL - Total Quality Logistics
+2026-05-11,Robert D Moser Jr,Clark Group,1,4,4,9,44.4,,Robert D Moser Jr Clark Group
+2026-05-11,Jeff Cook,Arco Construction,1,8,1,10,10.0,,Jeff Cook Arco Construction
+2026-05-11,Ryan Maibach,Barton Malow,1,9,1,11,9.1,,Ryan Maibach Barton Malow
+2026-05-11,Gordon Lansford,JE Dunn Construction Group,2,16,0,18,0.0,,Gordon Lansford JE Dunn Construction Group
+2026-05-11,Joe Preston,New Balance,6,17,2,25,8.0,,Joe Preston New Balance
+2026-05-11,Ray Sedey,McCarthy Holdings,3,6,0,9,0.0,,Ray Sedey McCarthy Holdings
+2026-05-11,Maggie Hardy,84 Lumber,18,7,0,25,0.0,,Maggie Hardy 84 Lumber
+2026-05-11,Barry Zyskind,AmTrust Financial Services,6,16,3,25,12.0,,Barry Zyskind AmTrust Financial Services
+2026-05-11,Keith Knopf,The Raleys Companies,4,21,0,25,0.0,,Keith Knopf The Raleys Companies
+2026-05-11,Kent McClelland,Shamrock Foods Company,4,8,1,13,7.7,,Kent McClelland Shamrock Foods Company
+2026-05-11,Stewart Resnick,The Wonderful Company,16,8,1,25,4.0,,Stewart Resnick The Wonderful Company
+2026-05-11,Mike Haller,Walbridge,3,7,1,11,9.1,,Mike Haller Walbridge
+2026-05-11,Dan Schwab,D&H Distributing,7,15,3,25,12.0,,Dan Schwab D&H Distributing
+2026-05-11,Andrew Cherng,Panda Restaurant Group,7,16,2,25,8.0,,Andrew Cherng Panda Restaurant Group
+2026-05-11,Rob Blalock,Brasfield & Gorrie,5,10,1,16,6.2,,Rob Blalock Brasfield & Gorrie
+2026-05-11,Anthony Johnson,Clayco Inc,2,10,0,12,0.0,,Anthony Johnson Clayco Inc
+2026-05-11,Richard Ferranti,Rich Products Corporation,20,1,0,21,0.0,,Richard Ferranti Rich Products Corporation
+2026-05-11,Chris O’Brien,Armada Sunset Holdings,2,5,0,7,0.0,,Chris O’Brien Armada Sunset Holdings
+2026-05-11,Ira B Silver,American Tire Distributors Holdings,1,7,0,8,0.0,,Ira B Silver American Tire Distributors Holdings
+2026-05-11,Dave Drinkward,Hoffman Corporation,3,7,0,10,0.0,,Dave Drinkward Hoffman Corporation
+2026-05-11,Richard Trobman,Latham & Watkins,9,12,4,25,16.0,,Richard Trobman Latham & Watkins
+2026-05-11,Scott M Asplundh,Asplundh Tree Expert,2,7,0,9,0.0,,Scott M Asplundh Asplundh Tree Expert
+2026-05-11,Kim Roy,HITT Contracting,2,14,0,16,0.0,,Kim Roy HITT Contracting
+2026-05-11,John F Fish,Suffolk Construction Company,8,13,4,25,16.0,,John F Fish Suffolk Construction Company
+2026-05-11,Derek Cunz,Mortenson,4,7,0,11,0.0,,Derek Cunz Mortenson
+2026-05-11,Rex A Rock Sr,Arctic Slope Regional Corporation,7,11,7,25,28.0,,Rex A Rock Sr Arctic Slope Regional Corporation
+2026-05-11,Joseph Grendys,Koch Foods,3,9,3,15,20.0,,Joseph Grendys Koch Foods
+2026-05-11,Alan Gershenhorn,Transportation Insight,0,4,0,4,0.0,,Alan Gershenhorn Transportation Insight
+2026-05-11,James F Dicke II,Crown Equipment Corporation,5,5,1,11,9.1,,James F Dicke II Crown Equipment Corporation
+2026-05-11,Brian Dick,Golden State Foods,9,10,6,25,24.0,,Brian Dick Golden State Foods
+2026-05-11,Christopher Ilitch,Ilitch Holdings,14,11,0,25,0.0,,Christopher Ilitch Ilitch Holdings
+2026-05-11,William G Yates III,The Yates Companies,10,14,1,25,4.0,,William G Yates III The Yates Companies
+2026-05-11,John B Zachry,Zachry Holdings,6,15,4,25,16.0,,John B Zachry Zachry Holdings
+2026-05-11,Ken Sweder,BradyPLUS,4,7,0,11,0.0,,Ken Sweder BradyPLUS
+2026-05-11,Christian Demere,Colonial Group,9,15,0,24,0.0,,Christian Demere Colonial Group
+2026-05-11,Webb Estes,Estes Express Lines,5,18,2,25,8.0,,Webb Estes Estes Express Lines
+2026-05-11,Joseph E Gallo,Gallo,5,17,3,25,12.0,,Joseph E Gallo Gallo
+2026-05-11,Bret Snyder,W L Gore & Associates,1,10,1,12,8.3,,Bret Snyder W L Gore & Associates
+2026-05-11,Beth Lowry,Holder Construction,4,4,0,8,0.0,,Beth Lowry Holder Construction
+2026-05-11,Jefferson Hillman,JD Heiskell & Co,2,6,0,8,0.0,,Jefferson Hillman JD Heiskell & Co
+2026-05-11,Robert Kraft,The Kraft Group,8,14,3,25,12.0,,Robert Kraft The Kraft Group
+2026-05-11,David Boone,The Michaels Companies,11,13,1,25,4.0,,David Boone The Michaels Companies
+2026-05-11,Ira Rennert,Renco Group,3,12,10,25,40.0,,Ira Rennert Renco Group
+2026-05-11,Greg McNiff,Stater Bros Markets,9,14,0,23,0.0,,Greg McNiff Stater Bros Markets
+2026-05-11,Gabe Newell,Valve Corporation,12,11,2,25,8.0,,Gabe Newell Valve Corporation
+2026-05-11,Tilman Fertitta,Fertitta Entertainment,14,10,1,25,4.0,,Tilman Fertitta Fertitta Entertainment
+2026-05-11,Judy Faulkner,Epic Systems,13,10,2,25,8.0,,Judy Faulkner Epic Systems
+2026-05-11,Mario Azar,Black & Veatch,8,15,2,25,8.0,,Mario Azar Black & Veatch
+2026-05-11,Stephen Smith,Amsted Industries,0,4,0,4,0.0,,Stephen Smith Amsted Industries
+2026-05-11,Paul Novelly II,Apex Oil,1,4,3,8,37.5,,Paul Novelly II Apex Oil
+2026-05-11,David Walls,Austin Industries,1,9,1,11,9.1,,David Walls Austin Industries
+2026-05-11,Thomas J Quinlan III,RR Donnelley,1,8,1,10,10.0,,Thomas J Quinlan III RR Donnelley
+2026-05-11,Pat Michels,Michels Corporation,9,15,1,25,4.0,,Pat Michels Michels Corporation
+2026-05-11,Brian McPheely,Pratt Industries,4,4,1,9,11.1,,Brian McPheely Pratt Industries
+2026-05-11,Frank Grande,Quirch Foods,0,10,0,10,0.0,,Frank Grande Quirch Foods
+2026-05-11,Jerry LeClair,Brookshire Grocery Company,1,13,0,14,0.0,,Jerry LeClair Brookshire Grocery Company
+2026-05-11,Jennifer Morgan,UKG,4,20,1,25,4.0,,Jennifer Morgan UKG
+2026-05-11,Tom Krause,Cloud Software Group,3,19,3,25,12.0,,Tom Krause Cloud Software Group
+2026-05-11,Lou M Jacobs,Delaware North,8,17,0,25,0.0,,Lou M Jacobs Delaware North
+2026-05-11,Stanley Bikulege,Novolex,2,11,0,13,0.0,,Stanley Bikulege Novolex
+2026-05-11,David Callis,Swinerton,4,7,0,11,0.0,,David Callis Swinerton
+2026-05-11,Richard Jaggers,Alberici Corporation,1,6,0,7,0.0,,Richard Jaggers Alberici Corporation
+2026-05-11,Dave Doherty,DigiKey,10,15,0,25,0.0,,Dave Doherty DigiKey
+2026-05-11,Bob Sarver,Great Lakes Cheese,2,0,0,2,0.0,,Bob Sarver Great Lakes Cheese
+2026-05-11,Bill Sansom,HT Hackney,2,7,1,10,10.0,,Bill Sansom HT Hackney
+2026-05-11,Darlene Nicosia,Makers Pride LLC,5,0,1,6,16.7,,Darlene Nicosia Makers Pride LLC
+2026-05-11,Dion Houchins,Houchens Industries,2,7,0,9,0.0,,Dion Houchins Houchens Industries
+2026-05-11,Jeffrey Seaman,Rooms To Go,5,20,0,25,0.0,,Jeffrey Seaman Rooms To Go
+2026-05-11,Boyden Moore,Orgill Warehouse,1,6,2,9,22.2,,Boyden Moore Orgill Warehouse
+2026-05-11,Brian George,Alex Lee,4,21,0,25,0.0,,Brian George Alex Lee
+2026-05-11,Chris Galvin,Andersen Corporation,8,17,0,25,0.0,,Chris Galvin Andersen Corporation
+2026-05-11,Douglas R Waggoner,Echo Global Logistics,0,7,0,7,0.0,,Douglas R Waggoner Echo Global Logistics
+2026-05-11,Chris Kleinert,Hunt Consolidated Inc,2,7,0,9,0.0,,Chris Kleinert Hunt Consolidated Inc
+2026-05-11,Lance FitzSimmons,Leprino Foods,2,7,0,9,0.0,,Lance FitzSimmons Leprino Foods
+2026-05-11,Ruffner Page,O'Neal Industries,1,8,0,9,0.0,,Ruffner Page O'Neal Industries
+2026-05-11,Edward V Morgan,Plastipak Holdings,1,5,0,6,0.0,,Edward V Morgan Plastipak Holdings
+2026-05-11,Todd Simmons,Simmons Foods,7,17,1,25,4.0,,Todd Simmons Simmons Foods
+2026-05-11,L Gene Clark,"Clark Core Services, LLC",0,1,0,1,0.0,,"L Gene Clark Clark Core Services, LLC"
+2026-05-11,Thomas B Crowley Jr,Crowley Maritime,9,13,3,25,12.0,,Thomas B Crowley Jr Crowley Maritime
+2026-05-11,Stephen Gray,Gray Inc,10,9,2,21,9.5,,Stephen Gray Gray Inc
+2026-05-11,Joseph R Lucot,Guttman Holdings,1,0,0,1,0.0,,Joseph R Lucot Guttman Holdings
+2026-05-11,Mike Perry,Hallmark Cards Inc,2,18,5,25,20.0,,Mike Perry Hallmark Cards Inc
+2026-05-11,Gary R Kaneb,HP Hood,1,2,0,3,0.0,,Gary R Kaneb HP Hood
+2026-05-11,Sidney R Brown,NFI Industries,1,4,5,10,50.0,,Sidney R Brown NFI Industries
+2026-05-11,James Goodnight,SAS Institute,6,15,4,25,16.0,,James Goodnight SAS Institute
+2026-05-11,John Boynton,Southern Tire Mart,4,4,0,8,0.0,,John Boynton Southern Tire Mart
+2026-05-11,Patrick Collison,Stripe,8,15,2,25,8.0,,Patrick Collison Stripe
+2026-05-11,John Buckley,Wilbur-Ellis Company,9,12,0,21,0.0,,John Buckley Wilbur-Ellis Company
+2026-05-11,Jeremy D London,Skadden,0,12,11,23,47.8,,Jeremy D London Skadden
+2026-05-11,Mamadou Diallo,Piston Group,0,8,1,9,11.1,,Mamadou Diallo Piston Group
+2026-05-11,Jonathan C Tauber,Tauber Oil Company,0,0,0,0,0.0,,Jonathan C Tauber Tauber Oil Company
+2026-05-11,Glenn M Fish,JM Huber,1,3,0,4,0.0,,Glenn M Fish JM Huber
+2026-05-11,Reinhold Schmieding,Arthrex,11,12,2,25,8.0,,Reinhold Schmieding Arthrex
+2026-05-11,Neal Blue,General Atomics,9,15,1,25,4.0,,Neal Blue General Atomics
+2026-05-11,Mark Hubler,Johnson Brothers Liquor Company,0,4,1,5,20.0,,Mark Hubler Johnson Brothers Liquor Company
+2026-05-11,Tom Rosen,Rosens Diversified,1,3,0,4,0.0,,Tom Rosen Rosens Diversified
+2026-05-11,Brian Murray,Ryan Companies,4,18,3,25,12.0,,Brian Murray Ryan Companies
+2026-05-11,Yehia Maaty Omar,Zones LLC,4,4,0,8,0.0,,Yehia Maaty Omar Zones LLC
+2026-05-11,Lila Snyder,Bose Corporation,3,20,2,25,8.0,,Lila Snyder Bose Corporation
+2026-05-11,Anthony Consigli,Consigli Building Group,6,19,0,25,0.0,,Anthony Consigli Consigli Building Group
+2026-05-11,Jay A Brown,David Weekley Homes,2,9,0,11,0.0,,Jay A Brown David Weekley Homes
+2026-05-11,Annie Callanan,EBSCO Industries Inc,1,8,0,9,0.0,,Annie Callanan EBSCO Industries Inc
+2026-05-11,Barbara L Becker,"Gibson, Dunn & Crutcher",2,9,0,11,0.0,,"Barbara L Becker Gibson, Dunn & Crutcher"
+2026-05-11,Steven C Smith,Food City,4,21,0,25,0.0,,Steven C Smith Food City
+2026-05-11,Aubrey Preston,Life Care Centers of America,21,3,1,25,4.0,,Aubrey Preston Life Care Centers of America
+2026-05-11,Todd R Schnuck,Schnuck Markets,8,7,1,16,6.2,,Todd R Schnuck Schnuck Markets
+2026-05-11,Yvette Ostolaza,Sidley Austin,12,13,0,25,0.0,,Yvette Ostolaza Sidley Austin
+2026-05-11,Edward G Weiner,Trammo Inc,0,0,0,0,0.0,,Edward G Weiner Trammo Inc
+2026-05-11,Bill Hayes,Berlin Packaging,3,22,0,25,0.0,,Bill Hayes Berlin Packaging
+2026-05-11,John Alston,Brookshire Brothers,2,23,0,25,0.0,,John Alston Brookshire Brothers
+2026-05-11,Keith Clark,Dart Container,2,6,2,10,20.0,,Keith Clark Dart Container
+2026-05-11,Jayson Penn,Foster Farms,2,7,0,9,0.0,,Jayson Penn Foster Farms
+2026-05-11,Eric A Mendelson,HEICO Corporation,5,17,3,25,12.0,,Eric A Mendelson HEICO Corporation
+2026-05-11,Julie Jones,Ropes & Gray,10,13,2,25,8.0,,Julie Jones Ropes & Gray
+2026-05-11,Jake Wenz,Sazerac Company,4,19,2,25,8.0,,Jake Wenz Sazerac Company
+2026-05-11,Heather McDevitt,White & Case,2,23,0,25,0.0,,Heather McDevitt White & Case
+2026-05-11,Don Hendricks,Belk,4,19,2,25,8.0,,Don Hendricks Belk
+2026-05-11,Talbott Roche,Blackhawk Network,9,16,0,25,0.0,,Talbott Roche Blackhawk Network
+2026-05-11,Jami Wintz McKeon,Morgan Lewis,5,15,2,22,9.1,,Jami Wintz McKeon Morgan Lewis
+2026-05-11,Richard L Jackson,Jackson Healthcare,11,12,2,25,8.0,,Richard L Jackson Jackson Healthcare
+2026-05-11,Michael P D'Amour,Big Y Foods,4,20,1,25,4.0,,Michael P D'Amour Big Y Foods
+2026-05-11,Scott G Clawson,Culligan International,1,0,0,1,0.0,,Scott G Clawson Culligan International
+2026-05-11,David Ahlem,Hilmar Cheese,5,14,1,20,5.0,,David Ahlem Hilmar Cheese
+2026-05-11,Sheldon Yellen,Belfor,8,12,5,25,20.0,,Sheldon Yellen Belfor
+2026-05-11,Libby Wadle,JCrew Group,6,16,3,25,12.0,,Libby Wadle JCrew Group
+2026-05-11,Gregory M Shumaker,Jones Day,4,19,1,24,4.2,,Gregory M Shumaker Jones Day
+2026-05-11,Brian Johnson,Newly Weds Foods,3,15,0,18,0.0,,Brian Johnson Newly Weds Foods
+2026-05-11,Stephen Toups,Turner Industries,4,15,1,20,5.0,,Stephen Toups Turner Industries
+2026-05-11,Miguel A Zaldivar Jr,Hogan Lovells,2,6,0,8,0.0,,Miguel A Zaldivar Jr Hogan Lovells
+2026-05-11,Toby Bozzuto,Bozzuto Group,6,19,0,25,0.0,,Toby Bozzuto Bozzuto Group
+2026-05-11,Amanda Irwin,Mountaire Farms,4,5,1,10,10.0,,Amanda Irwin Mountaire Farms
+2026-05-11,Franco Bianchi,Haworth International,4,6,0,10,0.0,,Franco Bianchi Haworth International
+2026-05-11,Ryan Rogers,Mary Kay Cosmetics,4,17,4,25,16.0,,Ryan Rogers Mary Kay Cosmetics
+2026-05-11,Mark Teo,Sigma Plastics Group,2,7,1,10,10.0,,Mark Teo Sigma Plastics Group
+2026-05-11,Joel L Hawthorne,TMS International,0,1,0,1,0.0,,Joel L Hawthorne TMS International
+2026-05-11,Joe Bundrant,Trident Seafoods,4,17,4,25,16.0,,Joe Bundrant Trident Seafoods
+2026-05-11,Ann Fandozzi,Convergint,6,1,0,7,0.0,,Ann Fandozzi Convergint
+2026-05-11,Carl Cook,Cook Group,11,11,3,25,12.0,,Carl Cook Cook Group
+2026-05-11,Harold L Yoh III,Day & Zimmermann,1,7,2,10,20.0,,Harold L Yoh III Day & Zimmermann
+2026-05-11,Gabe Dalporto,Guitar Center,14,10,1,25,4.0,,Gabe Dalporto Guitar Center
+2026-05-11,Will McWane,McWane,10,14,1,25,4.0,,Will McWane McWane
+2026-05-11,Giuseppe B Commisso,Mediacom Communications,7,17,1,25,4.0,,Giuseppe B Commisso Mediacom Communications
+2026-05-11,Todd Chachere,Perry Homes,3,11,0,14,0.0,,Todd Chachere Perry Homes
+2026-05-11,Paula Harper Bethea,J M Smith Corporation,0,6,1,7,14.3,,Paula Harper Bethea J M Smith Corporation
+2026-05-11,Charlie Whitaker,Taylor Corporation,8,10,0,18,0.0,,Charlie Whitaker Taylor Corporation
+2026-05-11,Bill Geary,Parts Town Unlimited,4,9,0,13,0.0,,Bill Geary Parts Town Unlimited
+2026-05-11,Brian L Duffy,Greenberg Traurig,2,7,0,9,0.0,,Brian L Duffy Greenberg Traurig
+2026-05-11,Walter Wang,JM Eagle,11,11,3,25,12.0,,Walter Wang JM Eagle
+2026-05-11,Bryce Burgett,Kokosing Construction,1,8,0,9,0.0,,Bryce Burgett Kokosing Construction
+2026-05-11,Lance Malesh,Mode Global,5,13,1,19,5.3,,Lance Malesh Mode Global
+2026-05-11,Alden Millard,Simpson Thacher & Bartlett,4,21,0,25,0.0,,Alden Millard Simpson Thacher & Bartlett
+2026-05-11,Cade Rowley,Sundt Construction,6,4,0,10,0.0,,Cade Rowley Sundt Construction
+2026-05-11,Terry O'Brien,TriMark USA,3,4,0,7,0.0,,Terry O'Brien TriMark USA
+2026-05-11,Jeff Pope,FW Webb Company,4,19,1,24,4.2,,Jeff Pope FW Webb Company
+2026-05-11,Matt Brewer,Choate Construction Company,6,3,1,10,10.0,,Matt Brewer Choate Construction Company
+2026-05-11,Peter LeSaffre,Fusion Worldwide,2,4,0,6,0.0,,Peter LeSaffre Fusion Worldwide
+2026-05-11,Joshua Klatzkin,Goodwin Procter,2,1,1,4,25.0,,Joshua Klatzkin Goodwin Procter
+2026-05-11,Steve Wang,MAT Holdings,0,14,0,14,0.0,,Steve Wang MAT Holdings
+2026-05-11,Richard M Mershad,Micro Electronics Inc,0,5,0,5,0.0,,Richard M Mershad Micro Electronics Inc
+2026-05-11,Dave Hall,Clune Construction,5,5,0,10,0.0,,Dave Hall Clune Construction
+2026-05-11,Robert D Hays Jr,King & Spalding,7,10,2,19,10.5,,Robert D Hays Jr King & Spalding
+2026-05-11,Bill Koch,Oxbow Carbon,8,11,5,24,20.8,,Bill Koch Oxbow Carbon
+2026-05-11,John B Quinn,Quinn Emanuel Urquhart & Sullivan,6,14,5,25,20.0,,John B Quinn Quinn Emanuel Urquhart & Sullivan
+2026-05-11,Don Vultaggio,Arizona Beverage,5,14,6,25,24.0,,Don Vultaggio Arizona Beverage
+2026-05-11,Ayman Sayed,BMC Software,5,20,0,25,0.0,,Ayman Sayed BMC Software
+2026-05-11,Matthew J Boler,Boler,0,4,0,4,0.0,,Matthew J Boler Boler
+2026-05-11,Hamdi Ulukaya,Chobani,7,15,3,25,12.0,,Hamdi Ulukaya Chobani
+2026-05-11,Joe Conroy,Cooley,1,20,4,25,16.0,,Joe Conroy Cooley
+2026-05-11,Neil Barr,Davis Polk,3,19,3,25,12.0,,Neil Barr Davis Polk
+2026-05-11,Scott Barshay,Paul Weiss,2,14,9,25,36.0,,Scott Barshay Paul Weiss
+2026-05-11,Ming Bin Kou,Red Chamber Group,0,1,0,1,0.0,,Ming Bin Kou Red Chamber Group
+2026-05-11,Damola Adamolekun,Red Lobster,9,10,6,25,24.0,,Damola Adamolekun Red Lobster
+2026-05-11,Ken Grossman,Sierra Nevada Brewing Co,9,16,0,25,0.0,,Ken Grossman Sierra Nevada Brewing Co
+2026-05-11,Thomas F Lozick,Swagelok,4,2,1,7,14.3,,Thomas F Lozick Swagelok
+2026-05-11,Jason Owen,Envision Healthcare,5,20,0,25,0.0,,Jason Owen Envision Healthcare
