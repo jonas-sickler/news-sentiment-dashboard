@@ -1,0 +1,1283 @@
+date,company,total,controlled,negative_serp,neutral_serp,positive_serp
+2026-06-24,3M Company,6,2,0,4,2
+2026-06-24,84 Lumber,6,3,0,3,3
+2026-06-24,A O Smith,6,1,0,4,2
+2026-06-24,ABC Supply,5,3,0,2,3
+2026-06-24,ABM Industries,6,4,0,2,4
+2026-06-24,ADT Inc,5,2,0,3,2
+2026-06-24,AECOM,7,5,0,2,5
+2026-06-24,AES,9,6,0,3,6
+2026-06-24,AGCO,7,4,0,3,4
+2026-06-24,AGNC Investment,9,3,0,6,3
+2026-06-24,AIG,6,3,0,3,3
+2026-06-24,AMC Entertainment,6,1,0,1,5
+2026-06-24,AMC Networks,9,4,0,4,5
+2026-06-24,AMN Healthcare Services,6,4,0,1,5
+2026-06-24,APA,7,1,0,4,3
+2026-06-24,APi Group,7,3,0,4,3
+2026-06-24,ARKO,7,3,0,4,3
+2026-06-24,AT&T,6,5,0,1,5
+2026-06-24,ATI Inc,7,3,0,4,3
+2026-06-24,AbbVie,9,7,0,2,7
+2026-06-24,Abbott Laboratories,5,2,0,3,2
+2026-06-24,Abercrombie & Fitch,6,4,0,2,4
+2026-06-24,Academy Sports and Outdoors,6,3,0,2,4
+2026-06-24,Acadia Healthcare,7,4,0,3,4
+2026-06-24,Ace Hardware,6,3,0,3,3
+2026-06-24,Acuity Inc,7,5,0,2,5
+2026-06-24,Adams Resources & Energy,7,2,0,1,6
+2026-06-24,AdaptHealth,7,3,0,3,4
+2026-06-24,Adobe,5,3,1,1,3
+2026-06-24,Advance Auto Parts,6,5,0,1,5
+2026-06-24,Advanced Drainage Systems,8,1,0,2,6
+2026-06-24,Advanced Micro Devices,8,2,0,2,6
+2026-06-24,Advantage Solutions,6,3,0,0,6
+2026-06-24,Aflac,6,5,0,1,5
+2026-06-24,Agilent Technologies,6,4,0,2,4
+2026-06-24,Agilon Health,6,2,0,4,2
+2026-06-24,Air Lease,5,1,0,4,1
+2026-06-24,Air Products & Chemicals,6,3,0,3,3
+2026-06-24,Airbnb,5,5,0,0,5
+2026-06-24,Akamai Technologies,7,5,0,2,5
+2026-06-24,Alaska Airlines,6,5,0,1,5
+2026-06-24,Albemarle Corporation,8,5,0,3,5
+2026-06-24,Alberici Corporation,7,3,0,3,4
+2026-06-24,Albertsons,5,3,0,2,3
+2026-06-24,Alcoa Corporation,9,6,0,3,6
+2026-06-24,Alex Lee,9,3,0,6,3
+2026-06-24,Alexandria Real Estate Equities,6,2,0,4,2
+2026-06-24,Alight Solutions,5,4,0,1,4
+2026-06-24,Align Technology,7,4,0,2,5
+2026-06-24,Allegiant Travel Company,5,4,0,1,4
+2026-06-24,Allegis Group,6,4,0,2,4
+2026-06-24,Alliance Resource Partners,1,0,0,1,0
+2026-06-24,Alliant Energy,7,4,0,0,7
+2026-06-24,Allison Transmission,6,3,0,3,3
+2026-06-24,Allstate,7,4,0,3,4
+2026-06-24,Ally Financial,5,3,0,2,3
+2026-06-24,Alpha Metallurgical Resources,7,3,0,4,3
+2026-06-24,Alphabet Inc,6,3,0,3,3
+2026-06-24,Alteryx,4,2,1,1,2
+2026-06-24,Altria,7,3,0,4,3
+2026-06-24,AmTrust Financial Services,7,2,0,5,2
+2026-06-24,Amazon,5,5,0,0,5
+2026-06-24,Ameren,6,5,0,1,5
+2026-06-24,American Airlines,7,6,0,1,6
+2026-06-24,American Axle & Manufacturing,6,3,0,3,3
+2026-06-24,American Cancer Society,6,4,2,0,4
+2026-06-24,American Eagle Outfitters,6,2,0,4,2
+2026-06-24,American Electric Power,6,3,0,3,3
+2026-06-24,American Express,6,4,0,1,5
+2026-06-24,American Family Insurance,7,4,0,3,4
+2026-06-24,American Financial Group,6,3,0,3,3
+2026-06-24,American Securities,7,3,0,0,7
+2026-06-24,American Tire Distributors Holdings,6,3,0,3,3
+2026-06-24,American Tower,4,2,0,2,2
+2026-06-24,American Water Works,6,3,0,3,3
+2026-06-24,Americold Realty Trust,7,3,0,3,4
+2026-06-24,Ameriprise Financial,7,4,0,3,4
+2026-06-24,Ametek,8,3,0,5,3
+2026-06-24,Amgen,6,3,0,3,3
+2026-06-24,Amica Mutual Insurance,6,2,0,4,2
+2026-06-24,Amkor Technology,5,2,0,3,2
+2026-06-24,Amphenol,7,3,0,3,4
+2026-06-24,Amsted Industries,1,0,0,1,0
+2026-06-24,Amway,5,4,0,1,4
+2026-06-24,Analog Devices,4,2,0,2,2
+2026-06-24,Andersen Corporation,6,3,0,3,3
+2026-06-24,Antero Resources,8,4,0,4,4
+2026-06-24,Apex Oil,6,3,0,3,3
+2026-06-24,Apollo Global Management,6,2,0,4,2
+2026-06-24,AppLovin,6,3,0,3,3
+2026-06-24,Apple,5,3,0,2,3
+2026-06-24,Applied Industrial Technologies,7,3,0,4,3
+2026-06-24,Applied Materials,8,6,0,2,6
+2026-06-24,AptarGroup,6,3,0,2,4
+2026-06-24,Aramark,9,8,0,1,8
+2026-06-24,ArcBest,6,1,0,4,2
+2026-06-24,Arch Resources,8,4,0,2,6
+2026-06-24,Archer Daniels Midland,6,2,0,4,2
+2026-06-24,Arco Construction,7,3,0,3,4
+2026-06-24,Arconic,6,4,0,2,4
+2026-06-24,Arctic Slope Regional Corporation,7,3,0,3,4
+2026-06-24,Ares Management,6,2,0,3,3
+2026-06-24,Arista Networks,3,0,1,2,0
+2026-06-24,Arizona Beverage,5,3,0,2,3
+2026-06-24,Armada Sunset Holdings,7,4,0,3,4
+2026-06-24,Arrow Electronics,6,4,0,2,4
+2026-06-24,Arthrex,7,5,0,2,5
+2026-06-24,Arthur J Gallagher & Co,6,3,0,3,3
+2026-06-24,Asbury Automotive Group,7,4,1,2,4
+2026-06-24,Ashley Furniture Industries,7,4,0,2,5
+2026-06-24,Asplundh Tree Expert,6,3,0,3,3
+2026-06-24,Assurant,6,5,0,1,5
+2026-06-24,Atkore,6,4,0,2,4
+2026-06-24,Atlassian,6,4,1,1,4
+2026-06-24,Atmos Energy,6,2,0,0,6
+2026-06-24,Austin Industries,7,4,0,3,4
+2026-06-24,Auto-Owners Insurance,6,2,0,4,2
+2026-06-24,AutoNation,6,4,0,2,4
+2026-06-24,AutoZone,5,3,0,2,3
+2026-06-24,Autodesk,5,2,1,2,2
+2026-06-24,Autoliv,6,2,0,3,3
+2026-06-24,Automatic Data Processing,1,0,0,1,0
+2026-06-24,AvalonBay Communities,6,3,0,3,3
+2026-06-24,Avantor,6,3,0,3,3
+2026-06-24,Avery Dennison,6,3,0,3,3
+2026-06-24,Avient,6,2,0,4,2
+2026-06-24,Avis Budget,10,7,0,3,7
+2026-06-24,Avnet,6,4,0,2,4
+2026-06-24,BCG (Boston Consulting Group),6,4,0,2,4
+2026-06-24,BHG Financial,6,4,1,1,4
+2026-06-24,BJ's Wholesale Club,6,4,0,2,4
+2026-06-24,BMC Software,5,2,0,3,2
+2026-06-24,BOK Financial,7,3,0,4,3
+2026-06-24,BWX Technologies,6,1,0,5,1
+2026-06-24,Bain & Company,5,2,0,3,2
+2026-06-24,Bain Capital,14,11,0,3,11
+2026-06-24,Baker Hughes,7,4,0,3,4
+2026-06-24,Ball Corporation,6,3,0,3,3
+2026-06-24,Bank of America,6,4,0,2,4
+2026-06-24,Bank of New York Mellon,9,7,0,2,7
+2026-06-24,Barton Malow,5,4,0,1,4
+2026-06-24,Bath & Body Works,6,2,0,4,2
+2026-06-24,Bausch & Lomb,6,2,0,4,2
+2026-06-24,Baxter International,6,3,0,3,3
+2026-06-24,Beats Electronics LLC,5,3,0,2,3
+2026-06-24,Bechtel,4,2,0,2,2
+2026-06-24,Becton Dickinson,6,4,0,2,4
+2026-06-24,Bed Bath & Beyond,6,4,0,2,4
+2026-06-24,Belden,6,3,0,3,3
+2026-06-24,Belfor,7,5,0,2,5
+2026-06-24,Belk,7,5,0,2,5
+2026-06-24,Ben E Keith,7,3,0,4,3
+2026-06-24,Benchmark Electronics,7,2,0,5,2
+2026-06-24,Berkshire Hathaway,7,4,0,3,4
+2026-06-24,Berlin Packaging,7,0,0,6,1
+2026-06-24,Berry Global,9,1,0,6,3
+2026-06-24,Best Buy,6,4,0,0,6
+2026-06-24,Big Y Foods,5,2,0,3,2
+2026-06-24,Bio-Rad Laboratories,7,3,0,4,3
+2026-06-24,Biogen,6,2,0,4,2
+2026-06-24,Black & Veatch,1,0,0,1,0
+2026-06-24,BlackRock,3,2,0,1,2
+2026-06-24,Blackhawk Network,7,2,1,3,3
+2026-06-24,Blackstone,6,3,0,3,3
+2026-06-24,Block Inc,4,2,2,0,2
+2026-06-24,Bloomin Brands,7,2,0,5,2
+2026-06-24,BlueLinx,6,2,0,4,2
+2026-06-24,Boeing,6,3,1,2,3
+2026-06-24,Boise Cascade,6,4,0,2,4
+2026-06-24,Boler,8,2,1,4,3
+2026-06-24,Booking Holdings,4,1,0,3,1
+2026-06-24,Booz Allen Hamilton,5,3,0,2,3
+2026-06-24,BorgWarner,6,3,0,3,3
+2026-06-24,Bose Corporation,9,7,0,2,7
+2026-06-24,Boston Properties,6,2,0,3,3
+2026-06-24,Boston Scientific,9,8,0,1,8
+2026-06-24,Boyd Gaming,7,5,0,2,5
+2026-06-24,Bozzuto Group,6,2,1,3,2
+2026-06-24,BradyPLUS,7,7,0,0,7
+2026-06-24,Brasfield & Gorrie,6,4,0,2,4
+2026-06-24,Bread Financial,7,5,0,1,6
+2026-06-24,Breakthru Beverage Group,7,3,0,4,3
+2026-06-24,BrightSpring Health Services,7,3,0,4,3
+2026-06-24,BrightView Holdings,7,3,0,4,3
+2026-06-24,Brighthouse Financial,6,3,0,3,3
+2026-06-24,Brinker International,5,3,0,2,3
+2026-06-24,Brinks Company,5,3,0,2,3
+2026-06-24,Bristol-Myers Squibb,7,0,0,7,0
+2026-06-24,Broadcom,6,2,0,4,2
+2026-06-24,Broadridge Financial Solutions,6,2,0,4,2
+2026-06-24,Brookdale Senior Living,8,7,0,1,7
+2026-06-24,Brookshire Brothers,5,2,0,3,2
+2026-06-24,Brookshire Grocery Company,4,1,0,3,1
+2026-06-24,Brown & Brown,6,5,0,1,5
+2026-06-24,Brown-Forman,4,2,0,2,2
+2026-06-24,Bruker,7,4,0,3,4
+2026-06-24,Brunswick Corporation,6,3,0,3,3
+2026-06-24,Builders FirstSource,4,3,0,1,3
+2026-06-24,Burlington Stores,5,3,0,2,3
+2026-06-24,Burns & McDonnell,7,3,0,4,3
+2026-06-24,C&S Wholesale Grocers,5,2,0,3,2
+2026-06-24,CACI International,9,6,0,3,6
+2026-06-24,CBRE Group,7,4,0,3,4
+2026-06-24,CDW,7,4,0,2,5
+2026-06-24,CF Industries,6,2,0,4,2
+2026-06-24,CH Robinson Worldwide,9,7,0,2,7
+2026-06-24,CHS Inc,7,4,0,3,4
+2026-06-24,CIncinnati Financial,6,3,0,3,3
+2026-06-24,CME Group,5,3,0,2,3
+2026-06-24,CMS Energy,8,5,0,1,7
+2026-06-24,CNO Financial Group,7,2,0,5,2
+2026-06-24,CNX Resources,7,1,0,6,1
+2026-06-24,CSX,5,2,0,3,2
+2026-06-24,CVS Health,6,5,0,1,5
+2026-06-24,Cabot Corporation,7,4,0,3,4
+2026-06-24,Cadence,7,5,0,2,5
+2026-06-24,Caesars Entertainment,6,4,0,0,6
+2026-06-24,Cal-Maine Foods,5,2,0,3,2
+2026-06-24,Caleres Inc,6,3,0,3,3
+2026-06-24,California Resources,6,4,0,2,4
+2026-06-24,Calpine,10,4,0,4,6
+2026-06-24,Calumet Inc,8,2,0,6,2
+2026-06-24,Camping World,6,2,0,4,2
+2026-06-24,Capital Group Companies,6,3,0,2,4
+2026-06-24,Capital One,5,4,0,1,4
+2026-06-24,CarMax,5,4,0,1,4
+2026-06-24,Carahsoft,6,3,1,2,3
+2026-06-24,Cardinal Health,10,9,0,1,9
+2026-06-24,Cargill,6,2,1,3,2
+2026-06-24,Carlisle Companies,7,4,0,3,4
+2026-06-24,Carlyle Group,6,3,0,3,3
+2026-06-24,Carpenter Technology,7,2,0,5,2
+2026-06-24,Carrier Global,4,2,0,2,2
+2026-06-24,Carters Inc,6,4,0,2,4
+2026-06-24,Carvana,4,3,0,1,3
+2026-06-24,Caseys General Stores,1,0,0,1,0
+2026-06-24,Catalent,6,3,0,3,3
+2026-06-24,Caterpillar,7,4,0,3,4
+2026-06-24,Cboe Global Markets,5,2,0,3,2
+2026-06-24,Celanese,6,3,0,3,3
+2026-06-24,Cencora,6,3,0,3,3
+2026-06-24,Centene,7,3,0,4,3
+2026-06-24,CenterPoint Energy,7,3,0,0,7
+2026-06-24,Central Garden & Pet,6,3,0,3,3
+2026-06-24,Central National-Gottesman,7,2,0,5,2
+2026-06-24,Century Communities,4,2,0,2,2
+2026-06-24,ChampionX,7,3,0,4,3
+2026-06-24,Charles River Laboratories International,7,2,0,5,2
+2026-06-24,Charles Schwab,7,5,0,2,5
+2026-06-24,Chart Industries,6,3,0,3,3
+2026-06-24,Charter Communications,5,3,0,2,3
+2026-06-24,Cheesecake Factory,8,1,0,4,4
+2026-06-24,Chefs Warehouse,7,4,0,3,4
+2026-06-24,Chemours,6,3,0,3,3
+2026-06-24,Cheniere Energy,6,3,0,0,6
+2026-06-24,Chevron,4,2,0,2,2
+2026-06-24,Chewy,7,5,0,2,5
+2026-06-24,Chick-fil-A,8,3,0,5,3
+2026-06-24,Chipotle Mexican Grill,6,3,0,3,3
+2026-06-24,Choate Construction Company,1,0,0,1,0
+2026-06-24,Chobani,5,3,0,2,3
+2026-06-24,Chord Energy,7,2,0,0,7
+2026-06-24,Church & Dwight,6,3,0,3,3
+2026-06-24,Ciena,3,1,0,2,1
+2026-06-24,Cigna,7,6,0,1,6
+2026-06-24,Cinemark,6,4,0,2,4
+2026-06-24,Cintas,6,4,0,2,4
+2026-06-24,Cisco Systems,7,3,0,4,3
+2026-06-24,Citigroup,7,3,0,4,3
+2026-06-24,Citizens Financial Group,5,1,0,3,2
+2026-06-24,Civitas Resources,6,3,0,1,5
+2026-06-24,"Clark Core Services, LLC",8,0,0,8,0
+2026-06-24,Clark Group,7,2,0,5,2
+2026-06-24,Clayco Inc,6,4,0,2,4
+2026-06-24,Clean Harbors,6,3,0,0,6
+2026-06-24,Clear Channel Outdoor Holdings,4,2,0,0,4
+2026-06-24,Cleveland-Cliffs,8,0,0,7,1
+2026-06-24,Clorox,6,5,0,1,5
+2026-06-24,Cloud Software Group,6,2,0,3,3
+2026-06-24,Clune Construction,7,4,0,3,4
+2026-06-24,Cognizant Technology Solutions,4,3,0,1,3
+2026-06-24,Coherent,5,3,0,2,3
+2026-06-24,Coinbase Global,7,1,0,6,1
+2026-06-24,Colgate-Palmolive,7,3,0,4,3
+2026-06-24,Colonial Group,7,4,0,3,4
+2026-06-24,Columbia Banking System,9,6,0,3,6
+2026-06-24,Columbia Sportswear,7,4,0,3,4
+2026-06-24,Columbia University,6,3,0,3,3
+2026-06-24,Comcast,9,8,0,1,8
+2026-06-24,Comfort Systems USA,6,4,0,1,5
+2026-06-24,CommScope,6,5,0,1,5
+2026-06-24,Commercial Metals,5,2,0,3,2
+2026-06-24,Community Health Systems,7,3,0,2,5
+2026-06-24,Compass Group,7,6,0,1,6
+2026-06-24,Conagra Brands,5,2,0,3,2
+2026-06-24,Concentrix,6,3,0,2,4
+2026-06-24,Conduent,8,5,1,2,5
+2026-06-24,ConocoPhillips,4,2,0,2,2
+2026-06-24,Consigli Building Group,7,3,0,4,3
+2026-06-24,Consol Energy,9,3,0,5,4
+2026-06-24,Consolidated Edison,5,2,0,3,2
+2026-06-24,Constellation Brands,4,1,0,3,1
+2026-06-24,Constellation Energy,5,3,0,0,5
+2026-06-24,Continental Resources,11,3,0,8,3
+2026-06-24,Convergint,6,3,1,2,3
+2026-06-24,Cook Group,6,3,1,1,4
+2026-06-24,Cooley,6,4,0,2,4
+2026-06-24,Cooper Cos,7,2,0,5,2
+2026-06-24,Cooper-Standard,7,3,0,4,3
+2026-06-24,Copart,7,6,0,1,6
+2026-06-24,Core & Main,4,3,0,1,3
+2026-06-24,Corebridge Financial,7,3,0,4,3
+2026-06-24,Cornerstone Building Brands,6,2,0,4,2
+2026-06-24,Corning,9,7,0,2,7
+2026-06-24,Corpay,6,4,0,2,4
+2026-06-24,Corteva,5,3,0,2,3
+2026-06-24,Costco,6,2,2,1,3
+2026-06-24,Coterra Energy,8,2,0,1,7
+2026-06-24,Coty,6,4,0,2,4
+2026-06-24,Country Financial,6,4,0,2,4
+2026-06-24,Coupang,5,3,0,2,3
+2026-06-24,Cox Enterprises,6,3,0,3,3
+2026-06-24,Cracker Barrel Old Country Store,6,4,0,2,4
+2026-06-24,Crocs,6,2,0,4,2
+2026-06-24,CrossAmerica Partners,7,3,0,4,3
+2026-06-24,CrowdStrike,4,2,0,2,2
+2026-06-24,Crowley Maritime,5,3,0,2,3
+2026-06-24,Crown Castle,5,2,0,2,3
+2026-06-24,Crown Equipment Corporation,6,3,0,3,3
+2026-06-24,Crown Holdings,7,2,0,5,2
+2026-06-24,Cullen Frost Bankers,7,2,0,5,2
+2026-06-24,Culligan International,6,4,0,2,4
+2026-06-24,Cummins Inc,5,4,0,1,4
+2026-06-24,Curtiss-Wright,6,3,0,3,3
+2026-06-24,D&H Distributing,7,2,1,4,2
+2026-06-24,DPR Construction,7,4,0,1,6
+2026-06-24,DR Horton Inc,8,1,0,5,3
+2026-06-24,DTE Energy,6,4,0,0,6
+2026-06-24,DXC Technology,1,0,0,1,0
+2026-06-24,DaVita,7,4,0,3,4
+2026-06-24,Dana Incorporated,5,4,0,1,4
+2026-06-24,Danaher,6,3,0,3,3
+2026-06-24,Darden Restaurants,4,2,0,2,2
+2026-06-24,Darling Ingredients,5,2,1,0,4
+2026-06-24,Dart Container,5,3,0,2,3
+2026-06-24,David Weekley Homes,7,4,0,3,4
+2026-06-24,Davis Polk,5,2,0,3,2
+2026-06-24,Day & Zimmermann,7,3,0,3,4
+2026-06-24,Deckers Outdoor,7,4,1,2,4
+2026-06-24,Delaware North,7,5,0,2,5
+2026-06-24,Delek US,8,3,0,5,3
+2026-06-24,Dell Technologies,6,3,0,3,3
+2026-06-24,Delta Air Lines,7,3,1,3,3
+2026-06-24,Demoulas Super Markets,1,0,0,1,0
+2026-06-24,Dentsply Sirona,7,5,0,2,5
+2026-06-24,Designer Brands Inc,6,2,0,4,2
+2026-06-24,Devon Energy,6,4,0,0,6
+2026-06-24,DexCom,7,2,0,5,2
+2026-06-24,Diamondback Energy,6,4,0,0,6
+2026-06-24,Dicks Sporting Goods,6,5,0,1,5
+2026-06-24,Diebold Nixdorf,6,4,0,2,4
+2026-06-24,DigiKey,6,4,1,1,4
+2026-06-24,Digital Realty Trust,7,3,0,1,6
+2026-06-24,Dillards,6,3,0,2,4
+2026-06-24,Discount Tire,4,1,0,1,3
+2026-06-24,Discover Financial,5,2,0,3,2
+2026-06-24,DocuSign,6,4,0,2,4
+2026-06-24,Dollar General Corporation,9,2,0,7,2
+2026-06-24,Dollar Tree,9,1,0,8,1
+2026-06-24,Dominion Energy,5,4,0,0,5
+2026-06-24,Dominos Pizza Inc,8,4,0,4,4
+2026-06-24,Domtar,9,6,0,3,6
+2026-06-24,Donaldson Company,6,3,0,3,3
+2026-06-24,DoorDash,6,4,0,2,4
+2026-06-24,Dot Foods,7,4,0,3,4
+2026-06-24,Dover Corporation,6,3,0,3,3
+2026-06-24,DraftKings,7,5,0,2,5
+2026-06-24,Dream Finders Homes,7,3,0,0,7
+2026-06-24,Dropbox,5,2,0,3,2
+2026-06-24,DuPont,3,2,0,1,2
+2026-06-24,Duke Energy Corporation,7,3,0,0,7
+2026-06-24,Dycom Industries,6,2,0,4,2
+2026-06-24,Dynata,6,2,1,3,2
+2026-06-24,EBSCO Industries Inc,7,4,0,3,4
+2026-06-24,EMCOR Group,6,3,0,3,3
+2026-06-24,EOG Resources,7,2,0,5,2
+2026-06-24,EPAM Systems,5,3,0,2,3
+2026-06-24,EQT,9,5,0,3,6
+2026-06-24,ESAB,7,4,0,3,4
+2026-06-24,East West Bancorp,9,5,1,4,4
+2026-06-24,Eastman Chemical,7,3,0,3,4
+2026-06-24,Ebay,6,5,0,1,5
+2026-06-24,Echo Global Logistics,5,3,1,1,3
+2026-06-24,EchoStar,7,2,0,5,2
+2026-06-24,Ecolab,6,5,0,1,5
+2026-06-24,Edison International,7,2,0,4,3
+2026-06-24,Edward Jones,6,6,0,0,6
+2026-06-24,Edwards Lifesciences,6,3,0,3,3
+2026-06-24,Elanco Animal Health,6,4,0,2,4
+2026-06-24,Electronic Arts,6,4,0,2,4
+2026-06-24,Elevance Health,10,6,0,4,6
+2026-06-24,Eli Lilly,5,3,0,2,3
+2026-06-24,Emerson Electric,6,3,0,3,3
+2026-06-24,EnLink Midstream,6,1,0,5,1
+2026-06-24,Encompass Health,6,2,0,4,2
+2026-06-24,EnerSys,6,4,0,2,4
+2026-06-24,Energizer Holdings,7,3,0,0,7
+2026-06-24,Energy Transfer,6,4,0,0,6
+2026-06-24,Ensign Group,6,2,1,3,2
+2026-06-24,Entegris,7,5,0,2,5
+2026-06-24,Entergy,7,4,0,3,4
+2026-06-24,Enterprise Mobility,9,6,0,3,6
+2026-06-24,Enterprise Products Partners,7,1,0,6,1
+2026-06-24,Envision Healthcare,10,1,0,9,1
+2026-06-24,Envista Holdings,6,4,0,2,4
+2026-06-24,Epic Systems,8,3,1,4,3
+2026-06-24,Equifax,6,2,0,3,3
+2026-06-24,Equinix,4,3,0,1,3
+2026-06-24,Equitable Holdings,9,7,0,2,7
+2026-06-24,Equity Residential,8,0,0,8,0
+2026-06-24,Erie Insurance,7,3,1,3,3
+2026-06-24,Estes Express Lines,5,2,0,3,2
+2026-06-24,Etsy,5,4,0,1,4
+2026-06-24,Euronet Worldwide,6,3,0,3,3
+2026-06-24,Everforth Inc,5,1,0,4,1
+2026-06-24,Evergy,5,4,0,1,4
+2026-06-24,Eversource Energy,7,6,0,0,7
+2026-06-24,Exact Sciences,6,3,0,3,3
+2026-06-24,Exelon,5,2,0,3,2
+2026-06-24,Expand Energy Corporation,7,2,0,0,7
+2026-06-24,Expedia,7,5,0,1,6
+2026-06-24,Expeditors International of Washington,7,2,0,5,2
+2026-06-24,Extra Space Storage,6,4,0,2,4
+2026-06-24,Exxon Mobil,7,4,0,3,4
+2026-06-24,F5,4,2,0,2,2
+2026-06-24,FJ Management,1,0,0,1,0
+2026-06-24,FM Global,4,3,0,1,3
+2026-06-24,FMC Corporation,6,3,0,3,3
+2026-06-24,FTI Consulting,6,3,1,2,3
+2026-06-24,FW Webb Company,6,2,0,4,2
+2026-06-24,Fanatics,7,6,0,1,6
+2026-06-24,Fannie Mae,5,2,0,3,2
+2026-06-24,Farmers Insurance Group,7,3,0,4,3
+2026-06-24,Fastenal,5,3,0,2,3
+2026-06-24,FedEx,5,3,0,2,3
+2026-06-24,Federated Mutual Insurance,7,2,0,3,4
+2026-06-24,Ferguson Enterprises,6,3,0,3,3
+2026-06-24,Fertitta Entertainment,8,2,0,1,7
+2026-06-24,Fetch Pet Insurance,8,3,1,4,3
+2026-06-24,Fidelity Investments,6,5,0,1,5
+2026-06-24,Fidelity National Financial,7,2,0,5,2
+2026-06-24,Fidelity National Information Services,5,2,0,3,2
+2026-06-24,Fifth Third Bancorp,8,6,0,2,6
+2026-06-24,First American Financial,10,6,0,3,7
+2026-06-24,First Citizens BancShares,7,2,0,4,3
+2026-06-24,First Horizon,7,5,0,2,5
+2026-06-24,First National of Nebraska,7,4,0,3,4
+2026-06-24,First Solar,5,2,0,3,2
+2026-06-24,FirstCash,7,3,0,4,3
+2026-06-24,FirstEnergy Corp,6,1,0,4,2
+2026-06-24,Fiserv,6,3,0,3,3
+2026-06-24,Five Below,5,4,0,1,4
+2026-06-24,Flagstar Financial,6,2,0,4,2
+2026-06-24,Flex-N-Gate,7,3,0,4,3
+2026-06-24,Floor & Decor,4,3,0,1,3
+2026-06-24,Flowers Foods,6,3,0,3,3
+2026-06-24,Flowserve,6,5,0,1,5
+2026-06-24,Fluor,7,5,0,2,5
+2026-06-24,Food City,7,1,1,3,3
+2026-06-24,Foot Locker Inc,7,5,0,2,5
+2026-06-24,Ford Motor,6,3,0,3,3
+2026-06-24,Fortinet,5,3,1,1,3
+2026-06-24,Fortive,7,3,0,4,3
+2026-06-24,Fortune Brands Innovations,7,2,0,5,2
+2026-06-24,Foster Farms,7,4,0,3,4
+2026-06-24,Fox Corporation,6,1,0,5,1
+2026-06-24,Franklin Resources,8,1,1,6,1
+2026-06-24,Freddie Mac,5,2,0,3,2
+2026-06-24,Freedom Mortgage,6,4,1,0,5
+2026-06-24,Freeport-McMoRan,8,0,0,5,3
+2026-06-24,Frontier Airlines,5,3,0,2,3
+2026-06-24,Frontier Communications,7,4,0,3,4
+2026-06-24,Fusion Worldwide,7,3,0,4,3
+2026-06-24,G-III Apparel Group,8,0,0,8,0
+2026-06-24,GCM Grosvenor,7,2,0,5,2
+2026-06-24,GE HealthCare Technologies,10,3,0,5,5
+2026-06-24,GE Vernova,7,4,0,3,4
+2026-06-24,GEICO,7,6,0,1,6
+2026-06-24,GMS,8,3,0,3,5
+2026-06-24,GXO Logistics,6,2,0,4,2
+2026-06-24,Gallo,8,4,0,4,4
+2026-06-24,GameStop,5,4,0,1,4
+2026-06-24,Gannett,6,2,0,4,2
+2026-06-24,Gap Inc,6,3,0,2,4
+2026-06-24,Garrett Motion Inc,6,4,0,2,4
+2026-06-24,Gartner,5,4,0,1,4
+2026-06-24,Gen Digital,6,3,0,3,3
+2026-06-24,Generac Holdings,8,1,0,6,2
+2026-06-24,General Atomics,5,3,0,2,3
+2026-06-24,General Dynamics,6,4,0,0,6
+2026-06-24,General Mills,6,4,0,2,4
+2026-06-24,General Motors,6,4,0,2,4
+2026-06-24,Genesis Energy,7,3,0,1,6
+2026-06-24,Genuine Parts Company,7,3,0,4,3
+2026-06-24,Genworth Financial,7,2,0,4,3
+2026-06-24,Giant Eagle,7,2,0,4,3
+2026-06-24,"Gibson, Dunn & Crutcher",7,2,0,5,2
+2026-06-24,Gilbane,6,2,0,4,2
+2026-06-24,Gilead Sciences,5,2,0,2,3
+2026-06-24,Global Partners,7,2,0,3,4
+2026-06-24,Global Payments,5,2,0,3,2
+2026-06-24,Globe Life,6,4,1,1,4
+2026-06-24,GoDaddy,4,3,0,1,3
+2026-06-24,Gold.com Inc,7,1,0,5,2
+2026-06-24,Golden State Foods,7,3,0,4,3
+2026-06-24,Goldman Sachs,5,2,0,2,3
+2026-06-24,Goodwin Procter,7,2,0,5,2
+2026-06-24,Goodyear Tire & Rubber,9,6,0,3,6
+2026-06-24,Gordon Food Service,7,3,0,3,4
+2026-06-24,Graham Holdings Company,7,1,0,6,1
+2026-06-24,Granite Construction,5,3,0,2,3
+2026-06-24,Graphic Packaging,6,2,0,3,3
+2026-06-24,Gray Inc,6,3,0,3,3
+2026-06-24,Gray Television,7,0,1,6,0
+2026-06-24,Graybar Electric,10,2,0,8,2
+2026-06-24,Great American Outdoors Group,9,1,0,1,8
+2026-06-24,Great Lakes Cheese,7,4,0,0,7
+2026-06-24,Green Plains Inc,7,3,0,4,3
+2026-06-24,Greenberg Traurig,5,2,0,3,2
+2026-06-24,Greif,7,4,0,3,4
+2026-06-24,Griffon Corporation,7,3,1,3,3
+2026-06-24,Grocery Outlet Holding,8,0,0,8,0
+2026-06-24,Group 1 Automotive,7,4,0,3,4
+2026-06-24,Guardian Life insurance,7,4,0,3,4
+2026-06-24,Guess Inc,6,3,0,3,3
+2026-06-24,GuideWell Mutual,7,1,0,6,1
+2026-06-24,Guitar Center,5,3,0,1,4
+2026-06-24,Guttman Holdings,8,3,0,5,3
+2026-06-24,H-E-B Grocery Company,6,3,0,3,3
+2026-06-24,HB Fuller,7,6,0,1,6
+2026-06-24,HCA Healthcare,8,5,0,3,5
+2026-06-24,HEICO,6,3,0,3,3
+2026-06-24,HEICO Corporation,7,2,0,5,2
+2026-06-24,HF Sinclair,8,6,0,2,6
+2026-06-24,HITT Contracting,8,4,0,4,4
+2026-06-24,HP,6,5,0,1,5
+2026-06-24,HP Hood,6,3,0,3,3
+2026-06-24,HT Hackney,7,2,0,5,2
+2026-06-24,Halliburton,7,3,0,4,3
+2026-06-24,Hallmark Cards Inc,9,6,0,3,6
+2026-06-24,Hanesbrands,5,2,0,2,3
+2026-06-24,Hanover Insurance Group,7,3,0,4,3
+2026-06-24,Harbor Freight Tools,5,3,0,2,3
+2026-06-24,Hard Rock International,6,2,4,0,2
+2026-06-24,Harley-Davidson,5,3,0,2,3
+2026-06-24,Hasbro,9,6,0,3,6
+2026-06-24,Hawaiian Airlines Inc,7,4,0,3,4
+2026-06-24,Hawaiian Electric Industries,6,4,0,2,4
+2026-06-24,Haworth International,7,4,0,3,4
+2026-06-24,Hearst,6,4,0,2,4
+2026-06-24,Helmerich & Payne,6,1,1,4,1
+2026-06-24,Henry Schein,7,5,0,2,5
+2026-06-24,Hensel Phelps Construction,5,2,0,3,2
+2026-06-24,Herc Rentals,5,3,0,2,3
+2026-06-24,Hertz,6,5,0,1,5
+2026-06-24,Hewlett Packard Enterprise,5,3,0,2,3
+2026-06-24,Hillenbrand,7,2,2,3,2
+2026-06-24,Hilmar Cheese,7,4,0,3,4
+2026-06-24,Hilton Grand Vacations,5,2,0,0,5
+2026-06-24,Hilton Worldwide,5,2,0,2,3
+2026-06-24,Hims & Hers,6,4,0,2,4
+2026-06-24,Hobby Lobby Stores,5,3,0,2,3
+2026-06-24,Hoffman Corporation,7,3,0,4,3
+2026-06-24,Hogan Lovells,6,3,0,3,3
+2026-06-24,Holder Construction,7,3,0,4,3
+2026-06-24,Hologic,6,4,0,1,5
+2026-06-24,Honeywell,7,5,0,2,5
+2026-06-24,Hormel Foods,5,4,0,1,4
+2026-06-24,Host Hotels & Resorts,7,3,0,4,3
+2026-06-24,Houchens Industries,9,6,0,2,7
+2026-06-24,Hovnanian Enterprises,6,2,0,4,2
+2026-06-24,Howmet Aerospace,6,2,0,4,2
+2026-06-24,Hub Group,6,3,0,3,3
+2026-06-24,Hubbell Incorporated,6,4,0,2,4
+2026-06-24,Hulu,9,7,0,2,7
+2026-06-24,Humana,6,4,0,2,4
+2026-06-24,Hunt Consolidated Inc,1,0,0,1,0
+2026-06-24,Huntington Bancshares,5,2,0,3,2
+2026-06-24,Huntington Ingalls Industries,5,3,0,2,3
+2026-06-24,Huntsman Corporation,7,4,0,3,4
+2026-06-24,Hy-Vee,8,0,0,7,1
+2026-06-24,Hyatt Hotels,8,1,0,5,3
+2026-06-24,Hyster-Yale,3,2,0,1,2
+2026-06-24,IAC inc,9,1,0,7,2
+2026-06-24,IBM,5,3,0,2,3
+2026-06-24,IDEX,6,3,0,3,3
+2026-06-24,IDEXX Laboratories,7,4,0,3,4
+2026-06-24,IQVIA,7,4,0,3,4
+2026-06-24,ITT,5,2,0,3,2
+2026-06-24,Icahn Enterprises,6,2,1,3,2
+2026-06-24,Ilitch Holdings,4,2,0,2,2
+2026-06-24,Illinois Tool Works,7,2,0,5,2
+2026-06-24,Illumina Inc,1,0,0,1,0
+2026-06-24,Incyte,7,4,0,3,4
+2026-06-24,Ingersoll Rand,9,6,0,3,6
+2026-06-24,Ingles Markets,6,3,0,3,3
+2026-06-24,Ingram Micro,8,5,0,3,5
+2026-06-24,Ingredion,6,3,0,3,3
+2026-06-24,Insight Enterprises,6,3,0,3,3
+2026-06-24,Insperity,6,4,1,1,4
+2026-06-24,Instacart,6,4,0,1,5
+2026-06-24,Installed Building Products,6,3,0,3,3
+2026-06-24,Intel,5,4,0,1,4
+2026-06-24,Interactive Brokers,6,2,1,3,2
+2026-06-24,Intercontinental Exchange,6,2,0,4,2
+2026-06-24,International Flavors & Fragrances,6,3,0,3,3
+2026-06-24,International Paper,7,4,0,3,4
+2026-06-24,Intuit,5,3,0,2,3
+2026-06-24,Intuitive Surgical,7,5,0,2,5
+2026-06-24,Iron Mountain,7,3,0,4,3
+2026-06-24,J M Smith Corporation,7,2,0,4,3
+2026-06-24,JB Hunt Transport Services,8,4,0,4,4
+2026-06-24,JCrew Group,9,7,0,2,7
+2026-06-24,JD Heiskell & Co,7,2,0,5,2
+2026-06-24,JE Dunn Construction Group,7,4,0,2,5
+2026-06-24,JELD-WEN Holding,9,3,0,6,3
+2026-06-24,JM Eagle,5,3,0,2,3
+2026-06-24,JM Family Enterprises,6,2,0,4,2
+2026-06-24,JM Huber,6,2,0,4,2
+2026-06-24,JM Smucker,6,3,0,3,3
+2026-06-24,JPMorgan Chase,7,5,0,2,5
+2026-06-24,JR Simplot,5,2,0,3,2
+2026-06-24,Jabil,6,4,0,2,4
+2026-06-24,Jackson Financial,5,0,0,5,0
+2026-06-24,Jackson Healthcare,7,4,0,2,5
+2026-06-24,Jacobs Solutions,6,3,0,3,3
+2026-06-24,Jefferies Financial,6,3,0,3,3
+2026-06-24,JetBlue Airways,7,4,1,2,4
+2026-06-24,John Deere & Company,5,4,0,1,4
+2026-06-24,Johnson & Johnson,7,3,0,3,4
+2026-06-24,Johnson Brothers Liquor Company,7,3,0,4,3
+2026-06-24,Jones Day,6,3,0,3,3
+2026-06-24,Jones Lang LaSalle,5,2,0,3,2
+2026-06-24,Juniper Networks,4,2,0,2,2
+2026-06-24,KB Home,7,3,0,3,4
+2026-06-24,KBR,7,5,0,2,5
+2026-06-24,KKR & Co,6,2,0,4,2
+2026-06-24,KLA,4,1,0,3,1
+2026-06-24,Kaiser Aluminum,5,2,0,3,2
+2026-06-24,Kaiser Permanente,6,5,0,1,5
+2026-06-24,Kehe Distributors,6,4,0,2,4
+2026-06-24,Kellanova,7,4,0,3,4
+2026-06-24,Kelly Services Inc,6,5,0,1,5
+2026-06-24,Kemper Corporation,7,3,0,4,3
+2026-06-24,Kenvue,6,2,0,4,2
+2026-06-24,Keurig Dr Pepper,7,3,0,4,3
+2026-06-24,KeyCorp,9,3,0,6,3
+2026-06-24,Keysight Technologies,6,4,0,2,4
+2026-06-24,Kiewit Corporation,6,3,0,3,3
+2026-06-24,Kimberly-Clark,8,2,0,6,2
+2026-06-24,Kinder Morgan,4,1,0,0,4
+2026-06-24,King & Spalding,7,2,0,5,2
+2026-06-24,Kingston Technology,1,0,0,1,0
+2026-06-24,Kirby Corporation,8,3,0,5,3
+2026-06-24,Kirkland & Ellis,4,1,0,3,1
+2026-06-24,Knife River Corporation,8,0,0,7,1
+2026-06-24,Knight Swift Transportation,6,4,0,2,4
+2026-06-24,Koch Foods,7,1,0,4,3
+2026-06-24,Koch Inc,5,2,0,3,2
+2026-06-24,Kohl's,6,4,0,2,4
+2026-06-24,Kohler,7,5,0,2,5
+2026-06-24,Kokosing Construction,7,2,1,4,2
+2026-06-24,Komen,6,4,0,2,4
+2026-06-24,Kontoor Brands,5,2,0,3,2
+2026-06-24,Korn Ferry,6,3,0,3,3
+2026-06-24,Kraft Heinz,6,4,0,2,4
+2026-06-24,Kroger,6,5,0,1,5
+2026-06-24,Kyndryl,3,2,0,1,2
+2026-06-24,L3Harris Technologies,4,2,0,2,2
+2026-06-24,LCI Industries,8,5,0,3,5
+2026-06-24,LKQ,9,5,0,4,5
+2026-06-24,LPL Financial,5,3,0,2,3
+2026-06-24,Labcorp Holdings,6,2,0,4,2
+2026-06-24,Lam Research,7,3,0,4,3
+2026-06-24,Lamb Weston,6,4,0,2,4
+2026-06-24,Land O'Lakes,6,3,0,2,4
+2026-06-24,Landstar System,5,2,0,3,2
+2026-06-24,Las Vegas Sands,10,4,0,6,4
+2026-06-24,Latham & Watkins,8,4,0,4,4
+2026-06-24,Lear Corporation,6,4,0,2,4
+2026-06-24,Leggett & Platt,1,0,0,1,0
+2026-06-24,Leidos,8,6,0,2,6
+2026-06-24,Lennar,5,3,0,2,3
+2026-06-24,Lennox International,10,7,0,3,7
+2026-06-24,Leprino Foods,6,3,0,3,3
+2026-06-24,Levi Strauss,8,4,0,4,4
+2026-06-24,Liberty Energy,6,3,0,0,6
+2026-06-24,Liberty Media,9,1,0,0,9
+2026-06-24,Liberty Mutual Insurance,6,5,0,0,6
+2026-06-24,Life Care Centers of America,7,5,0,0,7
+2026-06-24,Light & Wonder,6,2,0,4,2
+2026-06-24,Lincoln Electric,7,5,0,2,5
+2026-06-24,Lincoln Financial,6,4,0,2,4
+2026-06-24,Lithia Motors,6,4,0,2,4
+2026-06-24,Live Nation Entertainment,9,7,0,1,8
+2026-06-24,Lockheed Martin,6,2,0,3,3
+2026-06-24,Loews,6,3,0,2,4
+2026-06-24,Louisiana-Pacific Corporation,8,0,0,7,1
+2026-06-24,Love's Travel Stops & Country Stores,5,3,1,1,3
+2026-06-24,Lowe's Companies,7,4,0,3,4
+2026-06-24,Lululemon athletica,6,3,0,3,3
+2026-06-24,Lumen Technologies,5,3,0,2,3
+2026-06-24,Lyft,5,5,0,0,5
+2026-06-24,M&T Bank,7,7,0,0,7
+2026-06-24,M/I Homes,8,0,0,8,0
+2026-06-24,MAT Holdings,8,0,0,8,0
+2026-06-24,MBK Partners,6,2,0,4,2
+2026-06-24,MDU Resources Group,7,2,0,5,2
+2026-06-24,MGM Resorts International,8,5,0,3,5
+2026-06-24,MKS Instruments,7,2,0,5,2
+2026-06-24,MRC Global,7,5,0,2,5
+2026-06-24,MSC Industrial Direct,6,3,0,3,3
+2026-06-24,MSC Mediterranean Shipping Company,6,4,0,2,4
+2026-06-24,MSCI,5,3,0,2,3
+2026-06-24,MYR Group,6,3,0,3,3
+2026-06-24,Macys,6,5,0,1,5
+2026-06-24,Makers Pride LLC,9,0,0,8,1
+2026-06-24,ManpowerGroup,7,4,0,3,4
+2026-06-24,Mansfield Energy,1,0,0,1,0
+2026-06-24,Marathon Oil,8,5,0,3,5
+2026-06-24,Marathon Petroleum,6,3,0,3,3
+2026-06-24,Markel Group,5,2,0,3,2
+2026-06-24,Marriott International,9,8,0,1,8
+2026-06-24,Marriott Vacations Worldwide,7,4,0,3,4
+2026-06-24,Mars Incorporated,5,2,0,3,2
+2026-06-24,Marsh,6,3,1,2,3
+2026-06-24,Martin Marietta Materials,7,3,0,4,3
+2026-06-24,Marvell Technology,5,3,0,2,3
+2026-06-24,Mary Kay Cosmetics,4,2,0,2,2
+2026-06-24,MasTec,8,4,0,4,4
+2026-06-24,Masco,5,2,0,3,2
+2026-06-24,Mass Mutual,7,5,0,2,5
+2026-06-24,MasterBrand,6,4,0,2,4
+2026-06-24,Mastercard,9,6,0,3,6
+2026-06-24,Matador Resources,6,2,0,4,2
+2026-06-24,Match Group,6,3,0,3,3
+2026-06-24,Mativ,7,2,0,5,2
+2026-06-24,Matson Inc,7,3,0,4,3
+2026-06-24,Mattel,7,6,0,1,6
+2026-06-24,Maximus,7,5,0,2,5
+2026-06-24,McCarthy Holdings,9,6,0,3,6
+2026-06-24,McCormick & Company,7,5,0,2,5
+2026-06-24,McDonalds,9,7,0,2,7
+2026-06-24,McKesson,7,4,0,3,4
+2026-06-24,McKinsey & Company,4,2,0,2,2
+2026-06-24,McWane,7,7,0,0,7
+2026-06-24,Mediacom Communications,7,4,0,2,5
+2026-06-24,Medical Mutual of Ohio,7,4,0,3,4
+2026-06-24,Medline Industries,6,2,0,4,2
+2026-06-24,Meijer,4,3,0,1,3
+2026-06-24,Menards,5,3,0,2,3
+2026-06-24,Merck,10,8,0,2,8
+2026-06-24,Mercury General,7,2,0,5,2
+2026-06-24,Meritage Homes,5,3,0,2,3
+2026-06-24,MetLife Inc,6,3,0,3,3
+2026-06-24,Meta Platforms,6,3,0,3,3
+2026-06-24,Mettler-Toledo International,6,2,0,4,2
+2026-06-24,Michels Corporation,6,3,0,3,3
+2026-06-24,Micro Electronics Inc,9,3,0,6,3
+2026-06-24,Microchip Technology,5,3,0,2,3
+2026-06-24,Micron Technology,5,3,0,2,3
+2026-06-24,Microsoft,5,4,0,1,4
+2026-06-24,Middleby,6,3,0,3,3
+2026-06-24,MillerKnoll,5,3,0,2,3
+2026-06-24,Mode Global,7,4,0,3,4
+2026-06-24,Moderna,7,4,0,3,4
+2026-06-24,Mohawk Industries,6,4,0,2,4
+2026-06-24,Molina Healthcare,7,4,0,3,4
+2026-06-24,Molson Coors Beverage,1,0,0,1,0
+2026-06-24,Mondelez,7,3,0,3,4
+2026-06-24,Monster Beverage,5,2,0,3,2
+2026-06-24,Moodys Corporation,6,3,0,2,4
+2026-06-24,Moog Inc,6,3,0,3,3
+2026-06-24,Morgan Lewis,6,2,0,4,2
+2026-06-24,Morgan Stanley,6,4,0,2,4
+2026-06-24,Mortenson,7,4,0,3,4
+2026-06-24,Motley Rice,6,3,0,3,3
+2026-06-24,Motorola Solutions,8,7,0,1,7
+2026-06-24,Mountaire Farms,7,4,0,2,5
+2026-06-24,Mueller Industries,8,3,0,5,3
+2026-06-24,Murphy Oil,8,3,1,4,3
+2026-06-24,Murphy USA,8,6,0,2,6
+2026-06-24,Mutual of Omaha,5,2,0,3,2
+2026-06-24,NCR Atleos,7,4,0,3,4
+2026-06-24,NCR Voyix,6,5,0,1,5
+2026-06-24,NFI Industries,6,3,0,3,3
+2026-06-24,NGL Energy Partners,7,2,0,0,7
+2026-06-24,NLV Financial,9,3,0,6,3
+2026-06-24,NOV,6,3,0,3,3
+2026-06-24,NRG Energy,7,4,0,0,7
+2026-06-24,NVR Inc,7,4,0,3,4
+2026-06-24,Nasdaq Inc,6,3,0,3,3
+2026-06-24,Nationwide Mutual Insurance Company,6,2,0,4,2
+2026-06-24,Navient,6,1,2,3,1
+2026-06-24,NetApp,5,2,0,3,2
+2026-06-24,Netflix,6,4,0,2,4
+2026-06-24,NeueHealth,7,2,0,4,3
+2026-06-24,New Balance,6,3,0,3,3
+2026-06-24,New York Life Insurance,6,4,0,2,4
+2026-06-24,NewMarket Corporation,6,2,0,4,2
+2026-06-24,Newell Brands,5,4,0,1,4
+2026-06-24,Newly Weds Foods,7,1,1,4,2
+2026-06-24,Newmont,8,4,0,4,4
+2026-06-24,Newrez,7,6,0,1,6
+2026-06-24,News Corp,6,3,0,3,3
+2026-06-24,Nexstar Media Group,6,3,0,3,3
+2026-06-24,NextEra Energy,4,2,0,0,4
+2026-06-24,NiSource,7,4,0,3,4
+2026-06-24,Nike,6,3,0,3,3
+2026-06-24,Nordson,6,5,0,1,5
+2026-06-24,Nordstrom,6,5,0,1,5
+2026-06-24,Norfolk Southern,4,2,0,2,2
+2026-06-24,Northeast Grocery,1,0,0,1,0
+2026-06-24,Northern Trust,7,4,0,1,6
+2026-06-24,Northrop Grumman,6,4,0,2,4
+2026-06-24,Northwestern Mutual,6,4,0,2,4
+2026-06-24,Novolex,6,3,0,3,3
+2026-06-24,Nucor,5,2,0,3,2
+2026-06-24,Nvidia,4,2,0,2,2
+2026-06-24,O'Neal Industries,7,4,0,3,4
+2026-06-24,O'Reilly Automotive,7,0,0,6,1
+2026-06-24,O-I Glass,9,1,0,8,1
+2026-06-24,ODP Business Solutions,6,4,0,2,4
+2026-06-24,OGE Energy,6,3,0,2,4
+2026-06-24,ON Semiconductor,6,2,0,4,2
+2026-06-24,OSI Group,6,2,0,4,2
+2026-06-24,Occidental Petroleum,3,1,0,2,1
+2026-06-24,Old Dominion Freight Line,6,2,0,4,2
+2026-06-24,Old National Bancorp,5,2,0,3,2
+2026-06-24,Old Navy,6,4,0,2,4
+2026-06-24,Old Republic International,7,3,0,4,3
+2026-06-24,Olin Corporation,7,3,0,4,3
+2026-06-24,Omnicom Group,5,2,0,3,2
+2026-06-24,OneMain Financial,6,2,0,4,2
+2026-06-24,Oneok,5,3,0,2,3
+2026-06-24,OpenText,5,2,0,3,2
+2026-06-24,Opendoor Technologies,6,3,1,2,3
+2026-06-24,Optimum Communications Inc,9,5,0,4,5
+2026-06-24,Option Care Health,6,3,0,0,6
+2026-06-24,Oracle,10,6,0,4,6
+2026-06-24,Organon,5,2,0,2,3
+2026-06-24,Orgill Warehouse,7,3,0,4,3
+2026-06-24,Oscar Health,7,5,0,2,5
+2026-06-24,Oshkosh Corporation,9,7,0,2,7
+2026-06-24,Otis Worldwide,6,2,0,3,3
+2026-06-24,Ovintiv,7,2,0,5,2
+2026-06-24,Owens & Minor,6,4,0,2,4
+2026-06-24,Owens Corning,6,2,0,3,3
+2026-06-24,Oxbow Carbon,6,2,0,3,3
+2026-06-24,PACS Group,1,0,0,1,0
+2026-06-24,PBF Energy,8,3,0,0,8
+2026-06-24,PC Connection Inc,4,1,0,3,1
+2026-06-24,PENN Entertainment,7,2,0,1,6
+2026-06-24,PNC Financial Services,7,5,0,2,5
+2026-06-24,PPG Industries,6,4,0,2,4
+2026-06-24,PPL Corporation,5,3,0,2,3
+2026-06-24,PVH,6,3,0,3,3
+2026-06-24,Paccar,5,4,0,1,4
+2026-06-24,Pacific Gas and Electric Company,9,7,0,2,7
+2026-06-24,Pacific Life,6,3,0,3,3
+2026-06-24,Packaging Corp of America,1,0,0,1,0
+2026-06-24,Palo Alto Networks,4,2,0,2,2
+2026-06-24,Panda Restaurant Group,10,6,0,4,6
+2026-06-24,Par Pacific,8,1,0,7,1
+2026-06-24,Paramount Global,8,2,0,6,2
+2026-06-24,Park Hotels & Resorts,7,2,0,5,2
+2026-06-24,Parker-Hannifin,5,4,0,1,4
+2026-06-24,Parsons Corporation,6,2,0,4,2
+2026-06-24,Parts Town Unlimited,9,1,0,7,2
+2026-06-24,Patrick Industries,6,2,0,4,2
+2026-06-24,Patterson Companies Inc,7,3,0,4,3
+2026-06-24,Patterson-UTI Energy,10,8,1,1,8
+2026-06-24,Paul Weiss,7,2,1,4,2
+2026-06-24,PayPal,6,3,0,2,4
+2026-06-24,Paychex,7,4,0,3,4
+2026-06-24,Peabody Energy,6,3,0,0,6
+2026-06-24,Peloton Interactive,7,3,0,4,3
+2026-06-24,Penn Mutual Life Insurance,6,3,0,3,3
+2026-06-24,PennyMac Financial Services,6,2,0,4,2
+2026-06-24,Penske Automotive,7,4,0,3,4
+2026-06-24,PepsiCo,7,5,0,2,5
+2026-06-24,Perdue Farms,6,5,0,1,5
+2026-06-24,Performance Food Group,10,3,0,7,3
+2026-06-24,Permian Resources,7,3,0,4,3
+2026-06-24,Perry Homes,7,3,0,3,4
+2026-06-24,Petco Health and Wellness,5,3,0,1,4
+2026-06-24,Petrobras,7,3,0,4,3
+2026-06-24,Petsmart,7,4,0,2,5
+2026-06-24,Pfizer,7,4,0,3,4
+2026-06-24,Philip Morris International,6,3,0,3,3
+2026-06-24,Phillips 66,5,1,0,3,2
+2026-06-24,Pinnacle West Capital,9,5,0,3,6
+2026-06-24,Pinterest,4,3,0,1,3
+2026-06-24,Pioneer Natural Resources,8,2,0,1,7
+2026-06-24,Piston Group,7,2,1,4,2
+2026-06-24,Pitney Bowes,6,4,0,2,4
+2026-06-24,Plains GP,9,4,0,5,4
+2026-06-24,Plastipak Holdings,5,3,0,2,3
+2026-06-24,Playtika Holding,8,4,0,3,5
+2026-06-24,Plexus Corp,6,3,0,3,3
+2026-06-24,Polaris Inc,6,3,0,3,3
+2026-06-24,Pool Corporation,7,2,0,5,2
+2026-06-24,Popular Inc,6,4,0,0,6
+2026-06-24,Portland General Electric,6,4,0,2,4
+2026-06-24,Post Holdings,6,3,0,2,4
+2026-06-24,PrIncipal Financial,7,6,0,1,6
+2026-06-24,Pratt Industries,5,4,0,1,4
+2026-06-24,PriceSmart,9,8,0,1,8
+2026-06-24,Primerica,7,6,0,1,6
+2026-06-24,Primoris Services,7,4,0,3,4
+2026-06-24,ProFrac Holding,6,3,0,3,3
+2026-06-24,Procter & Gamble,6,3,0,3,3
+2026-06-24,Progressive Insurance,7,2,0,5,2
+2026-06-24,Prologis,6,4,0,2,4
+2026-06-24,Prudential Financial,7,4,0,3,4
+2026-06-24,Public Service Enterprise Group,6,4,0,2,4
+2026-06-24,Public Storage,9,0,0,7,2
+2026-06-24,Publix Super Markets,6,4,0,2,4
+2026-06-24,Puget Sound Energy,5,4,0,0,5
+2026-06-24,PulteGroup,8,4,0,4,4
+2026-06-24,Pure Storage,8,3,0,5,3
+2026-06-24,QVC Group,8,6,0,2,6
+2026-06-24,QXO Building Products,6,1,0,5,1
+2026-06-24,Qorvo,5,2,0,3,2
+2026-06-24,Qualcomm,4,2,0,2,2
+2026-06-24,Qualtrics,5,3,0,2,3
+2026-06-24,Quanta Services,5,4,0,1,4
+2026-06-24,Quest Diagnostics,7,5,0,2,5
+2026-06-24,QuidelOrtho,6,3,0,3,3
+2026-06-24,QuikTrip,6,5,0,1,5
+2026-06-24,Quinn Emanuel Urquhart & Sullivan,6,3,0,3,3
+2026-06-24,Quirch Foods,6,4,0,2,4
+2026-06-24,REV Group,8,4,0,4,4
+2026-06-24,RPM International,7,2,0,5,2
+2026-06-24,RR Donnelley,5,2,0,3,2
+2026-06-24,RTX,6,1,0,5,1
+2026-06-24,RXO Inc,8,3,0,5,3
+2026-06-24,RaceTrac,5,4,0,1,4
+2026-06-24,Rackspace Technology,6,3,1,2,3
+2026-06-24,Radius Recycling,1,0,0,1,0
+2026-06-24,Raleys,7,4,0,3,4
+2026-06-24,Ralph Lauren,6,3,0,3,3
+2026-06-24,Range Resources,1,0,0,1,0
+2026-06-24,Raymond James Financial,8,2,0,4,4
+2026-06-24,Realty Income,3,1,0,2,1
+2026-06-24,Red Apple Group,7,2,0,5,2
+2026-06-24,Red Chamber Group,7,1,0,6,1
+2026-06-24,Red Lobster,9,0,1,7,1
+2026-06-24,Regal Rexnord,6,3,0,3,3
+2026-06-24,Regeneron Pharmaceuticals,5,2,0,2,3
+2026-06-24,Regions Financial,6,4,0,2,4
+2026-06-24,Reinsurance Group of America,6,4,0,2,4
+2026-06-24,Reliance Inc,7,3,0,4,3
+2026-06-24,Renco Group,8,2,0,5,3
+2026-06-24,Republic National Distributing Company,1,0,0,1,0
+2026-06-24,Republic Services,7,3,0,4,3
+2026-06-24,ResMed,6,3,0,3,3
+2026-06-24,Resideo Technologies,8,5,0,3,5
+2026-06-24,Restoration Hardware,5,2,0,3,2
+2026-06-24,Revvity,6,3,0,3,3
+2026-06-24,Reyes Holdings,8,2,0,6,2
+2026-06-24,Rich Products Corporation,6,4,0,0,6
+2026-06-24,Rithm Capital,7,2,0,4,3
+2026-06-24,Rivian Automotive,6,4,0,2,4
+2026-06-24,Robert Half,6,5,0,1,5
+2026-06-24,Roblox,5,5,0,0,5
+2026-06-24,Rocket Companies,7,1,0,6,1
+2026-06-24,Rockwell Automation,8,3,0,5,3
+2026-06-24,Roku,5,3,0,2,3
+2026-06-24,Rollins Inc,5,1,0,4,1
+2026-06-24,Rooms To Go,6,4,0,2,4
+2026-06-24,Roper Technologies,8,2,0,6,2
+2026-06-24,Ropes & Gray,7,4,0,3,4
+2026-06-24,Rosens Diversified,8,4,0,4,4
+2026-06-24,Ross Stores,4,1,0,3,1
+2026-06-24,Rush Enterprises,7,5,0,2,5
+2026-06-24,Ryan Companies,6,3,0,3,3
+2026-06-24,Ryder System,8,6,0,2,6
+2026-06-24,Ryerson Holding,10,6,0,4,6
+2026-06-24,S&P Global,9,3,0,6,3
+2026-06-24,SAS Institute,1,0,0,1,0
+2026-06-24,SBA Communications,6,3,0,3,3
+2026-06-24,SC Johnson,7,5,0,2,5
+2026-06-24,SHI International,5,2,0,3,2
+2026-06-24,SS&C Technologies,6,3,0,3,3
+2026-06-24,STO Building Group,6,3,0,3,3
+2026-06-24,Sabre Corporation,4,2,0,2,2
+2026-06-24,Saia Inc,7,3,0,4,3
+2026-06-24,Saks Global,5,2,0,2,3
+2026-06-24,Salesforce,5,3,1,1,3
+2026-06-24,Sallie Mae,4,3,0,1,3
+2026-06-24,Sally Beauty,5,3,0,2,3
+2026-06-24,Sammons Enterprises,7,2,0,5,2
+2026-06-24,Sanmina,5,2,0,3,2
+2026-06-24,Sazerac Company,3,1,0,2,1
+2026-06-24,ScanSource,6,4,0,2,4
+2026-06-24,Schneider National,6,3,0,3,3
+2026-06-24,Schnuck Markets,7,3,0,3,4
+2026-06-24,Schreiber Foods,6,3,0,3,3
+2026-06-24,Science Applications International,6,2,0,4,2
+2026-06-24,Scotts Miracle-Gro,7,4,0,2,5
+2026-06-24,Scoular,6,2,0,4,2
+2026-06-24,Seaboard,6,5,0,1,5
+2026-06-24,Sealed Air Corporation,7,2,0,5,2
+2026-06-24,Securian Financial,7,2,0,4,3
+2026-06-24,Select Medical Holdings,6,2,0,4,2
+2026-06-24,Selective Insurance Group,6,2,0,4,2
+2026-06-24,Sempra,4,2,0,2,2
+2026-06-24,Sentry Insurance Group,6,3,0,3,3
+2026-06-24,Service Corp International,7,5,0,2,5
+2026-06-24,ServiceNow,6,1,1,3,2
+2026-06-24,Shamrock Foods Company,8,6,0,2,6
+2026-06-24,Sheetz,6,5,0,1,5
+2026-06-24,Sherwin-Williams,6,2,0,4,2
+2026-06-24,Shift4 Payments,4,1,0,3,1
+2026-06-24,Sidley Austin,5,2,0,3,2
+2026-06-24,Sierra Nevada Brewing Co,5,2,0,3,2
+2026-06-24,Sigma Plastics Group,8,5,0,3,5
+2026-06-24,Silgan,8,6,0,2,6
+2026-06-24,Simmons Foods,7,2,0,4,3
+2026-06-24,Simon Property Group,6,4,0,2,4
+2026-06-24,Simpson Thacher & Bartlett,6,2,0,4,2
+2026-06-24,Sinclair,5,3,0,2,3
+2026-06-24,Sirius XM,6,3,1,2,3
+2026-06-24,SiteOne Landscape Supply,5,4,0,1,4
+2026-06-24,Skadden,6,3,0,3,3
+2026-06-24,Skechers USA,6,4,0,2,4
+2026-06-24,SkyWest,6,1,0,4,2
+2026-06-24,Skyline Champion,1,0,0,1,0
+2026-06-24,Skyworks Solutions,6,2,0,4,2
+2026-06-24,Smurfit Westrock,6,4,0,2,4
+2026-06-24,Snap Inc,5,3,0,2,3
+2026-06-24,Snap-on,7,3,0,4,3
+2026-06-24,Snowflake Inc,5,3,0,2,3
+2026-06-24,Solventum,8,6,0,2,6
+2026-06-24,Sonic Automotive,7,4,0,2,5
+2026-06-24,Sonoco Products,6,4,0,2,4
+2026-06-24,Southern Company,6,3,0,3,3
+2026-06-24,Southern Glazer's Wine & Spirits,7,1,0,4,3
+2026-06-24,Southern Tire Mart,5,4,0,1,4
+2026-06-24,Southwest Airlines,5,3,0,2,3
+2026-06-24,Southwest Gas Holdings,7,6,1,1,5
+2026-06-24,Southwire,5,3,0,2,3
+2026-06-24,SpartanNash,7,2,0,5,2
+2026-06-24,Spectrum Brands,7,4,0,3,4
+2026-06-24,Spire Inc,6,2,0,4,2
+2026-06-24,Spirit AeroSystems,5,1,0,4,1
+2026-06-24,Spirit Airlines,1,0,0,1,0
+2026-06-24,Splunk Inc,5,3,1,1,3
+2026-06-24,Sprouts Farmers Market,6,3,0,3,3
+2026-06-24,St Jude Childrens Research Hospital,6,3,0,3,3
+2026-06-24,Stagwell,6,4,1,1,4
+2026-06-24,Standard Industries,7,3,0,4,3
+2026-06-24,Stanley Black & Decker,7,1,0,5,2
+2026-06-24,Staples Inc,9,5,0,4,5
+2026-06-24,Starbucks,6,5,0,1,5
+2026-06-24,State Farm Insurance,5,2,0,3,2
+2026-06-24,State Street,4,3,0,1,3
+2026-06-24,Stater Bros Markets,6,3,0,3,3
+2026-06-24,Steel Dynamics,7,1,0,6,1
+2026-06-24,Steelcase,6,4,0,2,4
+2026-06-24,Stifel Financial,6,3,0,3,3
+2026-06-24,StoneX Group,6,4,0,2,4
+2026-06-24,Stripe,6,4,0,2,4
+2026-06-24,Stryker,10,9,0,1,9
+2026-06-24,Suffolk Construction Company,6,4,0,2,4
+2026-06-24,Summit Materials,9,1,0,6,3
+2026-06-24,Sun Communities,7,5,0,2,5
+2026-06-24,Sundt Construction,7,4,0,3,4
+2026-06-24,Supermicro,4,3,0,1,3
+2026-06-24,Surgery Partners,7,3,0,3,4
+2026-06-24,Swagelok,6,3,0,3,3
+2026-06-24,Swinerton,6,3,0,3,3
+2026-06-24,Sylvamo,6,3,0,3,3
+2026-06-24,Synchrony Financial,7,5,0,2,5
+2026-06-24,Synopsys,4,2,0,2,2
+2026-06-24,Synovus Financial,7,5,0,2,5
+2026-06-24,Sysco,6,4,0,2,4
+2026-06-24,T Rowe Price,7,1,0,5,2
+2026-06-24,TD Synnex,6,4,0,2,4
+2026-06-24,TEGNA,7,4,0,2,5
+2026-06-24,THOR Industries,6,4,0,2,4
+2026-06-24,TIAA,5,5,0,0,5
+2026-06-24,TJX,7,3,0,4,3
+2026-06-24,TMS International,6,2,0,4,2
+2026-06-24,TQL - Total Quality Logistics,6,3,1,2,3
+2026-06-24,Take-Two Interactive Software,7,0,1,6,0
+2026-06-24,Talen Energy,7,2,0,0,7
+2026-06-24,Tapestry Inc,4,0,0,4,0
+2026-06-24,Targa Resources,5,1,0,4,1
+2026-06-24,Target Corporation,6,3,0,3,3
+2026-06-24,Tauber Oil Company,7,3,1,3,3
+2026-06-24,Taylor Corporation,6,3,0,3,3
+2026-06-24,Taylor Morrison Home,5,3,0,2,3
+2026-06-24,Teladoc Health,7,4,0,3,4
+2026-06-24,Teledyne Technologies,5,1,0,4,1
+2026-06-24,Teleflex,7,5,0,2,5
+2026-06-24,Telephone & Data Systems,9,4,0,4,5
+2026-06-24,TelevisaUnivision,7,6,0,1,6
+2026-06-24,Tempur Sealy International,7,2,0,5,2
+2026-06-24,Tenaska,6,2,0,3,3
+2026-06-24,Tenet Healthcare,7,2,0,5,2
+2026-06-24,Tenneco,6,2,0,3,3
+2026-06-24,Teradyne,4,1,0,3,1
+2026-06-24,Terakeet,6,3,0,3,3
+2026-06-24,Terex,7,3,0,4,3
+2026-06-24,Tesla,6,2,0,4,2
+2026-06-24,Tetra Tech,5,3,1,1,3
+2026-06-24,Texas Instruments,4,2,0,2,2
+2026-06-24,Texas Roadhouse Inc,5,2,0,3,2
+2026-06-24,Textron,7,3,0,4,3
+2026-06-24,The Andersons Inc,7,4,0,3,4
+2026-06-24,The Campbells Company,8,7,0,1,7
+2026-06-24,The Coca-Cola Company,5,3,0,2,3
+2026-06-24,The Estee Lauder Companies,6,4,0,2,4
+2026-06-24,The Friedkin Group,6,0,1,4,1
+2026-06-24,The Greenbrier Companies,5,3,0,2,3
+2026-06-24,The Hartford Insurance,6,4,0,2,4
+2026-06-24,The Hershey Company,7,5,0,2,5
+2026-06-24,The Home Depot Inc,5,3,0,2,3
+2026-06-24,The Kraft Group,6,2,0,4,2
+2026-06-24,The Michaels Companies,7,4,0,3,4
+2026-06-24,The Mosaic Company,6,3,0,3,3
+2026-06-24,The Travelers Indemnity Company,9,6,0,3,6
+2026-06-24,The Walt Disney Company,5,3,0,2,3
+2026-06-24,The Wella Company,7,3,0,4,3
+2026-06-24,The Wonderful Company,7,4,0,0,7
+2026-06-24,The Yates Companies,7,3,0,4,3
+2026-06-24,Thermo Fisher Scientific,5,4,0,1,4
+2026-06-24,Thrivent Financial for Lutherans,7,3,0,4,3
+2026-06-24,Ticketmaster,7,5,0,2,5
+2026-06-24,Timken,9,5,0,4,5
+2026-06-24,Titan Machinery,6,3,0,2,4
+2026-06-24,Toast Inc,8,6,0,2,6
+2026-06-24,Toll Brothers,5,4,0,1,4
+2026-06-24,TopBuild,7,4,0,3,4
+2026-06-24,Topgolf Callaway Brands,7,2,0,4,3
+2026-06-24,Toro Company,6,5,0,1,5
+2026-06-24,Tractor Supply Company,6,3,0,3,3
+2026-06-24,Trammo Inc,10,6,0,4,6
+2026-06-24,TransDigm,6,2,0,4,2
+2026-06-24,TransUnion,7,4,0,2,5
+2026-06-24,Transportation Insight,7,3,1,3,3
+2026-06-24,TreeHouse Foods,9,5,0,4,5
+2026-06-24,Tri Pointe Homes,5,3,0,2,3
+2026-06-24,TriMark USA,6,3,0,3,3
+2026-06-24,TriNet Group,6,2,0,4,2
+2026-06-24,Trident Seafoods,6,3,0,3,3
+2026-06-24,Trimble Inc,6,4,0,2,4
+2026-06-24,Trinity Industries,9,3,0,6,3
+2026-06-24,TruStage,7,4,0,3,4
+2026-06-24,Truist Financial,7,5,0,2,5
+2026-06-24,Turner Industries,7,4,0,3,4
+2026-06-24,Tutor Perini Corporation,7,5,0,2,5
+2026-06-24,Twilio,5,4,0,1,4
+2026-06-24,Tyson Foods,6,4,0,2,4
+2026-06-24,U-Haul,7,4,0,2,5
+2026-06-24,UFP Industries,6,4,0,2,4
+2026-06-24,UGI Utilities Inc,6,4,0,2,4
+2026-06-24,UKG,6,5,0,1,5
+2026-06-24,UL Solutions,6,2,0,3,3
+2026-06-24,UPS,8,6,0,0,8
+2026-06-24,US Bancorp,6,3,0,3,3
+2026-06-24,US Foods,6,4,0,2,4
+2026-06-24,US LBM Holdings,7,3,0,4,3
+2026-06-24,USAA,6,4,0,2,4
+2026-06-24,Uber Technologies,6,3,0,3,3
+2026-06-24,Uline,7,5,0,2,5
+2026-06-24,Ulta Beauty,6,3,0,1,5
+2026-06-24,Under Armour,7,5,0,2,5
+2026-06-24,Union Pacific,2,1,0,1,1
+2026-06-24,United Airlines,5,3,1,0,4
+2026-06-24,United Natural Foods,6,3,0,0,6
+2026-06-24,United Rentals,5,2,0,0,5
+2026-06-24,United States Steel,6,2,0,0,6
+2026-06-24,UnitedHealth,6,2,0,4,2
+2026-06-24,Univar Solutions,6,3,0,3,3
+2026-06-24,Universal Corporation,7,2,0,4,3
+2026-06-24,Universal Health Services,7,4,0,3,4
+2026-06-24,Unum Group,7,4,0,2,5
+2026-06-24,Upbound Group,6,2,0,4,2
+2026-06-24,Urban Outfitters,5,3,0,2,3
+2026-06-24,V2X,6,3,0,2,4
+2026-06-24,VF Corporation,5,2,0,3,2
+2026-06-24,VICI Properties,6,2,0,4,2
+2026-06-24,Vail Resorts,6,3,0,3,3
+2026-06-24,Valero Energy,4,2,0,0,4
+2026-06-24,Valley National Bancorp,6,3,0,3,3
+2026-06-24,Valmont Industries,6,3,0,3,3
+2026-06-24,Valve Corporation,7,5,0,2,5
+2026-06-24,Valvoline Inc,7,3,0,4,3
+2026-06-24,Ventas Inc,8,2,0,6,2
+2026-06-24,Verisk Analytics,6,3,0,3,3
+2026-06-24,Verizon,5,3,0,2,3
+2026-06-24,Vertex Pharmaceuticals,7,3,0,4,3
+2026-06-24,Vertiv,7,5,0,2,5
+2026-06-24,Viasat,6,3,0,3,3
+2026-06-24,Viatris,6,4,0,2,4
+2026-06-24,Victorias Secret,6,5,0,1,5
+2026-06-24,Visa Inc,7,2,0,4,3
+2026-06-24,Vishay Intertechnology,6,2,0,4,2
+2026-06-24,Vista Equity Partners,5,3,0,2,3
+2026-06-24,Vista Outdoor,8,4,0,4,4
+2026-06-24,Visteon,6,3,0,3,3
+2026-06-24,Vistra,5,1,0,4,1
+2026-06-24,Vital Farms,5,3,1,0,4
+2026-06-24,Vontier,6,2,0,3,3
+2026-06-24,Voya Financial,7,5,0,2,5
+2026-06-24,Vulcan Materials,6,4,0,2,4
+2026-06-24,W L Gore & Associates,9,1,1,6,2
+2026-06-24,WEC Energy,6,2,0,0,6
+2026-06-24,WESCO International,9,5,0,4,5
+2026-06-24,WEX,9,7,0,2,7
+2026-06-24,WM,6,3,1,2,3
+2026-06-24,WME Group,6,3,0,2,4
+2026-06-24,WR Berkley,8,0,1,7,0
+2026-06-24,WW Grainger,6,3,0,3,3
+2026-06-24,Wabash National,5,2,0,3,2
+2026-06-24,Wabtec,7,3,0,4,3
+2026-06-24,Walbridge,7,3,0,4,3
+2026-06-24,Walmart,6,5,0,1,5
+2026-06-24,Walsh Group,7,5,0,2,5
+2026-06-24,Warner Bros Discovery,6,4,0,2,4
+2026-06-24,Warner Music Group,5,4,0,1,4
+2026-06-24,Wasserman,6,3,0,2,4
+2026-06-24,Waters Corporation,8,5,0,2,6
+2026-06-24,Watsco,6,2,0,3,3
+2026-06-24,Wawa,5,3,0,2,3
+2026-06-24,Wayfair,5,4,0,1,4
+2026-06-24,Webster Financial,6,3,0,3,3
+2026-06-24,Wegmans Food Markets,6,4,0,2,4
+2026-06-24,Weis Markets,7,4,0,3,4
+2026-06-24,Wells Fargo,6,4,0,1,5
+2026-06-24,Welltower,6,2,0,1,5
+2026-06-24,Werner Enterprises,4,2,0,2,2
+2026-06-24,West Pharmaceutical Services,6,3,0,3,3
+2026-06-24,Western & Southern Financial,7,2,0,5,2
+2026-06-24,Western Alliance Bancorp,7,3,0,4,3
+2026-06-24,Western Digital,6,2,0,3,3
+2026-06-24,Western Midstream Partners,7,0,0,6,1
+2026-06-24,Western Union,6,5,0,1,5
+2026-06-24,Westlake Corporation,5,3,0,2,3
+2026-06-24,Weyerhaeuser,6,3,0,3,3
+2026-06-24,Whirlpool Corporation,4,3,0,1,3
+2026-06-24,White & Case,5,3,0,2,3
+2026-06-24,Whiting-Turner Contracting,7,2,1,4,2
+2026-06-24,Wilbur-Ellis Company,7,5,0,2,5
+2026-06-24,Williams Companies,9,2,0,6,3
+2026-06-24,Williams-Sonoma,6,5,0,1,5
+2026-06-24,WinCo Foods,7,2,0,5,2
+2026-06-24,Winnebago Industries,5,3,0,2,3
+2026-06-24,Wintrust Financial,7,4,0,1,6
+2026-06-24,Woodward Inc,7,4,0,3,4
+2026-06-24,Workday,6,5,0,1,5
+2026-06-24,World Kinect Corporation,1,0,0,1,0
+2026-06-24,World Wide Technology,7,0,0,7,0
+2026-06-24,Worthington Enterprises,6,3,0,3,3
+2026-06-24,Wynn Resorts,6,3,0,3,3
+2026-06-24,XPO,6,3,0,3,3
+2026-06-24,Xcel Energy,5,3,0,0,5
+2026-06-24,Xerox,6,3,0,3,3
+2026-06-24,Xylem Inc,6,3,0,3,3
+2026-06-24,Yum Brands,10,6,0,4,6
+2026-06-24,Zachry Holdings,5,3,1,1,3
+2026-06-24,Zebra Technologies,1,0,0,1,0
+2026-06-24,Zimmer Biomet,6,6,0,0,6
+2026-06-24,Zions Bancorp,9,6,0,3,6
+2026-06-24,Zoetis,6,5,0,1,5
+2026-06-24,Zones LLC,6,4,0,2,4
+2026-06-24,Zoom Video Communications,8,6,0,2,6
+2026-06-24,eXp World,6,5,0,1,5
+2026-06-24,iHeartMedia,7,4,0,2,5
